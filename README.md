@@ -1,6 +1,6 @@
-# bookmarks
+# MyDesignResources
 
 
-#stockphotography
+#stockphotography:
 
 * [gratisography](http://www.gratisography.com/)
