@@ -1,7 +1,7 @@
 Just a bunch of my favorite resources for stuff.
 
 
-#MyFavoriteDesignResources
+#My Favorite Design Resources
 
 
 #Stock Photography:
