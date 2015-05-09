@@ -19,4 +19,4 @@ Just a bunch of my favorite resources for stuff.
 * [useful sass snippets](http://hmphry.com/useful-sass-mixins) - five really useful snippets
 
 ###Tutorials
-*[getting started with bourbon, neat and bitters] (http://www.git-tower.com/learn/bourbon-neat-bitters/getting-ready/introduction#start)
+* [getting started with bourbon, neat and bitters] (http://www.git-tower.com/learn/bourbon-neat-bitters/getting-ready/introduction#start)
