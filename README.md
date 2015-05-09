@@ -1,7 +1,6 @@
-Just a bunch of my favorite resources for stuff.
-
-
 #My Favorite Design & Coding Resources
+
+Just a bunch of my favorite resources for stuff.
 
 #DESIGN
 
