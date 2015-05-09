@@ -10,7 +10,8 @@ Stock Photography:
 * [ui faces] (http://uifaces.com/) - stock faces for ui elements
 
 Typography
-* [font pair] (http://fontpair.co/) - helps pair google fonts together
+* [font pair] (http://fontpair.co/) - google font pairing
+* [just my type] (http://justmytype.co/typekit/) - typekit font pairing
 
 #CODE
 
