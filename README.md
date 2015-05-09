@@ -19,13 +19,13 @@ Just a bunch of my favorite resources for stuff.
 #DEVELOPMENT
 
 ##Bootcamps
-* [apprentice.io] (http://www.apprentice.io/) - a professional development program from thoughtbot
-* [careerfoundry] (http://careerfoundry.com/)
 * [app academy] (http://www.appacademy.io/#p-home)
+* [apprentice.io] (http://www.apprentice.io/) - a professional development program from thoughtbot
 * [braindstation.io] (http://www.brainstation.io/)
-* [udacity] (https://www.udacity.com/)
-* [tealeaf academy] (http://www.gotealeaf.com/)
+* [careerfoundry] (http://careerfoundry.com/)
 * [firehose] (http://www.thefirehoseproject.com/)
+* [tealeaf academy] (http://www.gotealeaf.com/)
+* [udacity] (https://www.udacity.com/)
 
 ##Sass
 * [useful sass snippets](http://hmphry.com/useful-sass-mixins) - five really useful snippets
