@@ -12,6 +12,7 @@ Just a bunch of my favorite resources for stuff.
 ##Typography
 * [font pair] (http://fontpair.co/) - google font pairing
 * [just my type] (http://justmytype.co/typekit/) - typekit font pairing
+* [font library] (http://katydecorah.com/font-library/#/heavy/) - an open source project to tag and organize google fonts
 
 #CODE
 
