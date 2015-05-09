@@ -13,4 +13,4 @@ Stock Photography:
 #CODE
 
 Sass:
-*[useful sass snippets](http://hmphry.com/useful-sass-mixins) - five really useful snippets
+* [useful sass snippets](http://hmphry.com/useful-sass-mixins) - five really useful snippets
