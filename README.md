@@ -18,7 +18,7 @@ Just a bunch of my favorite resources for stuff.
 
 #DEVELOPMENT
 
-#Bootcamps
+##Bootcamps
 * [apprentice.io] (http://www.apprentice.io/) - a professional development program from thoughtbot
 
 ##Sass
