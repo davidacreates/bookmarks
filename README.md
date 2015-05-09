@@ -20,3 +20,4 @@ Just a bunch of my favorite resources for stuff.
 
 ###Tutorials
 * [getting started with bourbon, neat and bitters] (http://www.git-tower.com/learn/bourbon-neat-bitters/getting-ready/introduction#start)
+* [learning version control with git] (http://www.git-tower.com/learn/git/ebook/command-line/introduction)
