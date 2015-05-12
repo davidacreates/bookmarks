@@ -28,6 +28,7 @@ Just a bunch of my favorite resources for stuff.
 * [udacity] (https://www.udacity.com/)
 
 ##CSS
+* [colorful css buttons] (http://codepen.io/chrisdothtml/pen/waKBdM) - animated buttons on codepen
 * [how to center css] (http://howtocenterincss.com/) -  a neat form that spits out code for the parameters you pass it
 
 ##Sass
