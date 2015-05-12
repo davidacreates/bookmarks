@@ -27,6 +27,9 @@ Just a bunch of my favorite resources for stuff.
 * [tealeaf academy] (http://www.gotealeaf.com/)
 * [udacity] (https://www.udacity.com/)
 
+##CSS
+* [how to center css] (http://howtocenterincss.com/) -  a neat form that spits out code for the parameters you pass it
+
 ##Sass
 * [useful sass snippets](http://hmphry.com/useful-sass-mixins) - five really useful snippets
 
