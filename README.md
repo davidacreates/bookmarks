@@ -31,6 +31,8 @@ Just a bunch of my favorite resources for stuff.
 * [colorful css buttons] (http://codepen.io/chrisdothtml/pen/waKBdM) - animated buttons on codepen
 * [how to center css] (http://howtocenterincss.com/) -  a neat form that spits out code for the parameters you pass it
 
+##Responsive
+* [RWD Resources] (http://bradfrost.github.io/this-is-responsive/resources.html) - compilation of RWD resources by Brad Frost
 ##Sass
 * [useful sass snippets](http://hmphry.com/useful-sass-mixins) - five really useful snippets
 
