@@ -8,7 +8,8 @@ Just a bunch of my favorite resources for stuff.
 * [really good emails] (http://reallygoodemails.com/) - a collection fo great emails
 
 ##Inspiration
-* [70 Stunning Responsive Sites] (http://insights.mobify.com/70-stunning-responsive-sites-for-your-inspiration/) - great list of websites for inspiratiion
+* [70 stunning responsive sites] (http://insights.mobify.com/70-stunning-responsive-sites-for-your-inspiration/) - great list of websites for inspiratiion
+* [zurb responsive sites] (http://zurb.com/responsive) - great gallery of responsive sites from different frameworks
 
 ##Stock Photography
 * [gratisography](http://www.gratisography.com/) - hi quality creative commons images
