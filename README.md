@@ -33,6 +33,7 @@ Just a bunch of my favorite resources for stuff.
 
 ##Responsive Web Design
 * [rwd resources] (http://bradfrost.github.io/this-is-responsive/resources.html) - compilation of RWD resources by Brad Frost
+
 ##Sass
 * [useful sass snippets](http://hmphry.com/useful-sass-mixins) - five really useful snippets
 
