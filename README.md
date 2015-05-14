@@ -7,6 +7,9 @@ Just a bunch of my favorite resources for stuff.
 ##Email
 * [really good emails] (http://reallygoodemails.com/) - a collection fo great emails
 
+##Inspiration
+* [70 Stunning Responsive Sites] (http://insights.mobify.com/70-stunning-responsive-sites-for-your-inspiration/) - great list of websites for inspiratiion
+
 ##Stock Photography
 * [gratisography](http://www.gratisography.com/) - hi quality creative commons images
 * [ui faces] (http://uifaces.com/) - stock faces for ui elements
