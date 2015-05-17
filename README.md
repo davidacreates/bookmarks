@@ -39,6 +39,7 @@ Just a bunch of my favorite resources for stuff.
 * [ultimate rwd resources] (http://bradfrost.github.io/this-is-responsive/resources.html) - compilation of RWD resources by Brad Frost
 * [ish responsive stress test] (http://bradfrost.com/demo/ish/) - great tool to research possible breakpoints]
 * [web style guides resources] (http://styleguides.io/) - includes pattern libraries and tool resources for RWD
+* [responsive design cheatsheet] (https://uxpin.s3.amazonaws.com/responsive_web_design_cheatsheet.pdf) - graphic of device measurements for breakpoints
 
 ##Sass
 * [useful sass snippets](http://hmphry.com/useful-sass-mixins) - five really useful snippets
