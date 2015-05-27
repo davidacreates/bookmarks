@@ -26,7 +26,7 @@ Just a bunch of my favorite resources for stuff.
 * [font library] (http://katydecorah.com/font-library/#/heavy/) - an open source project to tag and organize google fonts
 
 ##Wireframing
-*[justinmind] (http://www.justinmind.com/) - interactive wireframing
+* [justinmind] (http://www.justinmind.com/) - interactive wireframing
 
 #DEVELOPMENT
 
