@@ -16,6 +16,7 @@ Just a bunch of my favorite resources for stuff.
 * [sketch plugins directory] (https://github.com/sketchplugins/plugin-directory)
 
 ##Stock Photography
+* [pexels] (http://www.pexels.com/) - all the free stock photography in one place
 * [gratisography](http://www.gratisography.com/) - hi quality creative commons images
 * [ui faces] (http://uifaces.com/) - stock faces for ui elements
 
