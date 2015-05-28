@@ -24,6 +24,7 @@ Just a bunch of my favorite resources for stuff.
 * [font pair] (http://fontpair.co/) - google font pairing
 * [just my type] (http://justmytype.co/typekit/) - typekit font pairing
 * [font library] (http://katydecorah.com/font-library/#/heavy/) - an open source project to tag and organize google fonts
+* [ typo guide ] (http://www.typogui.de/) - a pocket guide to master every day’s typographic adventures
 
 ##Wireframing
 * [justinmind] (http://www.justinmind.com/) - interactive wireframing
