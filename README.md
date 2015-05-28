@@ -14,6 +14,7 @@ Just a bunch of my favorite resources for stuff.
 ##Sketch
 * [sketch app sources] (http://www.sketchappsources.com/) - free sketch resources
 * [sketch plugins directory] (https://github.com/sketchplugins/plugin-directory)
+* [sketch shortcuts] (http://sketchshortcuts.com/) - all of sketch's shortcuts listed
 
 ##Stock Photography
 * [pexels] (http://www.pexels.com/) - all the free stock photography in one place
