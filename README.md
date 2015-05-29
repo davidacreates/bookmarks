@@ -51,6 +51,7 @@ Just a bunch of my favorite resources for stuff.
 * [web style guides resources] (http://styleguides.io/) - includes pattern libraries and tool resources for RWD
 * [responsive design cheatsheet] (https://uxpin.s3.amazonaws.com/responsive_web_design_cheatsheet.pdf) - graphic of device measurements for breakpoints
 * [everything there is to know about flexbox] (http://www.designyourway.net/blog/design/everything-there-is-to-know-about-flexbox/) - good round up of articles about flexbox
+* [screen sizes] (http://screensiz.es/phone) - a list of screen size specs for various devices
 
 ##Sass
 * [useful sass snippets](http://hmphry.com/useful-sass-mixins) - five really useful snippets
