@@ -50,7 +50,7 @@ Just a bunch of my favorite resources for stuff.
 * [ish responsive stress test] (http://bradfrost.com/demo/ish/) - great tool to research possible breakpoints]
 * [web style guides resources] (http://styleguides.io/) - includes pattern libraries and tool resources for RWD
 * [responsive design cheatsheet] (https://uxpin.s3.amazonaws.com/responsive_web_design_cheatsheet.pdf) - graphic of device measurements for breakpoints
-* [everything there is to know about flexbox] - (http://www.designyourway.net/blog/design/everything-there-is-to-know-about-flexbox/) - good round up of articles about flexbox
+* [everything there is to know about flexbox] (http://www.designyourway.net/blog/design/everything-there-is-to-know-about-flexbox/) - good round up of articles about flexbox
 
 ##Sass
 * [useful sass snippets](http://hmphry.com/useful-sass-mixins) - five really useful snippets
