@@ -48,6 +48,10 @@ Just a bunch of my favorite resources for stuff.
 * [colorful css buttons] (http://codepen.io/chrisdothtml/pen/waKBdM) - animated buttons on codepen
 * [how to center css] (http://howtocenterincss.com/) -  a neat form that spits out code for the parameters you pass it
 
+##Frameworks
+* [materialize] (http://materializecss.com/) - material design front end framework
+
+
 ##Responsive Web Design
 * [ultimate rwd resources] (http://bradfrost.github.io/this-is-responsive/resources.html) - compilation of RWD resources by Brad Frost
 * [ish responsive stress test] (http://bradfrost.com/demo/ish/) - great tool to research possible breakpoints]
