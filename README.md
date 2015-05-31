@@ -6,6 +6,7 @@ Just a bunch of my favorite resources for stuff.
 
 #Color
 * [material palette] (http://www.materialpalette.com/) - a material design color palette generator
+* [flat ui color picker] (http://www.flatuicolorpicker.com/) - a flat ui color picker
 
 ##Email
 * [really good emails] (http://reallygoodemails.com/) - a collection fo great emails
