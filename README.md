@@ -41,6 +41,9 @@ Just a bunch of my favorite resources for stuff.
 * [tealeaf academy] (http://www.gotealeaf.com/)
 * [udacity] (https://www.udacity.com/)
 
+##Analytics
+* [optimizely] (https://www.optimizely.com/) - A/B testing tool
+
 ##CSS
 * [colorful css buttons] (http://codepen.io/chrisdothtml/pen/waKBdM) - animated buttons on codepen
 * [how to center css] (http://howtocenterincss.com/) -  a neat form that spits out code for the parameters you pass it
