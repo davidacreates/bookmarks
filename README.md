@@ -4,6 +4,9 @@ Just a bunch of my favorite resources for stuff.
 
 #DESIGN
 
+#Color
+* [material palette] (http://www.materialpalette.com/) - a material design color palette generator
+
 ##Email
 * [really good emails] (http://reallygoodemails.com/) - a collection fo great emails
 
