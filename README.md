@@ -32,6 +32,9 @@ Just a bunch of my favorite resources for stuff.
 
 #DEVELOPMENT
 
+##Analytics
+* [optimizely] (https://www.optimizely.com/) - A/B testing tool
+
 ##Bootcamps
 * [app academy] (http://www.appacademy.io/#p-home)
 * [apprentice.io] (http://www.apprentice.io/) - a professional development program from thoughtbot
@@ -40,9 +43,6 @@ Just a bunch of my favorite resources for stuff.
 * [firehose] (http://www.thefirehoseproject.com/)
 * [tealeaf academy] (http://www.gotealeaf.com/)
 * [udacity] (https://www.udacity.com/)
-
-##Analytics
-* [optimizely] (https://www.optimizely.com/) - A/B testing tool
 
 ##CSS
 * [colorful css buttons] (http://codepen.io/chrisdothtml/pen/waKBdM) - animated buttons on codepen
