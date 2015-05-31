@@ -15,13 +15,13 @@ Just a bunch of my favorite resources for stuff.
 * [zurb responsive sites] (http://zurb.com/responsive) - great gallery of responsive sites from different frameworks
 
 ##Resources/Freebies
-* [freeble] (http://freebbble.com/) - design freebies made by dribbble folks
+* [freebbble] (http://freebbble.com/) - design freebies made by dribbble folks
 
 ##Sketch
 * [sketch app sources] (http://www.sketchappsources.com/) - free sketch resources
 * [sketch plugins directory] (https://github.com/sketchplugins/plugin-directory)
 * [sketch shortcuts] (http://sketchshortcuts.com/) - all of sketch's shortcuts listed
-* [freeble] (http://freebbble.com/) - design freebies made by dribbble folks
+* [freebbble] (http://freebbble.com/) - design freebies made by dribbble folks
 
 ##Stock Photography
 * [pexels] (http://www.pexels.com/) - all the free stock photography in one place
