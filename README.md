@@ -14,10 +14,14 @@ Just a bunch of my favorite resources for stuff.
 * [70 stunning responsive sites] (http://insights.mobify.com/70-stunning-responsive-sites-for-your-inspiration/) - great list of websites for inspiratiion
 * [zurb responsive sites] (http://zurb.com/responsive) - great gallery of responsive sites from different frameworks
 
+##Resources/Freebies
+* [freeble] (http://freebbble.com/) - design freebies made by dribbble folks
+
 ##Sketch
 * [sketch app sources] (http://www.sketchappsources.com/) - free sketch resources
 * [sketch plugins directory] (https://github.com/sketchplugins/plugin-directory)
 * [sketch shortcuts] (http://sketchshortcuts.com/) - all of sketch's shortcuts listed
+* [freeble] (http://freebbble.com/) - design freebies made by dribbble folks
 
 ##Stock Photography
 * [pexels] (http://www.pexels.com/) - all the free stock photography in one place
@@ -58,7 +62,6 @@ Just a bunch of my favorite resources for stuff.
 ##Frameworks
 * [materialize] (http://materializecss.com/) - material design front end framework
 * [web starter kit] (https://developers.google.com/web/tools/starter-kit/) - google framework
-
 
 ##Responsive Web Design
 * [ultimate rwd resources] (http://bradfrost.github.io/this-is-responsive/resources.html) - compilation of RWD resources by Brad Frost
