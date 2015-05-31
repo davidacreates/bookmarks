@@ -50,6 +50,8 @@ Just a bunch of my favorite resources for stuff.
 
 ##Analytics
 * [optimizely] (https://www.optimizely.com/) - A/B testing tool
+* [sumo me] (http://sumome.com/) - A/B testing tool
+* [hotjar] (http://hotjar.com) - A/B testing tool
 
 ##Bootcamps
 * [app academy] (http://www.appacademy.io/#p-home)
