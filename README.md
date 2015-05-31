@@ -53,7 +53,7 @@ Just a bunch of my favorite resources for stuff.
 ##CSS
 * [colorful css buttons] (http://codepen.io/chrisdothtml/pen/waKBdM) - animated buttons on codepen
 * [how to center css] (http://howtocenterincss.com/) -  a neat form that spits out code for the parameters you pass it
-* [a to z css] (http://www.atozcss.com/) - free css screencast tutorials for designers & developers
+* [a to z css] (http://www.atozcss.com/) - free css screencasts tutorials for designers & developers
 
 ##Frameworks
 * [materialize] (http://materializecss.com/) - material design front end framework
@@ -78,4 +78,4 @@ Just a bunch of my favorite resources for stuff.
 ###Tutorials
 * [bourbon, neat and bitters: getting started] (http://www.git-tower.com/learn/bourbon-neat-bitters/getting-ready/introduction#start)
 * [learning version control with git] (http://www.git-tower.com/learn/git/ebook/command-line/introduction)
-* [a to z css] (http://www.atozcss.com/) - free css screencast tutorials for designers & developers
+* [a to z css] (http://www.atozcss.com/) - free css screencasts tutorials for designers & developers
