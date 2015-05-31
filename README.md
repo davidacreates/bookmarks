@@ -50,7 +50,8 @@ Just a bunch of my favorite resources for stuff.
 ##CSS
 * [colorful css buttons] (http://codepen.io/chrisdothtml/pen/waKBdM) - animated buttons on codepen
 * [how to center css] (http://howtocenterincss.com/) -  a neat form that spits out code for the parameters you pass it
-* ####Tutorials
+
+####Tutorials
 
 ##Frameworks
 * [materialize] (http://materializecss.com/) - material design front end framework
