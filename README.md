@@ -80,6 +80,10 @@ Just a bunch of my favorite resources for stuff.
 * [materialize] (http://materializecss.com/) - material design front end framework
 * [web starter kit] (https://developers.google.com/web/tools/starter-kit/) - google framework
 
+##Icons
+* [google material icons] (https://www.google.com/design/icons/)
+* [font awesome] (http://fortawesome.github.io/Font-Awesome/)
+
 ##Responsive Web Design
 * [ultimate rwd resources] (http://bradfrost.github.io/this-is-responsive/resources.html) - compilation of RWD resources by Brad Frost
 * [ish responsive stress test] (http://bradfrost.com/demo/ish/) - great tool to research possible breakpoints]
