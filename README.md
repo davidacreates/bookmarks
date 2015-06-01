@@ -20,6 +20,10 @@ Just a bunch of my favorite resources for stuff.
 ##Email
 * [really good emails] (http://reallygoodemails.com/) - a collection fo great emails
 
+##Icons
+* [google material icons] (https://www.google.com/design/icons/)
+* [font awesome] (http://fortawesome.github.io/Font-Awesome/)
+
 ##Inspiration
 * [70 stunning responsive sites] (http://insights.mobify.com/70-stunning-responsive-sites-for-your-inspiration/) - great list of websites for inspiratiion
 * [zurb responsive sites] (http://zurb.com/responsive) - great gallery of responsive sites from different frameworks
@@ -48,6 +52,7 @@ Just a bunch of my favorite resources for stuff.
 * [justinmind] (http://www.justinmind.com/) - interactive wireframing
 
 
+<br>
 
 
 #DEVELOPMENT
