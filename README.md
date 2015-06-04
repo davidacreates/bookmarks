@@ -93,7 +93,7 @@ Just a bunch of my favorite resources for stuff.
 * [responsive design cheatsheet] (https://uxpin.s3.amazonaws.com/responsive_web_design_cheatsheet.pdf) - graphic of device measurements for breakpoints
 * [everything there is to know about flexbox] (http://www.designyourway.net/blog/design/everything-there-is-to-know-about-flexbox/) - good round up of articles about flexbox
 * [screen sizes] (http://screensiz.es/phone) - a list of screen size specs for various devices
-* [how to mae wordpress images responsive] (http://www.webdesignerdepot.com/2015/06/how-to-make-wordpress-images-responsive/)
+* [how to make wordpress images responsive] (http://www.webdesignerdepot.com/2015/06/how-to-make-wordpress-images-responsive/)
 
 ##Sass
 * [useful sass snippets](http://hmphry.com/useful-sass-mixins) - five really useful snippets
