@@ -63,6 +63,7 @@ Just a bunch of my favorite resources for stuff.
 * [optimizely] (https://www.optimizely.com/) - A/B testing tool
 * [sumo me] (http://sumome.com/) - A/B testing tool
 * [hotjar] (http://hotjar.com) - A/B testing tool
+* [50 A/B split tests to optimize your site to perfection] (http://sujanpatel.com/marketing/ab-testing/)
 
 ##Bootcamps
 * [app academy] (http://www.appacademy.io/#p-home)
