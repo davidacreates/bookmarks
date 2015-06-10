@@ -82,9 +82,10 @@ Just a bunch of my favorite resources for stuff.
 * [how to center css] (http://howtocenterincss.com/) -  a neat form that spits out code for the parameters you pass it
 * [a to z css] (http://www.atozcss.com/) - free css screencasts tutorials for designers & developers
 
-##Frameworks
+##Frameworks / Boilerplates
 * [materialize] (http://materializecss.com/) - material design front end framework
 * [web starter kit] (https://developers.google.com/web/tools/starter-kit/) - google framework
+* [digital telepathy grunt boilerplate] (https://github.com/digital-telepathy/)
 
 ##Icons
 * [google material icons] (https://www.google.com/design/icons/)
