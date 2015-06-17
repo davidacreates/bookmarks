@@ -23,6 +23,9 @@ Just a bunch of my favorite resources for stuff.
 ##Icons
 * [google material icons] (https://www.google.com/design/icons/)
 * [font awesome] (http://fortawesome.github.io/Font-Awesome/)
+* [ionicons] (http://ionicons.com/) - free open source icons with CDN
+* [noun project] (https://thenounproject.com/)
+* [streamline icons] (http://www.streamlineicons.com/) - 4000 vector icons
 
 ##Inspiration
 * [70 stunning responsive sites] (http://insights.mobify.com/70-stunning-responsive-sites-for-your-inspiration/) - great list of websites for inspiratiion
