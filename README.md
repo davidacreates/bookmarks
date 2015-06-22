@@ -40,11 +40,12 @@ Just a bunch of my favorite resources for stuff.
 * [sketch shortcuts] (http://sketchshortcuts.com/) - all of sketch's shortcuts listed
 * [freebbble] (http://freebbble.com/) - design freebies made by dribbble folks
 
-##Stock Photography
+##Stock Media
 * [pexels] (http://www.pexels.com/) - all the free stock photography in one place
 * [gratisography](http://www.gratisography.com/) - hi quality creative commons images
 * [ui faces] (http://uifaces.com/) - stock faces for ui elements
 * [death to stock photos] (http://deathtothestockphoto.com/)
+* [coverr] (http://www.coverr.co/) - beautiful stock video delivered daily
 
 ##Typography
 * [ typo guide ] (http://www.typogui.de/) - a pocket guide to master every day’s typographic adventures
