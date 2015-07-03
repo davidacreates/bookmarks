@@ -1,4 +1,4 @@
-#My Favorite Design & Coding Resources
+#My Favorite Design, Marketing & Coding Resources
 
 Just a bunch of my favorite resources for stuff.
 
@@ -16,9 +16,6 @@ Just a bunch of my favorite resources for stuff.
 * [google material design color style] (http://www.google.com/design/spec/style/color.html#color-color-palette) - full color palettes for google material design
 * [material palette] (http://www.materialpalette.com/) - a material design color palette generator
 * [flat ui color picker] (http://www.flatuicolorpicker.com/) - a flat ui color picker
-
-##Email
-* [really good emails] (http://reallygoodemails.com/) - a collection fo great emails
 
 ##Icons
 * [google material icons] (https://www.google.com/design/icons/)
@@ -117,3 +114,12 @@ Just a bunch of my favorite resources for stuff.
 * [bourbon, neat and bitters: getting started] (http://www.git-tower.com/learn/bourbon-neat-bitters/getting-ready/introduction#start)
 * [learning version control with git] (http://www.git-tower.com/learn/git/ebook/command-line/introduction)
 * [a to z css] (http://www.atozcss.com/) - free css screencasts tutorials for designers & developers
+
+
+#Marketing
+
+##Email
+* [really good emails] (http://reallygoodemails.com/) - a collection fo great emails
+
+##Traffic & Engagement
+* [sumo me] (http://sumome.com/) - Tools to Grow Your Website’s Traffic
