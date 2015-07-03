@@ -119,7 +119,14 @@ Just a bunch of my favorite resources for stuff.
 #Marketing
 
 ##Email
-* [really good emails] (http://reallygoodemails.com/) - a collection fo great emails
+* [really good emails] (http://reallygoodemails.com/) - a collection for great emails
 
 ##Traffic & Engagement
-* [sumo me] (http://sumome.com/) - Tools to Grow Your Website’s Traffic
+* [sumo me] (http://sumome.com/) - website traffic growth tool
+* [lead pages] (http://www.leadpages.net/products/?banner=video) - lead generation tool
+* [exit monitor] (http://exitmonitor.com/) - turn your abandoning visitors into customers
+* [wBounce] (https://wordpress.org/plugins/wbounce/) - improves bounce rate to boost conversions and sales
+* [kingsumo] (http://kingsumo.com/) - grow your traffic by viral giveaways
+
+##Video
+* [wistia] (http://wistia.com/) - great video hosting platform
