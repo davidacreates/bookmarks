@@ -28,6 +28,7 @@ Just a bunch of my favorite resources for stuff.
 * [70 stunning responsive sites] (http://insights.mobify.com/70-stunning-responsive-sites-for-your-inspiration/) - great list of websites for inspiratiion
 * [zurb responsive sites] (http://zurb.com/responsive) - great gallery of responsive sites from different frameworks
 * [lapa] (http://lapa.ninja/) - landing page design inspiration
+* [stumbbble] (http://www.stumbbble.com/) - browse designer portfolio sites
 
 ##Resources/Freebies
 * [freebbble] (http://freebbble.com/) - design freebies made by dribbble folks
