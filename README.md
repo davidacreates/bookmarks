@@ -29,6 +29,7 @@ Just a bunch of my favorite resources for stuff.
 * [zurb responsive sites] (http://zurb.com/responsive) - great gallery of responsive sites from different frameworks
 * [lapa] (http://lapa.ninja/) - landing page design inspiration
 * [stumbbble] (http://www.stumbbble.com/) - browse designer portfolio sites
+* [beta list] (http://betalist.com/) - discover new start ups early
 
 ##Resources/Freebies
 * [freebbble] (http://freebbble.com/) - design freebies made by dribbble folks
