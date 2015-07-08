@@ -106,6 +106,7 @@ Just a bunch of my favorite resources for stuff.
 
 ##Sass
 * [useful sass snippets](http://hmphry.com/useful-sass-mixins) - five really useful snippets
+* [How to structure your typography in Sass] (http://chipcullen.com/how-to-structure-your-typography-in-sass/)
 
 ##Specs
 * [zeplin] (https://zeplin.io/) - nice specing tool available for sketch only
