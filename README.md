@@ -121,6 +121,9 @@ Just a bunch of my favorite resources for stuff.
 
 #Marketing
 
+##Blogging
+* [buzz sumo] (https://app.buzzsumo.com/) - trending topics
+
 ##Email
 * [really good emails] (http://reallygoodemails.com/) - a collection for great emails
 
