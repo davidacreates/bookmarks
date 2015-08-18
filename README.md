@@ -54,6 +54,7 @@ Just a bunch of my favorite resources for stuff.
 * [just my type] (http://justmytype.co/typekit/) - typekit font pairing
 * [font library] (http://katydecorah.com/font-library/#/heavy/) - an open source project to tag and organize google fonts
 * [a more modern scale for web typography] (http://typecast.com/blog/a-more-modern-scale-for-web-typography)
+* [font cdn] (http://fontcdn.org/) - directory of google fonts displayed elegantly
 
 ##Wireframing
 * [justinmind] (http://www.justinmind.com/) - interactive wireframing
