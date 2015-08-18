@@ -16,6 +16,7 @@ Just a bunch of my favorite resources for stuff.
 * [google material design color style] (http://www.google.com/design/spec/style/color.html#color-color-palette) - full color palettes for google material design
 * [material palette] (http://www.materialpalette.com/) - a material design color palette generator
 * [flat ui color picker] (http://www.flatuicolorpicker.com/) - a flat ui color picker
+* [color hunt] (http://colorhunt.co/) - curated collection of beautiful colors
 
 ##Icons
 * [google material icons] (https://www.google.com/design/icons/)
