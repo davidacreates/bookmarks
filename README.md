@@ -38,7 +38,6 @@ Just a bunch of my favorite resources for stuff.
 * [web design inspiration] (http://www.webdesign-inspiration.com/)
 * [siiimple] (http://www.siiimple.com/)
 * [web creme] (http://www.webcreme.com/)
-* 
 
 ##Resources/Freebies
 * [freebbble] (http://freebbble.com/) - design freebies made by dribbble folks
