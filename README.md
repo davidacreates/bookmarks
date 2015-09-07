@@ -32,6 +32,13 @@ Just a bunch of my favorite resources for stuff.
 * [beta list] (http://betalist.com/) - discover new start ups early
 * [site inspire] (http://www.siteinspire.com/) - gallery of inspirational websites
 * [awwwards] (http://www.awwwards.com/) - gallery of inspirational websites
+* [one page love] (https://onepagelove.com/) - gallery of one page websites
+* [land book] (http://land-book.com/) - product landing page gallery
+* [the best designs] (https://www.thebestdesigns.com/)
+* [web design inspiration] (http://www.webdesign-inspiration.com/)
+* [siiimple] (http://www.siiimple.com/)
+* [web creme] (http://www.webcreme.com/)
+* 
 
 ##Resources/Freebies
 * [freebbble] (http://freebbble.com/) - design freebies made by dribbble folks
