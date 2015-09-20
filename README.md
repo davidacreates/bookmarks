@@ -54,6 +54,7 @@ Just a bunch of my favorite resources for stuff.
 * [ui faces] (http://uifaces.com/) - stock faces for ui elements
 * [death to stock photos] (http://deathtothestockphoto.com/)
 * [coverr] (http://www.coverr.co/) - beautiful stock video delivered daily
+* [the stocks] (http://thestocks.im/) - collection of free stock photography sites
 
 ##Typography
 * [ typo guide ] (http://www.typogui.de/) - a pocket guide to master every day’s typographic adventures
