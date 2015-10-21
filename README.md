@@ -24,6 +24,7 @@ Just a bunch of my favorite resources for stuff.
 * [ionicons] (http://ionicons.com/) - free open source icons with CDN
 * [noun project] (https://thenounproject.com/)
 * [streamline icons] (http://www.streamlineicons.com/) - 4000 vector icons
+* [simple icons] (https://simpleicons.org/) - 127 SVG icons for popular brands
 
 ##Inspiration
 * [zurb responsive sites] (http://zurb.com/responsive) - great gallery of responsive sites from different frameworks
