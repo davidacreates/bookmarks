@@ -43,6 +43,7 @@ Just a bunch of my favorite resources for stuff.
 
 ##Resources/Freebies
 * [freebbble] (http://freebbble.com/) - design freebies made by dribbble folks
+* [freebiesjedi] (http://freebiesjedi.com/) - Discover & Download Useful Freebies Today
 
 ##Sketch
 * [sketch app sources] (http://www.sketchappsources.com/) - free sketch resources
