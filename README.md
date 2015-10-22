@@ -59,6 +59,7 @@ Just a bunch of my favorite resources for stuff.
 * [death to stock photos] (http://deathtothestockphoto.com/)
 * [coverr] (http://www.coverr.co/) - beautiful stock video delivered daily
 * [the stocks] (http://thestocks.im/) - collection of free stock photography sites
+* [libre stock] (http://librestock.com/) - search the best 30 free stock photo websites in one place
 
 ##Typography
 * [ typo guide ] (http://www.typogui.de/) - a pocket guide to master every day’s typographic adventures
