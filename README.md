@@ -51,6 +51,7 @@ Just a bunch of my favorite resources for stuff.
 * [sketch plugins directory] (https://github.com/sketchplugins/plugin-directory)
 * [sketch shortcuts] (http://sketchshortcuts.com/) - all of sketch's shortcuts listed
 * [freebbble] (http://freebbble.com/) - design freebies made by dribbble folks
+* [sketch repo] (http://sketchrepo.com/) - excellent resource
 
 ##Stock Media
 * [pexels] (http://www.pexels.com/) - all the free stock photography in one place
