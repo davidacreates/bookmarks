@@ -18,6 +18,7 @@ Just a bunch of my favorite resources for stuff.
 * [flat ui color picker] (http://www.flatuicolorpicker.com/) - a flat ui color picker
 * [color hunt] (http://colorhunt.co/) - curated collection of beautiful colors
 * [brand colors] (http://brandcolors.net/) - official color codes of the world's biggest brands
+* [coolors] (https://coolors.co/) - super-fast color scheme generator
 
 ##Icons
 * [google material icons] (https://www.google.com/design/icons/)
