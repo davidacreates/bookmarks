@@ -89,6 +89,9 @@ Just a bunch of my favorite resources for stuff.
 ##Email
 * [really good emails] (http://reallygoodemails.com/) - a collection for great emails
 
+##Research
+* [programming for marketers] (http://www.programmingformarketers.com/) - become a technical marketer
+
 ##Traffic & Engagement
 * [sumo me] (http://sumome.com/) - website traffic growth tool
 * [lead pages] (http://www.leadpages.net/products/?banner=video) - lead generation tool
