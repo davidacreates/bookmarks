@@ -81,6 +81,7 @@ Just a bunch of my favorite resources for stuff.
 
 ##Stacks
 * [content marketing stack] (http://www.contentmarketingstack.co/) - A curated directory of content marketing resources & tutorials
+* [marketing stack] (http://marketingstack.io/) - A curated directory of marketing resources & tools
 
 ##Blogging
 * [buzz sumo] (https://app.buzzsumo.com/) - trending topics
