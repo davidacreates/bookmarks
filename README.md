@@ -3,7 +3,7 @@
 Just a bunch of my favorite resources for stuff.
 
 #Copywriting
-* [The Gary Halbert Letters] (http://www.thegaryhalbertletter.com/)
+* [The Gary Halbert Letters] (http://www.thegaryhalbertletter.com/) - test
 * [Kopywriting Kourse] (http://kopywritingkourse.com/) - includes great copy teardowns on the blog
 * [Hemingway Editor] (http://www.hemingwayapp.com/) - hemingway app makes your writing bold and clear
 
