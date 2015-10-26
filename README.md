@@ -66,12 +66,14 @@ Just a bunch of my favorite resources for stuff.
 * [coverr] (http://www.coverr.co/) - beautiful stock video delivered daily
 
 ## Typography
-* [ typo guide ] (http://www.typogui.de/) - a pocket guide to master every day’s typographic adventures
+* [beautiful webtype] (http://hellohappy.org/beautiful-web-type/) - a showcase of the best typefaces from the Google web fonts directory
+* [100 days of fonts] (http://100daysoffonts.com/) - elle luna designed and coded a combination of Google Fonts
 * [font pair] (http://fontpair.co/) - google font pairing
-* [just my type] (http://justmytype.co/typekit/) - typekit font pairing
 * [font library] (http://katydecorah.com/font-library/#/heavy/) - an open source project to tag and organize google fonts
-* [a more modern scale for web typography] (http://typecast.com/blog/a-more-modern-scale-for-web-typography)
 * [font cdn] (http://fontcdn.org/) - directory of google fonts displayed elegantly
+* [just my type] (http://justmytype.co/typekit/) - typekit font pairing
+* [typo guide] (http://www.typogui.de/) - a pocket guide to master every day’s typographic adventures
+* [a more modern scale for web typography] (http://typecast.com/blog/a-more-modern-scale-for-web-typography) - typographic scale
 
 ## Wireframing
 * [justinmind] (http://www.justinmind.com/) - interactive wireframing
