@@ -138,9 +138,11 @@ Just a bunch of my favorite resources for stuff.
 ## Grids
 * [gridiculous] (http://gridiculo.us/) - A fully responsive grid boilerplate
 
-## Icons
-* [google material icons] (https://www.google.com/design/icons/)
-* [font awesome] (http://fortawesome.github.io/Font-Awesome/)
+## Image Optimization
+* [imageAlpha] (http://pngmini.com/) - reduces file sizes of 24-bit PNG files (including alpha transparency)  
+* [imageOptim] (https://imageoptim.com/) - make images take up less disk space and load faster, without sacrificing quality
+* [pngquant] (https://pngquant.org/) - command-line utility and a library for lossy compression of PNG images
+* [tinypng] (https://tinypng.com/) - advanced lossy compression for PNG images that preserves full alpha transparency
 
 ## Responsive Web Design
 * [ultimate rwd resources] (http://bradfrost.github.io/this-is-responsive/resources.html) - compilation of RWD resources by Brad Frost
