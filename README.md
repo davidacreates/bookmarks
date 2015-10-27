@@ -40,6 +40,7 @@ Just a bunch of my favorite resources for stuff.
 * [one page love] (https://onepagelove.com/) - gallery of one page websites
 * [land book] (http://land-book.com/) - product landing page gallery
 * [awwwards picked typography sites] (http://www.awwwards.com/websites/typography/) - collection of the best typography use on websites
+* [typeinspire] (http://typeinspire.com/) - typography inspiration and design gallery
 * [the best designs] (https://www.thebestdesigns.com/)
 * [web design inspiration] (http://www.webdesign-inspiration.com/)
 * [siiimple] (http://www.siiimple.com/)
@@ -76,6 +77,8 @@ Just a bunch of my favorite resources for stuff.
 * [typo guide] (http://www.typogui.de/) - a pocket guide to master every day’s typographic adventures
 * [a more modern scale for web typography] (http://typecast.com/blog/a-more-modern-scale-for-web-typography) - typographic scale
 * [awwwards picked typography sites] (http://www.awwwards.com/websites/typography/) - collection of the best typography use on websites
+* [typeinspire] (http://typeinspire.com/) - typography inspiration and design gallery
+
 
 ## Wireframing
 * [justinmind] (http://www.justinmind.com/) - interactive wireframing
