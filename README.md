@@ -56,6 +56,7 @@ Just a bunch of my favorite resources for stuff.
 * [sketch shortcuts] (http://sketchshortcuts.com/) - all of sketch's shortcuts listed
 * [freebbble] (http://freebbble.com/) - design freebies made by dribbble folks
 * [sketch repo] (http://sketchrepo.com/) - excellent resource
+* [sketch talk] (http://sketchtalk.io/) - sketch forum & user community
 
 ## Stock Media
 * [the stocks] (http://thestocks.im/) - collection of free stock photography sites
