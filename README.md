@@ -106,6 +106,7 @@ Just a bunch of my favorite resources for stuff.
 
 ## Traffic & Engagement
 * [sumo me] (http://sumome.com/) - website traffic growth tool
+* [get site control] (https://getsitecontrol.com/) - visitor engagement tools for your startup
 * [lead pages] (http://www.leadpages.net/products/?banner=video) - lead generation tool
 * [exit monitor] (http://exitmonitor.com/) - turn your abandoning visitors into customers
 * [wBounce] (https://wordpress.org/plugins/wbounce/) - improves bounce rate to boost conversions and sales
