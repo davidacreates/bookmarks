@@ -92,6 +92,9 @@ Just a bunch of my favorite resources for stuff.
 ## Email
 * [really good emails] (http://reallygoodemails.com/) - a collection for great emails
 
+## Proposals
+* [beagle] (https://getbeagle.co/) - a tool for creating better proposals
+
 ## Research
 * [programming for marketers] (http://www.programmingformarketers.com/) - become a technical marketer
 
