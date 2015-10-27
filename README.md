@@ -68,7 +68,7 @@ Just a bunch of my favorite resources for stuff.
 ## Typography
 * [beautiful webtype] (http://hellohappy.org/beautiful-web-type/) - a showcase of the best typefaces from the Google web fonts directory
 * [100 days of fonts] (http://100daysoffonts.com/) - elle luna designed and coded a combination of Google Fonts
-* [font pair] (http://fontpair.co/) - google font pairing
+* [font pair] (http://fontpair.co/) -  a tool showing a variety of suggested font pairings, allowing for the insertion of custom text for each one
 * [font library] (http://katydecorah.com/font-library/#/heavy/) - an open source project to tag and organize google fonts
 * [font cdn] (http://fontcdn.org/) - directory of google fonts displayed elegantly
 * [just my type] (http://justmytype.co/typekit/) - typekit font pairing
