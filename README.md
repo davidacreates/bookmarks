@@ -20,6 +20,7 @@ Just a bunch of my favorite resources for stuff.
 * [color hunt] (http://colorhunt.co/) - curated collection of beautiful colors
 * [brand colors] (http://brandcolors.net/) - official color codes of the world's biggest brands
 * [coolors] (https://coolors.co/) - super-fast color scheme generator
+* [swiss colors] (http://swisscolors.net/) - swiss style color picker
 
 ## Icons
 * [google material icons] (https://www.google.com/design/icons/) - beautifully crafted icons built for material design
