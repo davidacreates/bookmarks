@@ -51,8 +51,10 @@ Just a bunch of my favorite resources for stuff.
 ## Resources/Freebies
 * [freebbble] (http://freebbble.com/) - design freebies made by dribbble folks
 * [freebiesjedi] (http://freebiesjedi.com/) - Discover & Download Useful Freebies Today
+* [facebook freebies] (http://facebook.github.io/design/) - a collection of free resources made by designers at facebook
 
 ## Sketch
+* [sketch repo] (http://sketchrepo.com/)- find free, high-quality Sketch resources for their next project
 * [sketch app sources] (http://www.sketchappsources.com/) - free sketch resources
 * [sketch plugins directory] (https://github.com/sketchplugins/plugin-directory)
 * [sketch shortcuts] (http://sketchshortcuts.com/) - all of sketch's shortcuts listed
