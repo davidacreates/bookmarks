@@ -188,6 +188,7 @@ Just a bunch of my favorite resources for stuff.
 
 ## Website Builders
 
+* [staticGen] (https://www.staticgen.com/) - top open source static site generators
 * [webydo] (http://www.webydo.com/) - code free website builder
 * [webflow] (https://webflow.com/) - code free website builder with CMS
 
