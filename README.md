@@ -5,9 +5,10 @@ Just a bunch of my favorite resources for stuff.
 
 # **COPYWRITING**
 
-* [The Gary Halbert Letters] (http://www.thegaryhalbertletter.com/) 
-* [Kopywriting Kourse] (http://kopywritingkourse.com/) - includes great copy teardowns on the blog
-* [Hemingway Editor] (http://www.hemingwayapp.com/) - hemingway app makes your writing bold and clear
+* [paperr] (http://www.paperr.in/) - minimalist web based writing tool
+* [hemingway editor] (http://www.hemingwayapp.com/) - hemingway app makes your writing bold and clear
+* [the gary halbert letters] (http://www.thegaryhalbertletter.com/) 
+* [kopywriting kourse] (http://kopywritingkourse.com/) - includes great copy teardowns on the blog
 
 ***
 
