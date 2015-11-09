@@ -3,6 +3,12 @@ Just a bunch of my favorite resources for stuff.
 
 ***
 
+# **ANIMATIONS**
+
+* [drop to gif] (http://mortenjust.github.io/droptogif/) - zero-click animated GIFs
+
+***
+
 # **COPYWRITING**
 
 * [paperr] (http://www.paperr.in/) - minimalist web based writing tool
