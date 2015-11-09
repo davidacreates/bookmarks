@@ -183,6 +183,9 @@ Just a bunch of my favorite resources for stuff.
 * [markly app] (http://marklyapp.com/) - Create Beautiful Specs With Ease
 * [built with] (http://builtwith.com/) - list all of the components a site is built with
 
+## Troubleshooting
+* [what's my browser] (http://www.whatsmybrowser.org/) - creates a url with all the info about the client's browser
+
 ## Tutorials
 * [bourbon, neat and bitters: getting started] (http://www.git-tower.com/learn/bourbon-neat-bitters/getting-ready/introduction#start)
 * [learning version control with git] (http://www.git-tower.com/learn/git/ebook/command-line/introduction)
