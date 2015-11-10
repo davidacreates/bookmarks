@@ -80,6 +80,9 @@ Just a bunch of my favorite resources for stuff.
 * [ui faces] (http://uifaces.com/) - stock faces for ui elements
 * [coverr] (http://www.coverr.co/) - beautiful stock video delivered daily
 
+## Talks
+* [Uideo] (https://uideo.net/) - 275 talks for designers from 39 ui/ux conferences
+
 ## Typography
 * [beautiful webtype] (http://hellohappy.org/beautiful-web-type/) - a showcase of the best typefaces from the Google web fonts directory
 * [100 days of fonts] (http://100daysoffonts.com/) - elle luna designed and coded a combination of Google Fonts
