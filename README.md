@@ -101,6 +101,12 @@ Just a bunch of my favorite resources for stuff.
 
 ***
 
+# **UI/UX**
+
+* [ux methods & deliverables] (http://uxdesign.cc/ux-methods-deliverables/) - a list of the most common methods and deliverables produced by UX Designers 
+
+***
+
 # **MARKETING**
 
 ## Stacks
