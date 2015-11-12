@@ -13,7 +13,7 @@ Just a bunch of my favorite resources for stuff.
 
 * [paperr] (http://www.paperr.in/) - minimalist web based writing tool
 * [hemingway editor] (http://www.hemingwayapp.com/) - hemingway app makes your writing bold and clear
-* [the gary halbert letters] (http://www.thegaryhalbertletter.com/) 
+* [the gary halbert letters] (http://www.thegaryhalbertletter.com/) - the most valuable website on the Internet
 * [kopywriting kourse] (http://kopywritingkourse.com/) - includes great copy teardowns on the blog
 
 ***
