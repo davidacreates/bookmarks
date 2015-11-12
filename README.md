@@ -41,40 +41,37 @@ Just a bunch of my favorite resources for stuff.
 * [icon jar] (http://geticonjar.com/) - organize, search and use icons the easy way
 
 ## Inspiration
-* [zurb responsive sites] (http://zurb.com/responsive) - great gallery of responsive sites from different frameworks
-* [lapa] (http://lapa.ninja/) - landing page design inspiration
-* [stumbbble] (http://www.stumbbble.com/) - browse designer portfolio sites
+* [siiimple] (http://www.siiimple.com/) - best minimalist websites on the web
+* [web design inspiration] (http://www.webdesign-inspiration.com/) - we help web designers to get inspired
+* [the best designs] (https://www.thebestdesigns.com/) - the best of web design and web design inspiration
 * [beta list] (http://betalist.com/) - discover new start ups early
+* [lapa] (http://lapa.ninja/) - landing page design inspiration
+* [land book] (http://land-book.com/) - product landing page gallery
+* [one page love] (https://onepagelove.com/) - gallery of one page websites
+* [stumbbble] (http://www.stumbbble.com/) - browse designer portfolio sites
 * [site inspire] (http://www.siteinspire.com/) - gallery of inspirational websites
 * [awwwards] (http://www.awwwards.com/) - gallery of inspirational websites
-* [one page love] (https://onepagelove.com/) - gallery of one page websites
-* [land book] (http://land-book.com/) - product landing page gallery
 * [awwwards picked typography sites] (http://www.awwwards.com/websites/typography/) - collection of the best typography use on websites
 * [typeinspire] (http://typeinspire.com/) - typography inspiration and design gallery
-* [the best designs] (https://www.thebestdesigns.com/)
-* [web design inspiration] (http://www.webdesign-inspiration.com/)
-* [siiimple] (http://www.siiimple.com/)
-* [web creme] (http://www.webcreme.com/)
+* [zurb responsive sites] (http://zurb.com/responsive) - great gallery of responsive sites from different frameworks
 
 ## Resources/Freebies
 * [freebbble] (http://freebbble.com/) - design freebies made by dribbble folks
-* [freebiesjedi] (http://freebiesjedi.com/) - Discover & Download Useful Freebies Today
+* [freebiesjedi] (http://freebiesjedi.com/) - discover & download useful freebies today
 * [facebook freebies] (http://facebook.github.io/design/) - a collection of free resources made by designers at facebook
 
 ## Sketch
-* [sketch repo] (http://sketchrepo.com/)- find free, high-quality Sketch resources for their next project
-* [sketch app sources] (http://www.sketchappsources.com/) - free sketch resources
-* [sketch plugins directory] (https://github.com/sketchplugins/plugin-directory)
-* [sketch shortcuts] (http://sketchshortcuts.com/) - all of sketch's shortcuts listed
-* [freebbble] (http://freebbble.com/) - design freebies made by dribbble folks
-* [sketch repo] (http://sketchrepo.com/) - excellent resource
 * [sketch talk] (http://sketchtalk.io/) - sketch forum & user community
+* [sketch repo] (http://sketchrepo.com/)- find free, high-quality sketch resources for your next project
+* [sketch app sources] (http://www.sketchappsources.com/) - catalog of free resources for web ui ux designers
+* [sketch plugins directory] (https://github.com/sketchplugins/plugin-directory) - a list of Sketch plugins hosted at GitHub
+* [sketch shortcuts] (http://sketchshortcuts.com/) - all of sketch's shortcuts listed
 
 ## Stock Media
+* [death to stock photos] (http://deathtothestockphoto.com/) - stock photography doesn't have to suck
 * [the stocks] (http://thestocks.im/) - collection of free stock photography sites
 * [libre stock] (http://librestock.com/) - search the best 30 free stock photo websites in one place
 * [zoommy] (http://zoommyapp.com/) - find awesome free stock photos for your creative product or inspiration
-* [death to stock photos] (http://deathtothestockphoto.com/)
 * [pexels] (http://www.pexels.com/) - all the free stock photography in one place
 * [gratisography](http://www.gratisography.com/) - hi quality creative commons images
 * [ui faces] (http://uifaces.com/) - stock faces for ui elements
