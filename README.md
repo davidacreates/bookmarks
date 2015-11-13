@@ -22,15 +22,15 @@ Just a bunch of my favorite resources for stuff.
 
 ## Color
 * [color] (http://color.hailpixel.com/) - intuitive color swatch generator
+* [coolors] (https://coolors.co/) - super-fast color scheme generator
 * [color hunt] (http://colorhunt.co/) - a place to discover and share beautiful color palettes
+* [swiss colors] (http://swisscolors.net/) - swiss style color picker
+* [gradients.io] (http://www.gradients.io/)- showcase of some beautiful gradient color combinations
 * [google material design color style] (http://www.google.com/design/spec/style/color.html#color-color-palette) - full color palettes for google material design
 * [material palette] (http://www.materialpalette.com/) - a material design color palette generator
 * [flat ui color picker] (http://www.flatuicolorpicker.com/) - a flat ui color picker
-* [color hunt] (http://colorhunt.co/) - curated collection of beautiful colors
 * [brand colors] (http://brandcolors.net/) - official color codes of the world's biggest brands
-* [coolors] (https://coolors.co/) - super-fast color scheme generator
-* [swiss colors] (http://swisscolors.net/) - swiss style color picker
-* [matte black] (http://matte.black/) - various color swatches that give hex vaue when clicked
+* [matte black] (http://matte.black/) - various color swatches that give hex value when clicked
 
 ## Icons
 * [google material icons] (https://www.google.com/design/icons/) - beautifully crafted icons built for material design
