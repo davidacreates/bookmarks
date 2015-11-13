@@ -210,4 +210,8 @@ Just a bunch of my favorite resources for stuff.
 * [webydo] (http://www.webydo.com/) - code free website builder
 * [webflow] (https://webflow.com/) - code free website builder with CMS
 
+***
 
+# **START UP**
+
+* [start up resources] (http://startupresources.io/) - great list of tools, resources, tips and tricks
