@@ -33,6 +33,7 @@ Just a bunch of my favorite resources for stuff.
 * [matte black] (http://matte.black/) - various color swatches that give hex value when clicked
 
 ## Icons
+* [we love svg] (https://icons8.com/welovesvg) - google fonts for icons
 * [google material icons] (https://www.google.com/design/icons/) - beautifully crafted icons built for material design
 * [font awesome] (http://fortawesome.github.io/Font-Awesome/) - scalable vector icons that can instantly be customized
 * [ionicons] (http://ionicons.com/) - free open source icons with CDN
