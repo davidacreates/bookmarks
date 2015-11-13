@@ -159,6 +159,7 @@ Just a bunch of my favorite resources for stuff.
 * [udacity] (https://www.udacity.com/)
 
 ## CSS
+* [css reference] (https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) - lists all standard CSS properties, pseudo-classes and pseudo-elements, @-rules, units, and selectors in alphabetic order
 * [codrops] (http://tympanus.net/codrops/) - inspirational code snippets
 * [colorful css buttons] (http://codepen.io/chrisdothtml/pen/waKBdM) - animated buttons on codepen
 * [how to center css] (http://howtocenterincss.com/) -  a neat form that spits out code for the parameters you pass it
