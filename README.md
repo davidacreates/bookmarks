@@ -21,6 +21,7 @@ Just a bunch of my favorite resources for stuff.
 # **DESIGN**
 
 ## Color
+* [color] (http://color.hailpixel.com/) - intuitive color swatch generator
 * [color hunt] (http://colorhunt.co/) - a place to discover and share beautiful color palettes
 * [google material design color style] (http://www.google.com/design/spec/style/color.html#color-color-palette) - full color palettes for google material design
 * [material palette] (http://www.materialpalette.com/) - a material design color palette generator
