@@ -58,6 +58,7 @@ Just a bunch of my favorite resources for stuff.
 * [zurb responsive sites] (http://zurb.com/responsive) - great gallery of responsive sites from different frameworks
 
 ## Resources/Freebies
+* [wwwhere] (http://wwwhere.io/) - a curated list of tools and resources for people who make websites
 * [design hooks] (http://designhooks.com/) - awesome resources for web design enthusiasts
 * [freebbble] (http://freebbble.com/) - design freebies made by dribbble folks
 * [freebiesjedi] (http://freebiesjedi.com/) - discover & download useful freebies today
