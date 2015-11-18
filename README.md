@@ -43,6 +43,7 @@ Just a bunch of my favorite resources for stuff.
 * [icon jar] (http://geticonjar.com/) - organize, search and use icons the easy way
 
 ## Inspiration
+* [crayon] (https://www.crayon.co/) - collection of inspirational websites
 * [siiimple] (http://www.siiimple.com/) - best minimalist websites on the web
 * [web design inspiration] (http://www.webdesign-inspiration.com/) - we help web designers to get inspired
 * [the best designs] (https://www.thebestdesigns.com/) - the best of web design and web design inspiration
