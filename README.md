@@ -164,6 +164,7 @@ Just a bunch of my favorite resources for stuff.
 * [udacity] (https://www.udacity.com/)
 
 ## CSS
+* [HTML element reference] (https://developer.mozilla.org/en-US/docs/Web/HTML/Element) - all the HTML elements grouped by function
 * [emmett cheatsheet] (http://docs.emmet.io/cheat-sheet/) - the essential tool for web developers
 * [css reference] (https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) - lists all standard CSS properties, pseudo-classes and pseudo-elements, @-rules, units, and selectors in alphabetic order
 * [css docs] (https://docs.webplatform.org/wiki/css) - compiled resource of various CSS topics
