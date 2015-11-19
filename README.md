@@ -79,6 +79,7 @@ Just a bunch of my favorite resources for stuff.
 * [SMACSS code guidelines] (https://smacss.com/) - a flexible guide to developing sites small and large
 * [BEM code guideline] (http://getbem.com/) - block element modifier methodology to achieve reusable components
 * [OOCSS code guideline] (http://oocss.org/) - object-oriented css methodology
+* [github css code guidelines] (http://primercss.io/scaffolding/) - css toolkit and guidelines that power github
 
 
 ## Talks
