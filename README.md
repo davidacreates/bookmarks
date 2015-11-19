@@ -163,6 +163,7 @@ Just a bunch of my favorite resources for stuff.
 * [udacity] (https://www.udacity.com/)
 
 ## CSS
+* [emmett cheatsheet] (http://docs.emmet.io/cheat-sheet/) - the essential tool for web developers
 * [css reference] (https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) - lists all standard CSS properties, pseudo-classes and pseudo-elements, @-rules, units, and selectors in alphabetic order
 * [css docs] (https://docs.webplatform.org/wiki/css) - compiled resource of various CSS topics
 * [can i use] (http://caniuse.com/) - up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers
