@@ -3,21 +3,6 @@ Just a bunch of my favorite resources for stuff.
 
 ***
 
-# **ANIMATIONS**
-
-* [drop to gif] (http://mortenjust.github.io/droptogif/) - zero-click animated GIFs
-
-***
-
-# **COPYWRITING**
-
-* [paperr] (http://www.paperr.in/) - minimalist web based writing tool
-* [hemingway editor] (http://www.hemingwayapp.com/) - hemingway app makes your writing bold and clear
-* [the gary halbert letters] (http://www.thegaryhalbertletter.com/) - the most valuable website on the Internet
-* [kopywriting kourse] (http://kopywritingkourse.com/) - includes great copy teardowns on the blog
-
-***
-
 # **DESIGN**
 
 ## Color
@@ -104,44 +89,6 @@ Just a bunch of my favorite resources for stuff.
 
 ***
 
-# **UI/UX**
-
-* [ux methods & deliverables] (http://uxdesign.cc/ux-methods-deliverables/) - a list of the most common methods and deliverables produced by UX Designers 
-
-***
-
-# **MARKETING**
-
-## Stacks
-* [content marketing stack] (http://www.contentmarketingstack.co/) - A curated directory of content marketing resources & tutorials
-* [marketing stack] (http://marketingstack.io/) - A curated directory of marketing resources & tools
-
-## Blogging
-* [buzz sumo] (https://app.buzzsumo.com/) - trending topics
-
-## Email
-* [really good emails] (http://reallygoodemails.com/) - a collection for great emails
-
-## Proposals & Briefs
-* [beagle] (https://getbeagle.co/) - a tool for creating better proposals
-* [the project brief toolkit] (http://project-brief.casual.pm/) - project brief templates
-
-## Research
-* [programming for marketers] (http://www.programmingformarketers.com/) - become a technical marketer
-
-## Traffic & Engagement
-* [sumo me] (http://sumome.com/) - website traffic growth tool
-* [get site control] (https://getsitecontrol.com/) - visitor engagement tools for your startup
-* [lead pages] (http://www.leadpages.net/products/?banner=video) - lead generation tool
-* [exit monitor] (http://exitmonitor.com/) - turn your abandoning visitors into customers
-* [wBounce] (https://wordpress.org/plugins/wbounce/) - improves bounce rate to boost conversions and sales
-* [kingsumo] (http://kingsumo.com/) - grow your traffic by viral giveaways
-
-## Video
-* [wistia] (http://wistia.com/) - great video hosting platform
-
-***
-
 # **DEVELOPMENT**
 
 ## Accessibility
@@ -216,11 +163,61 @@ Just a bunch of my favorite resources for stuff.
 * [learning version control with git] (http://www.git-tower.com/learn/git/ebook/command-line/introduction)
 * [a to z css] (http://www.atozcss.com/) - free css screencasts tutorials for designers & developers
 
+## UI/UX
+* [ux methods & deliverables] (http://uxdesign.cc/ux-methods-deliverables/) - a list of the most common methods and deliverables produced by UX Designers 
+
 ## Website Builders
 
 * [staticGen] (https://www.staticgen.com/) - top open source static site generators
 * [webydo] (http://www.webydo.com/) - code free website builder
 * [webflow] (https://webflow.com/) - code free website builder with CMS
+
+***
+
+# **ANIMATIONS**
+
+* [drop to gif] (http://mortenjust.github.io/droptogif/) - zero-click animated GIFs
+
+***
+
+# **COPYWRITING**
+
+* [paperr] (http://www.paperr.in/) - minimalist web based writing tool
+* [hemingway editor] (http://www.hemingwayapp.com/) - hemingway app makes your writing bold and clear
+* [the gary halbert letters] (http://www.thegaryhalbertletter.com/) - the most valuable website on the Internet
+* [kopywriting kourse] (http://kopywritingkourse.com/) - includes great copy teardowns on the blog
+
+***
+
+# **MARKETING**
+
+## Stacks
+* [content marketing stack] (http://www.contentmarketingstack.co/) - A curated directory of content marketing resources & tutorials
+* [marketing stack] (http://marketingstack.io/) - A curated directory of marketing resources & tools
+
+## Blogging
+* [buzz sumo] (https://app.buzzsumo.com/) - trending topics
+
+## Email
+* [really good emails] (http://reallygoodemails.com/) - a collection for great emails
+
+## Proposals & Briefs
+* [beagle] (https://getbeagle.co/) - a tool for creating better proposals
+* [the project brief toolkit] (http://project-brief.casual.pm/) - project brief templates
+
+## Research
+* [programming for marketers] (http://www.programmingformarketers.com/) - become a technical marketer
+
+## Traffic & Engagement
+* [sumo me] (http://sumome.com/) - website traffic growth tool
+* [get site control] (https://getsitecontrol.com/) - visitor engagement tools for your startup
+* [lead pages] (http://www.leadpages.net/products/?banner=video) - lead generation tool
+* [exit monitor] (http://exitmonitor.com/) - turn your abandoning visitors into customers
+* [wBounce] (https://wordpress.org/plugins/wbounce/) - improves bounce rate to boost conversions and sales
+* [kingsumo] (http://kingsumo.com/) - grow your traffic by viral giveaways
+
+## Video
+* [wistia] (http://wistia.com/) - great video hosting platform
 
 ***
 
