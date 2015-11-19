@@ -69,6 +69,7 @@ Just a bunch of my favorite resources for stuff.
 * [coverr] (http://www.coverr.co/) - beautiful stock video delivered daily
 
 ## Style Guides
+* [brad frost style guide best practices] (https://vimeo.com/144596023) - great video from btconf2015
 * [frontify brand style guide] (https://frontify.com/) - software for brand style guides, design eorkflows & visual collaboration
 * [google material design language] (http://www.google.com/design/spec/material-design) - a visual language for google users
 * [salesforce lightning design langauge] (https://www.lightningdesignsystem.com/) - a visual language for sales force users
