@@ -68,6 +68,18 @@ Just a bunch of my favorite resources for stuff.
 * [ui faces] (http://uifaces.com/) - stock faces for ui elements
 * [coverr] (http://www.coverr.co/) - beautiful stock video delivered daily
 
+## Style Guides
+* [frontify brand style guide] (https://frontify.com/) - software for brand style guides, design eorkflows & visual collaboration
+* [google material design language] (http://www.google.com/design/spec/material-design) - a visual language for google users
+* [salesforce lightning design langauge] (https://www.lightningdesignsystem.com/) - a visual language for sales force users
+* [mailchimp voice and tone style guide] (http://voiceandtone.com/) - a guide to how the brand should communicate with users
+* [mailchimp content style guide] (http://styleguide.mailchimp.com/) - helps mailchimp write clear and consistent content across teams and channels
+* [dalhousie writing style guide] (http://www.dal.ca/webteam/web_style_guide/writing_for_the_web.html) - best practices for writing for the web
+* [SMACSS code guidelines] (https://smacss.com/) - a flexible guide to developing sites small and large
+* [BEM code guideline] (http://getbem.com/) - block element modifier methodology to achieve reusable components
+* [OOCSS code guideline] (http://oocss.org/) - object-oriented css methodology
+
+
 ## Talks
 * [Uideo] (https://uideo.net/) - 275 talks for designers from 39 ui/ux conferences
 
