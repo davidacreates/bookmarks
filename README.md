@@ -70,6 +70,7 @@ Just a bunch of my favorite resources for stuff.
 * [sketch repo] (http://sketchrepo.com/)- find free, high-quality sketch resources for your next project
 * [sketch app sources] (http://www.sketchappsources.com/) - catalog of free resources for web ui ux designers
 * [sketch plugins directory] (https://github.com/sketchplugins/plugin-directory) - a list of Sketch plugins hosted at GitHub
+* [sketch keyboard shortcuts] (https://designcode.io/sketch-keyboard) - sketch keyboard shortcuts and tricks
 * [sketch shortcuts] (http://sketchshortcuts.com/) - all of sketch's shortcuts listed
 
 ## Stock Media
