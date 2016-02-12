@@ -223,6 +223,9 @@ Just a bunch of my favorite resources for stuff.
 ## Research
 * [programming for marketers] (http://www.programmingformarketers.com/) - become a technical marketer
 
+## Social
+* [prepopulate tweets tool] (https://www.marketingtechblog.com/share-a-tweet/#content) - add your tweet and pop out the code
+
 ## Traffic & Engagement
 * [sumo me] (http://sumome.com/) - website traffic growth tool
 * [get site control] (https://getsitecontrol.com/) - visitor engagement tools for your startup
