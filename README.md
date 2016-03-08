@@ -151,6 +151,7 @@ Just a bunch of my favorite resources for stuff.
 * [imageOptim] (https://imageoptim.com/) - make images take up less disk space and load faster, without sacrificing quality
 * [pngquant] (https://pngquant.org/) - command-line utility and a library for lossy compression of PNG images
 * [tinypng] (https://tinypng.com/) - advanced lossy compression for PNG images that preserves full alpha transparency
+* [clip champ] (https://clipchamp.com/) - video compression without using software
 
 ## Responsive Web Design
 * [ultimate rwd resources] (http://bradfrost.github.io/this-is-responsive/resources.html) - compilation of RWD resources by Brad Frost
