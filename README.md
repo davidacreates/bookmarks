@@ -80,6 +80,7 @@ Just a bunch of my favorite resources for stuff.
 * [BEM code guideline] (http://getbem.com/) - block element modifier methodology to achieve reusable components
 * [OOCSS code guideline] (http://oocss.org/) - object-oriented css methodology
 * [github css code guidelines] (http://primercss.io/scaffolding/) - css toolkit and guidelines that power github
+* [ohsik asset guide/style directory template] (https://github.com/ohsik/asset-library-template) - great framework to build off of
 
 
 ## Talks
