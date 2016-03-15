@@ -67,6 +67,7 @@ Just a bunch of my favorite resources for stuff.
 * [gratisography](http://www.gratisography.com/) - hi quality creative commons images
 * [ui faces] (http://uifaces.com/) - stock faces for ui elements
 * [coverr] (http://www.coverr.co/) - beautiful stock video delivered daily
+* [instant logo search] (http://instantlogosearch.com/) - search & download thousands of logos instantly
 
 ## Style Guides
 * [brad frost style guide best practices] (https://vimeo.com/144596023) - great video from btconf2015
