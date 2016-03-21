@@ -6,6 +6,7 @@ Just a bunch of my favorite resources for stuff.
 # **DESIGN**
 
 ## Color
+* [colors] (http://clrs.cc/) - a nicer palette for the web
 * [color] (http://color.hailpixel.com/) - intuitive color swatch generator
 * [coolors] (https://coolors.co/) - super-fast color scheme generator
 * [color hunt] (http://colorhunt.co/) - a place to discover and share beautiful color palettes
