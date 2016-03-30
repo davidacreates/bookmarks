@@ -84,6 +84,7 @@ Just a bunch of my favorite resources for stuff.
 * [OOCSS code guideline] (http://oocss.org/) - object-oriented css methodology
 * [github css code guidelines] (http://primercss.io/scaffolding/) - css toolkit and guidelines that power github
 * [ohsik asset guide/style directory template] (https://github.com/ohsik/asset-library-template) - great framework to build off of
+* [new york times style guide] (http://www.thetimes.co.uk/styleguide/getting-started)
 
 
 ## Talks
