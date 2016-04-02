@@ -91,6 +91,7 @@ Just a bunch of my favorite resources for stuff.
 * [Uideo] (https://uideo.net/) - 275 talks for designers from 39 ui/ux conferences
 
 ## Typography
+* [my fonts] (http://www.myfonts.com/) - font store
 * [beautiful webtype] (http://hellohappy.org/beautiful-web-type/) - a showcase of the best typefaces from the Google web fonts directory
 * [100 days of fonts] (http://100daysoffonts.com/) - elle luna designed and coded a combination of Google Fonts
 * [font pair] (http://fontpair.co/) -  a tool showing a variety of suggested font pairings, allowing for the insertion of custom text for each one
