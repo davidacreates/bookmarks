@@ -20,6 +20,7 @@ Just a bunch of my favorite resources for stuff.
 * [matte black] (http://matte.black/) - various color swatches that give hex value when clicked
 
 ## Icons
+* [font famous] (http://fontfamous.com/) - The free vector logo font for showing off your press!
 * [we love svg] (https://icons8.com/welovesvg) - google fonts for icons
 * [google material icons] (https://www.google.com/design/icons/) - beautifully crafted icons built for material design
 * [font awesome] (http://fortawesome.github.io/Font-Awesome/) - scalable vector icons that can instantly be customized
