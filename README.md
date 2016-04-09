@@ -177,6 +177,9 @@ Just a bunch of my favorite resources for stuff.
 * [markly app] (http://marklyapp.com/) - Create Beautiful Specs With Ease
 * [built with] (http://builtwith.com/) - list all of the components a site is built with
 
+## Squarespace
+* [squarespace circle] (https://circle.squarespace.com/) - A community for creative professionals who build websites on Squarespace.
+
 ## Troubleshooting
 * [what's my browser] (http://www.whatsmybrowser.org/) - creates a url with all the info about the client's browser
 
