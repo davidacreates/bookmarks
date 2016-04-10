@@ -226,7 +226,8 @@ Just a bunch of my favorite resources for stuff.
 
 ## Email
 * [really good emails] (http://reallygoodemails.com/) - a collection for great emails
-* [just good copy] (http://www.goodemailcopy.com/) - email copy from great companies 
+* [just good copy] (http://www.goodemailcopy.com/) - email copy from great companies
+* [email hunter] (https://emailhunter.co/) - direct access to all the web's email addresses
 
 ## Proposals & Briefs
 * [beagle] (https://getbeagle.co/) - a tool for creating better proposals
