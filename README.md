@@ -209,6 +209,7 @@ Just a bunch of my favorite resources for stuff.
 
 # **COPYWRITING**
 
+* [just good copy] (http://www.goodemailcopy.com/) - Email copy from great companies. Brought to you by Front.
 * [copyscape] (http://www.copyscape.com/) - search for copies of your page on the web
 * [paperr] (http://www.paperr.in/) - minimalist web based writing tool
 * [hemingway editor] (http://www.hemingwayapp.com/) - hemingway app makes your writing bold and clear
