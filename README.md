@@ -92,6 +92,7 @@ Just a bunch of my favorite resources for stuff.
 * [Uideo] (https://uideo.net/) - 275 talks for designers from 39 ui/ux conferences
 
 ## Typography
+* [typspiration] (http://typespiration.com/) - Inspirational web font combinations with color palettes and ready-to-use HTML/CSS code.
 * [my fonts] (http://www.myfonts.com/) - font store
 * [beautiful webtype] (http://hellohappy.org/beautiful-web-type/) - a showcase of the best typefaces from the Google web fonts directory
 * [100 days of fonts] (http://100daysoffonts.com/) - elle luna designed and coded a combination of Google Fonts
