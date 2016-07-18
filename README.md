@@ -259,3 +259,8 @@ Just a bunch of my favorite resources for stuff.
 # **START UP**
 
 * [start up resources] (http://startupresources.io/) - great list of tools, resources, tips and tricks
+
+***
+
+# **CONFERENCES**
+* [ux week](http://uxweek.com/) - Design professionals from all over the world gather for four days of community, inspiration and skills building.
