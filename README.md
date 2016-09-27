@@ -6,6 +6,7 @@ Just a bunch of my favorite resources for stuff.
 # **DESIGN**
 
 ## Color
+* [open color] (https://yeun.github.io/open-color/) - A UI color theme perceptible by the color blind
 * [color lisa] (http://colorlisa.com/) - Color palette masterpieces from the world's greatest artists.
 * [colors] (http://clrs.cc/) - a nicer palette for the web
 * [design seeds] (http://design-seeds.com/) - resource for finding color combinations
