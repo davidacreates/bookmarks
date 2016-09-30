@@ -167,6 +167,7 @@ Just a bunch of my favorite resources for stuff.
 * [clip champ] (https://clipchamp.com/) - video compression without using software
 
 ## Responsive Web Design
+* [responsive image breakpoints generator] (http://www.responsivebreakpoints.com/) - easily generate the optimal responsive image dimensions
 * [ultimate rwd resources] (http://bradfrost.github.io/this-is-responsive/resources.html) - compilation of RWD resources by Brad Frost
 * [ish responsive stress test] (http://bradfrost.com/demo/ish/) - great tool to research possible breakpoints]
 * [web style guides resources] (http://styleguides.io/) - includes pattern libraries and tool resources for RWD
