@@ -21,6 +21,9 @@ Just a bunch of my favorite resources for stuff.
 * [brand colors] (http://brandcolors.net/) - official color codes of the world's biggest brands
 * [matte black] (http://matte.black/) - various color swatches that give hex value when clicked
 
+## Client Communications
+* [cycles] (https://cycleshq.com/) - Cycles makes it super easy for clients to give feedback on your web projects.
+
 ## Icons
 * [font famous] (http://fontfamous.com/) - The free vector logo font for showing off your press!
 * [we love svg] (https://icons8.com/welovesvg) - google fonts for icons
