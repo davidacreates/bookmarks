@@ -3,6 +3,11 @@ Just a bunch of my favorite resources for stuff.
 
 ***
 
+# **BUSINESS DEVELOPMENT**
+* [Thedirectory] (http://www.thedirectory.io/) - Discover design agencies and get a job!
+
+***
+
 # **DESIGN**
 
 ## Color
