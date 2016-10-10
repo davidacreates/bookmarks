@@ -6,7 +6,7 @@ Just a bunch of my favorite resources for stuff.
 # **BUSINESS DEVELOPMENT**
 * [Thedirectory] (http://www.thedirectory.io/) - Discover design agencies and get a job!
 
-# **DESIGN**
+# DESIGN
 
 ## Color
 * [open color] (https://yeun.github.io/open-color/) - A UI color theme perceptible by the color blind
