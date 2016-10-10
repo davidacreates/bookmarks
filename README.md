@@ -3,7 +3,7 @@ Just a bunch of my favorite resources for stuff.
 
 ***
 
-# **BUSINESS DEVELOPMENT**
+# BUSINESS DEVELOPMENT
 * [Thedirectory] (http://www.thedirectory.io/) - Discover design agencies and get a job!
 
 # DESIGN
@@ -118,9 +118,7 @@ Just a bunch of my favorite resources for stuff.
 * [justinmind] (http://www.justinmind.com/) - interactive wireframing
 * [Sneakpeekit] (http://sneakpeekit.com/) - printable grids for design wireframing
 
-***
-
-# **DEVELOPMENT**
+# DEVELOPMENT
 
 ## Accessibility
 * [the accessibility cheatsheet] (http://bitsofco.de/2015/the-accessibility-cheatsheet/)
@@ -209,15 +207,11 @@ Just a bunch of my favorite resources for stuff.
 * [webydo] (http://www.webydo.com/) - code free website builder
 * [webflow] (https://webflow.com/) - code free website builder with CMS
 
-***
-
-# **ANIMATIONS**
+# ANIMATIONS
 
 * [drop to gif] (http://mortenjust.github.io/droptogif/) - zero-click animated GIFs
 
-***
-
-# **COPYWRITING**
+# COPYWRITING
 
 * [just good copy] (http://www.goodemailcopy.com/) - Email copy from great companies. Brought to you by Front.
 * [copyscape] (http://www.copyscape.com/) - search for copies of your page on the web
@@ -226,16 +220,12 @@ Just a bunch of my favorite resources for stuff.
 * [the gary halbert letters] (http://www.thegaryhalbertletter.com/) - the most valuable website on the Internet
 * [kopywriting kourse] (http://kopywritingkourse.com/) - includes great copy teardowns on the blog
 
-
-***
-# **ECOMMERCE**
+# ECOMMERCE
 
 ## Shipping
 * [lumi] (https://www.lumi.com/) - Better packaging supplies at the press of a button.
 
-***
-
-# **MARKETING**
+# MARKETING
 
 ## Stacks
 * [content marketing stack] (http://www.contentmarketingstack.co/) - A curated directory of content marketing resources & tutorials
@@ -271,13 +261,9 @@ Just a bunch of my favorite resources for stuff.
 ## Video
 * [wistia] (http://wistia.com/) - great video hosting platform
 
-***
-
-# **START UP**
+# START UP
 
 * [start up resources] (http://startupresources.io/) - great list of tools, resources, tips and tricks
 
-***
-
-# **CONFERENCES**
+# CONFERENCES
 * [ux week](http://uxweek.com/) - Design professionals from all over the world gather for four days of community, inspiration and skills building.
