@@ -160,6 +160,7 @@ Just a bunch of my favorite resources for stuff.
 * [gridiculous] (http://gridiculo.us/) - A fully responsive grid boilerplate
 
 ## Image Optimization
+* [jpeg.io] (https://www.jpeg.io/) - convert any major image format into a highly optimized JPEG
 * [imageAlpha] (http://pngmini.com/) - reduces file sizes of 24-bit PNG files (including alpha transparency)  
 * [imageOptim] (https://imageoptim.com/) - make images take up less disk space and load faster, without sacrificing quality
 * [pngquant] (https://pngquant.org/) - command-line utility and a library for lossy compression of PNG images
