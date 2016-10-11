@@ -170,6 +170,9 @@ Just a bunch of my favorite resources for stuff.
 * [tinypng] (https://tinypng.com/) - advanced lossy compression for PNG images that preserves full alpha transparency
 * [clip champ] (https://clipchamp.com/) - video compression without using software
 
+## Misc
+* [website downloader] (https://websitedownloader.io/) - download all the source code and assets of any website
+
 ## Responsive Web Design
 * [responsive image breakpoints generator] (http://www.responsivebreakpoints.com/) - easily generate the optimal responsive image dimensions
 * [ultimate rwd resources] (http://bradfrost.github.io/this-is-responsive/resources.html) - compilation of RWD resources by Brad Frost
