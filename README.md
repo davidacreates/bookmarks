@@ -11,6 +11,7 @@ Just a bunch of my favorite resources for stuff.
 
 ## Color
 * [open color] (https://yeun.github.io/open-color/) - A UI color theme perceptible by the color blind
+* [materialette] (https://mike-schultz.github.io/materialette/) - A color palette for material design
 * [color lisa] (http://colorlisa.com/) - Color palette masterpieces from the world's greatest artists.
 * [colors] (http://clrs.cc/) - a nicer palette for the web
 * [design seeds] (http://design-seeds.com/) - resource for finding color combinations
