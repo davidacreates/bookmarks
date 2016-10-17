@@ -3,6 +3,7 @@ Just a bunch of my favorite resources for stuff.
 
 # BUSINESS DEVELOPMENT
 * [Thedirectory] (http://www.thedirectory.io/) - Discover design agencies and get a job!
+* [launchaco] (http://launchaco.com/) - Name your business: instantly search domain names, social media handles & beautiful logotypes.
 
 ## Client Communications
 * [cycles] (https://cycleshq.com/) - Cycles makes it super easy for clients to give feedback on your web projects.
