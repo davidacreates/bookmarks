@@ -12,6 +12,7 @@ Just a bunch of my favorite resources for stuff.
 
 ## Color
 * [open color] (https://yeun.github.io/open-color/) - A UI color theme perceptible by the color blind
+* [color farm] (http://color.farm/) - Daily curated color inspiration
 * [materialette] (https://mike-schultz.github.io/materialette/) - A color palette for material design
 * [color claim] (http://www.vanschneider.com/colors/) - created by Tobias van Schneider to collect & combine unique colors
 * [color lisa] (http://colorlisa.com/) - Color palette masterpieces from the world's greatest artists.
