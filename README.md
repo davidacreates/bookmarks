@@ -41,6 +41,7 @@ Just a bunch of my favorite resources for stuff.
 * [icon jar] (http://geticonjar.com/) - organize, search and use icons the easy way
 
 ## Inspiration
+* [ecomm design] (https://ecomm.design/) - eCommerce Website Design Gallery & Tech Inspiration
 * [crayon] (https://www.crayon.co/) - collection of inspirational websites
 * [land book] (http://land-book.com/) - product landing page gallery
 * [lapa] (http://lapa.ninja/) - landing page design inspiration
