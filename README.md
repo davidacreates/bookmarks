@@ -1,57 +1,44 @@
 # My Must Have Resources
 Just a bunch of my favorite resources for stuff.
 
-## Accessibility
-* [the accessibility cheatsheet] (http://bitsofco.de/2015/the-accessibility-cheatsheet/)
-
-## Animations
-* [drop to gif] (http://mortenjust.github.io/droptogif/) - zero-click animated GIFs
-
-## Analytics
-* [analytics for instagram] (http://getanalytics.co/) - analytics app for instagram
-
 ## A/B Testing
+* [crazy egg] (https://www.crazyegg.com/)
 * [hotjar] (http://hotjar.com)
 * [optimizely] (https://www.optimizely.com
 * [sumo me] (http://sumome.com/)
+* [visual website optimizer] (https://vwo.com/)
 
-## Bootcamps
-* [app academy] (http://www.appacademy.io/#p-home)
-* [apprentice.io] (http://www.apprentice.io/)
-* [braindstation.io] (http://www.brainstation.io/)
-* [careerfoundry] (http://careerfoundry.com/)
-* [firehose] (http://www.thefirehoseproject.com/)
-* [tealeaf academy] (http://www.gotealeaf.com/)
-* [udacity] (https://www.udacity.com/)
+## Accessibility
+* [the accessibility cheatsheet] (http://bitsofco.de/2015/the-accessibility-cheatsheet/) - practical examples of accessibility guidelines implementation
+
+## Apprenticeships & Bootcamps
+* [app academy] (http://www.appacademy.io/#p-home) - software development (no tuition cost until you’re hired)
+* [apprentice.io] (http://www.apprentice.io/) - ideal for intermediate developers and designers looking to build upon their already strong foundation
+* [careerfoundry] (http://careerfoundry.com/) - online mentored courses to transform your career
+* [firehose] (http://www.thefirehoseproject.com/) - your path to a software career
+* [udacity nanodegree] (https://www.udacity.com/nanodegree) - master in-demand skills
 
 ## Business Development
-* [Thedirectory] (http://www.thedirectory.io/) - Discover design agencies and get a job!
-* [launchaco] (http://launchaco.com/) - Name your business: instantly search domain names, social media handles & beautiful logotypes.
+* [the directory] (http://www.thedirectory.io/) - Discover design agencies and get a job!
 
 ## Client Communications
 * [cycles] (https://cycleshq.com/) - Cycles makes it super easy for clients to give feedback on your web projects.
 
 ## Conferences
-* [ux week](http://uxweek.com/) - Design professionals from all over the world gather for four days of community, inspiration and skills building.
+* [ux week](http://uxweek.com/) - four days of community, inspiration and skills building.
 
 ## Color
-* [open color] (https://yeun.github.io/open-color/) - A UI color theme perceptible by the color blind
+* [brand colors] (http://brandcolors.net/) - official color codes of the world's biggest brands
 * [color farm] (http://color.farm/) - Daily curated color inspiration
-* [materialette] (https://mike-schultz.github.io/materialette/) - A color palette for material design
-* [color claim] (http://www.vanschneider.com/colors/) - created by Tobias van Schneider to collect & combine unique colors
-* [color lisa] (http://colorlisa.com/) - Color palette masterpieces from the world's greatest artists.
-* [colors] (http://clrs.cc/) - a nicer palette for the web
-* [design seeds] (http://design-seeds.com/) - resource for finding color combinations
-* [color] (http://color.hailpixel.com/) - intuitive color swatch generator
+* [colors] (http://clrs.cc/) - the new default - a nicer palette for the web
 * [coolors] (https://coolors.co/) - super-fast color scheme generator
 * [color hunt] (http://colorhunt.co/) - a place to discover and share beautiful color palettes
 * [swiss colors] (http://swisscolors.net/) - swiss style color picker
 * [gradients.io] (http://www.gradients.io/)- showcase of some beautiful gradient color combinations
 * [google material design color style] (http://www.google.com/design/spec/style/color.html#color-color-palette) - full color palettes for google material design
 * [material palette] (http://www.materialpalette.com/) - a material design color palette generator
-* [flat ui color picker] (http://www.flatuicolorpicker.com/) - a flat ui color picker
-* [brand colors] (http://brandcolors.net/) - official color codes of the world's biggest brands
-* [matte black] (http://matte.black/) - various color swatches that give hex value when clicked
+* [materialette] (https://mike-schultz.github.io/materialette/) - A color palette for material design
+* [open color] (https://yeun.github.io/open-color/) - A UI color theme perceptible by the color blind
 
 ## Content Marketing
 * [buzz sumo] (https://app.buzzsumo.com/) - trending topics
