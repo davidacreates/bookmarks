@@ -75,8 +75,6 @@ Just a bunch of my favorite resources for stuff.
 * [tinypng] (https://tinypng.com/) - advanced lossy compression for PNG images that preserves full alpha transparency
 
 ## Inspiration
-* [awwwards] (http://www.awwwards.com/) - gallery of inspirational websites
-* [awwwards picked typography sites] (http://www.awwwards.com/websites/typography/) - collection of the best typography use on websites
 * [beta list] (http://betalist.com/) - discover new start ups early
 * [crayon] (https://www.crayon.co/) - collection of inspirational websites
 * [ecomm design] (https://ecomm.design/) - eCommerce Website Design Gallery & Tech Inspiration
@@ -86,9 +84,6 @@ Just a bunch of my favorite resources for stuff.
 * [one page love] (https://onepagelove.com/) - gallery of one page websites
 * [product pages] (http://www.productpages.xyz/) - listing the best product, price, and store pages out there
 * [siiimple] (http://www.siiimple.com/) - best minimalist websites on the web
-* [site inspire] (http://www.siteinspire.com/) - gallery of inspirational websites
-* [stumbbble] (http://www.stumbbble.com/) - browse designer portfolio sites
-* [the best designs] (https://www.thebestdesigns.com/) - the best of web design and web design inspiration
 * [typeinspire] (http://typeinspire.com/) - typography inspiration and design gallery
 * [ui movement] (https://uimovement.com/) - place to find some really nice animations
 * [web design inspiration] (http://www.webdesign-inspiration.com/) - we help web designers to get inspired
