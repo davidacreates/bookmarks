@@ -12,8 +12,7 @@ Just a bunch of my favorite resources for stuff.
 
 ## A/B Testing
 * [hotjar] (http://hotjar.com)
-* [optimizely] (https://www.optimizely.com/)
-* [sujan patel] (http://sujanpatel.com/marketing/ab-testing/) - 50 A/B split tests to optimize your site to perfection
+* [optimizely] (https://www.optimizely.com
 * [sumo me] (http://sumome.com/)
 
 ## Bootcamps
