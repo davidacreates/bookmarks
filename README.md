@@ -19,10 +19,10 @@ Just a bunch of my favorite resources for stuff.
 * [udacity nanodegree] (https://www.udacity.com/nanodegree) - master in-demand skills
 
 ## Business Development
-* [the directory] (http://www.thedirectory.io/) - Discover design agencies and get a job!
+* [the directory] (http://www.thedirectory.io/) - discover design agencies and get a job!
 
 ## Client Communications
-* [cycles] (https://cycleshq.com/) - Cycles makes it super easy for clients to give feedback on your web projects.
+* [cycles] (https://cycleshq.com/) - makes it super easy for clients to give feedback on your web projects
 
 ## Conferences
 * [ux week](http://uxweek.com/) - four days of community, inspiration and skills building.
@@ -43,33 +43,16 @@ Just a bunch of my favorite resources for stuff.
 * [paperr] (http://www.paperr.in/) - minimalist web based writing tool
 
 ## CSS
-* [can i use] (http://caniuse.com/) - up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers
-* [CSSreference] (http://cssreference.io/) - A free visual guide to CSS
+* [can i use] (http://caniuse.com/) - up-to-date browser support tables for support of front-end web technologies
+* [cssreference] (http://cssreference.io/) - A free visual guide to CSS
 * [codrops] (http://tympanus.net/codrops/) - inspirational code snippets
 * [emmett cheatsheet] (http://docs.emmet.io/cheat-sheet/) - the essential tool for web developers
 
 ## Email Automation
-* [really good emails] (http://reallygoodemails.com/) - a collection for great emails
-* [just good copy] (http://www.goodemailcopy.com/) - email copy from great companies
 * [email hunter] (https://emailhunter.co/) - direct access to all the web's email addresses
 * [html email] (https://htmlemail.io/) - responsive HTML Email Templates
-
-## Frameworks / Boilerplates
-* [materialize] (http://materializecss.com/) - material design front end framework
-* [web starter kit] (https://developers.google.com/web/tools/starter-kit/) - google framework
-* [digital telepathy grunt boilerplate] (https://github.com/digital-telepathy/)
-* [start bootstrap] (http://startbootstrap.com/) - free bootstrap templates and themes
-* [bones] (http://themble.com/bones/) - HTML5, Mobile-First starter theme for rapid WordPress development
-
-## Freebies
-* [wwwhere] (http://wwwhere.io/) - a curated list of tools and resources for people who make websites
-* [design hooks] (http://designhooks.com/) - awesome resources for web design enthusiasts
-* [freebbble] (http://freebbble.com/) - design freebies made by dribbble folks
-* [freebiesjedi] (http://freebiesjedi.com/) - discover & download useful freebies today
-* [facebook freebies] (http://facebook.github.io/design/) - a collection of free resources made by designers at facebook
-
-## Grids
-* [gridiculous] (http://gridiculo.us/) - A fully responsive grid boilerplate
+* [just good copy] (http://www.goodemailcopy.com/) - email copy from great companies
+* [really good emails] (http://reallygoodemails.com/) - a collection for great emails
 
 ## Icons
 * [google material] (https://www.materialpalette.com/icons)
