@@ -30,7 +30,7 @@ Just a bunch of my favorite resources for stuff.
 ## Client Communications
 * [cycles] (https://cycleshq.com/) - Cycles makes it super easy for clients to give feedback on your web projects.
 
-## CONFERENCES
+## Conferences
 * [ux week](http://uxweek.com/) - Design professionals from all over the world gather for four days of community, inspiration and skills building.
 
 ## Color
@@ -244,7 +244,6 @@ Just a bunch of my favorite resources for stuff.
 
 ## UI/UX
 * [ux methods & deliverables] (http://uxdesign.cc/ux-methods-deliverables/) - a list of the most common methods and deliverables produced by UX Designers 
-
 
 ## Video
 * [wistia] (http://wistia.com/) - great video hosting platform
