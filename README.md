@@ -4,7 +4,7 @@ Just a bunch of my favorite resources for stuff.
 ## A/B Testing
 * [crazy egg] (https://www.crazyegg.com/)
 * [hotjar] (http://hotjar.com)
-* [optimizely] (https://www.optimizely.com
+* [optimizely] (https://www.optimizely.com)
 * [sumo me] (http://sumome.com/)
 * [visual website optimizer] (https://vwo.com/)
 
