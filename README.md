@@ -9,10 +9,12 @@ Just a bunch of my favorite resources for stuff.
 
 ## Analytics
 * [analytics for instagram] (http://getanalytics.co/) - analytics app for instagram
-* [optimizely] (https://www.optimizely.com/) - A/B testing tool
-* [sumo me] (http://sumome.com/) - A/B testing tool
-* [hotjar] (http://hotjar.com) - A/B testing tool
-* [50 A/B split tests to optimize your site to perfection] (http://sujanpatel.com/marketing/ab-testing/)
+
+## A/B Testing
+* [hotjar] (http://hotjar.com)
+* [optimizely] (https://www.optimizely.com/)
+* [sujan patel] (http://sujanpatel.com/marketing/ab-testing/) - 50 A/B split tests to optimize your site to perfection
+* [sumo me] (http://sumome.com/)
 
 ## Bootcamps
 * [app academy] (http://www.appacademy.io/#p-home)
