@@ -16,7 +16,7 @@ Just a bunch of my favorite resources for stuff.
 
 ## Bootcamps
 * [app academy] (http://www.appacademy.io/#p-home)
-* [apprentice.io] (http://www.apprentice.io/) - a professional development program from thoughtbot
+* [apprentice.io] (http://www.apprentice.io/)
 * [braindstation.io] (http://www.brainstation.io/)
 * [careerfoundry] (http://careerfoundry.com/)
 * [firehose] (http://www.thefirehoseproject.com/)
