@@ -29,40 +29,26 @@ Just a bunch of my favorite resources for stuff.
 
 ## Color
 * [brand colors] (http://brandcolors.net/) - official color codes of the world's biggest brands
-* [color farm] (http://color.farm/) - Daily curated color inspiration
 * [colors] (http://clrs.cc/) - the new default - a nicer palette for the web
-* [coolors] (https://coolors.co/) - super-fast color scheme generator
 * [color hunt] (http://colorhunt.co/) - a place to discover and share beautiful color palettes
 * [swiss colors] (http://swisscolors.net/) - swiss style color picker
 * [gradients.io] (http://www.gradients.io/)- showcase of some beautiful gradient color combinations
-* [google material design color style] (http://www.google.com/design/spec/style/color.html#color-color-palette) - full color palettes for google material design
-* [material palette] (http://www.materialpalette.com/) - a material design color palette generator
-* [materialette] (https://mike-schultz.github.io/materialette/) - A color palette for material design
+* [material palette] (https://www.materialpalette.com/colors) - a google material design color palette
 * [open color] (https://yeun.github.io/open-color/) - A UI color theme perceptible by the color blind
 
 ## Content Marketing
 * [buzz sumo] (https://app.buzzsumo.com/) - trending topics
-* [just good copy] (http://www.goodemailcopy.com/) - Email copy from great companies. Brought to you by Front.
 * [copyscape] (http://www.copyscape.com/) - search for copies of your page on the web
-* [paperr] (http://www.paperr.in/) - minimalist web based writing tool
 * [hemingway editor] (http://www.hemingwayapp.com/) - hemingway app makes your writing bold and clear
-* [the gary halbert letters] (http://www.thegaryhalbertletter.com/) - the most valuable website on the Internet
-* [kopywriting kourse] (http://kopywritingkourse.com/) - includes great copy teardowns on the blog
+* [paperr] (http://www.paperr.in/) - minimalist web based writing tool
 
 ## CSS
-* [CSSreference] (http://cssreference.io/) - A free visual guide to CSS
-* [HTML element reference] (https://developer.mozilla.org/en-US/docs/Web/HTML/Element) - all the HTML elements grouped by function
-* [emmett cheatsheet] (http://docs.emmet.io/cheat-sheet/) - the essential tool for web developers
-* [css reference] (https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) - lists all standard CSS properties, pseudo-classes and pseudo-elements, @-rules, units, and selectors in alphabetic order
-* [css docs] (https://docs.webplatform.org/wiki/css) - compiled resource of various CSS topics
 * [can i use] (http://caniuse.com/) - up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers
-* [css data types] (https://developer.mozilla.org/en-US/docs/tag/CSS%20Data%20Type) - list of the value types a property can accept
+* [CSSreference] (http://cssreference.io/) - A free visual guide to CSS
 * [codrops] (http://tympanus.net/codrops/) - inspirational code snippets
-* [colorful css buttons] (http://codepen.io/chrisdothtml/pen/waKBdM) - animated buttons on codepen
-* [how to center css] (http://howtocenterincss.com/) -  a neat form that spits out code for the parameters you pass it
-* [a to z css] (http://www.atozcss.com/) - free css screencasts tutorials for designers & developers
+* [emmett cheatsheet] (http://docs.emmet.io/cheat-sheet/) - the essential tool for web developers
 
-## Email
+## Email Automation
 * [really good emails] (http://reallygoodemails.com/) - a collection for great emails
 * [just good copy] (http://www.goodemailcopy.com/) - email copy from great companies
 * [email hunter] (https://emailhunter.co/) - direct access to all the web's email addresses
@@ -86,6 +72,7 @@ Just a bunch of my favorite resources for stuff.
 * [gridiculous] (http://gridiculo.us/) - A fully responsive grid boilerplate
 
 ## Icons
+* [google material] (https://www.materialpalette.com/icons)
 * [font famous] (http://fontfamous.com/) - The free vector logo font for showing off your press!
 * [we love svg] (https://icons8.com/welovesvg) - google fonts for icons
 * [google material icons] (https://www.google.com/design/icons/) - beautifully crafted icons built for material design
