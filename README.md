@@ -1,14 +1,37 @@
 # My Must Have Resources
 Just a bunch of my favorite resources for stuff.
 
-# BUSINESS DEVELOPMENT
+## Accessibility
+* [the accessibility cheatsheet] (http://bitsofco.de/2015/the-accessibility-cheatsheet/)
+
+# Animations
+* [drop to gif] (http://mortenjust.github.io/droptogif/) - zero-click animated GIFs
+
+## Analytics
+* [analytics for instagram] (http://getanalytics.co/) - analytics app for instagram
+* [optimizely] (https://www.optimizely.com/) - A/B testing tool
+* [sumo me] (http://sumome.com/) - A/B testing tool
+* [hotjar] (http://hotjar.com) - A/B testing tool
+* [50 A/B split tests to optimize your site to perfection] (http://sujanpatel.com/marketing/ab-testing/)
+
+## Bootcamps
+* [app academy] (http://www.appacademy.io/#p-home)
+* [apprentice.io] (http://www.apprentice.io/) - a professional development program from thoughtbot
+* [braindstation.io] (http://www.brainstation.io/)
+* [careerfoundry] (http://careerfoundry.com/)
+* [firehose] (http://www.thefirehoseproject.com/)
+* [tealeaf academy] (http://www.gotealeaf.com/)
+* [udacity] (https://www.udacity.com/)
+
+## Business Development
 * [Thedirectory] (http://www.thedirectory.io/) - Discover design agencies and get a job!
 * [launchaco] (http://launchaco.com/) - Name your business: instantly search domain names, social media handles & beautiful logotypes.
 
 ## Client Communications
 * [cycles] (https://cycleshq.com/) - Cycles makes it super easy for clients to give feedback on your web projects.
 
-# DESIGN
+## CONFERENCES
+* [ux week](http://uxweek.com/) - Design professionals from all over the world gather for four days of community, inspiration and skills building.
 
 ## Color
 * [open color] (https://yeun.github.io/open-color/) - A UI color theme perceptible by the color blind
@@ -29,6 +52,51 @@ Just a bunch of my favorite resources for stuff.
 * [brand colors] (http://brandcolors.net/) - official color codes of the world's biggest brands
 * [matte black] (http://matte.black/) - various color swatches that give hex value when clicked
 
+## Content Marketing
+* [buzz sumo] (https://app.buzzsumo.com/) - trending topics
+* [just good copy] (http://www.goodemailcopy.com/) - Email copy from great companies. Brought to you by Front.
+* [copyscape] (http://www.copyscape.com/) - search for copies of your page on the web
+* [paperr] (http://www.paperr.in/) - minimalist web based writing tool
+* [hemingway editor] (http://www.hemingwayapp.com/) - hemingway app makes your writing bold and clear
+* [the gary halbert letters] (http://www.thegaryhalbertletter.com/) - the most valuable website on the Internet
+* [kopywriting kourse] (http://kopywritingkourse.com/) - includes great copy teardowns on the blog
+
+## CSS
+* [CSSreference] (http://cssreference.io/) - A free visual guide to CSS
+* [HTML element reference] (https://developer.mozilla.org/en-US/docs/Web/HTML/Element) - all the HTML elements grouped by function
+* [emmett cheatsheet] (http://docs.emmet.io/cheat-sheet/) - the essential tool for web developers
+* [css reference] (https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) - lists all standard CSS properties, pseudo-classes and pseudo-elements, @-rules, units, and selectors in alphabetic order
+* [css docs] (https://docs.webplatform.org/wiki/css) - compiled resource of various CSS topics
+* [can i use] (http://caniuse.com/) - up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers
+* [css data types] (https://developer.mozilla.org/en-US/docs/tag/CSS%20Data%20Type) - list of the value types a property can accept
+* [codrops] (http://tympanus.net/codrops/) - inspirational code snippets
+* [colorful css buttons] (http://codepen.io/chrisdothtml/pen/waKBdM) - animated buttons on codepen
+* [how to center css] (http://howtocenterincss.com/) -  a neat form that spits out code for the parameters you pass it
+* [a to z css] (http://www.atozcss.com/) - free css screencasts tutorials for designers & developers
+
+## Email
+* [really good emails] (http://reallygoodemails.com/) - a collection for great emails
+* [just good copy] (http://www.goodemailcopy.com/) - email copy from great companies
+* [email hunter] (https://emailhunter.co/) - direct access to all the web's email addresses
+* [html email] (https://htmlemail.io/) - responsive HTML Email Templates
+
+## Frameworks / Boilerplates
+* [materialize] (http://materializecss.com/) - material design front end framework
+* [web starter kit] (https://developers.google.com/web/tools/starter-kit/) - google framework
+* [digital telepathy grunt boilerplate] (https://github.com/digital-telepathy/)
+* [start bootstrap] (http://startbootstrap.com/) - free bootstrap templates and themes
+* [bones] (http://themble.com/bones/) - HTML5, Mobile-First starter theme for rapid WordPress development
+
+## Freebies
+* [wwwhere] (http://wwwhere.io/) - a curated list of tools and resources for people who make websites
+* [design hooks] (http://designhooks.com/) - awesome resources for web design enthusiasts
+* [freebbble] (http://freebbble.com/) - design freebies made by dribbble folks
+* [freebiesjedi] (http://freebiesjedi.com/) - discover & download useful freebies today
+* [facebook freebies] (http://facebook.github.io/design/) - a collection of free resources made by designers at facebook
+
+## Grids
+* [gridiculous] (http://gridiculo.us/) - A fully responsive grid boilerplate
+
 ## Icons
 * [font famous] (http://fontfamous.com/) - The free vector logo font for showing off your press!
 * [we love svg] (https://icons8.com/welovesvg) - google fonts for icons
@@ -39,6 +107,16 @@ Just a bunch of my favorite resources for stuff.
 * [simple icons] (https://simpleicons.org/) - 127 SVG icons for popular brands
 * [noun project] (https://thenounproject.com/) - 150,000 icons built by creators
 * [icon jar] (http://geticonjar.com/) - organize, search and use icons the easy way
+
+## Image Optimization
+* [kraken] (https://kraken.io/web-interface) - Free Online Image Optimizer
+* [responsive image breakpoints generator] (http://www.responsivebreakpoints.com/) - easily generate the optimal responsive image dimensions
+* [jpeg.io] (https://www.jpeg.io/) - convert any major image format into a highly optimized JPEG
+* [imageAlpha] (http://pngmini.com/) - reduces file sizes of 24-bit PNG files (including alpha transparency)  
+* [imageOptim] (https://imageoptim.com/) - make images take up less disk space and load faster, without sacrificing quality
+* [pngquant] (https://pngquant.org/) - command-line utility and a library for lossy compression of PNG images
+* [tinypng] (https://tinypng.com/) - advanced lossy compression for PNG images that preserves full alpha transparency
+* [clip champ] (https://clipchamp.com/) - video compression without using software
 
 ## Inspiration
 * [ecomm design] (https://ecomm.design/) - eCommerce Website Design Gallery & Tech Inspiration
@@ -60,12 +138,26 @@ Just a bunch of my favorite resources for stuff.
 * [little big details] (http://littlebigdetails.com/) - Your daily dose of design inspiration.
 * [ui movement] (https://uimovement.com/) - place to find some really nice animations
 
-## Resources/Freebies
-* [wwwhere] (http://wwwhere.io/) - a curated list of tools and resources for people who make websites
-* [design hooks] (http://designhooks.com/) - awesome resources for web design enthusiasts
-* [freebbble] (http://freebbble.com/) - design freebies made by dribbble folks
-* [freebiesjedi] (http://freebiesjedi.com/) - discover & download useful freebies today
-* [facebook freebies] (http://facebook.github.io/design/) - a collection of free resources made by designers at facebook
+## Proposals & Briefs
+* [beagle] (https://getbeagle.co/) - a tool for creating better proposals
+* [the project brief toolkit] (http://project-brief.casual.pm/) - project brief templates
+
+## Responsive Web Design
+* [responsive image breakpoints generator] (http://www.responsivebreakpoints.com/) - easily generate the optimal responsive image dimensions
+* [ultimate rwd resources] (http://bradfrost.github.io/this-is-responsive/resources.html) - compilation of RWD resources by Brad Frost
+* [ish responsive stress test] (http://bradfrost.com/demo/ish/) - great tool to research possible breakpoints]
+* [web style guides resources] (http://styleguides.io/) - includes pattern libraries and tool resources for RWD
+* [responsive design cheatsheet] (https://uxpin.s3.amazonaws.com/responsive_web_design_cheatsheet.pdf) - graphic of device measurements for breakpoints
+* [everything there is to know about flexbox] (http://www.designyourway.net/blog/design/everything-there-is-to-know-about-flexbox/) - good round up of articles about flexbox
+* [screen sizes] (http://screensiz.es/phone) - a list of screen size specs for various devices
+* [how to make wordpress images responsive] (http://www.webdesignerdepot.com/2015/06/how-to-make-wordpress-images-responsive/)
+
+## Sass
+* [useful sass snippets](http://hmphry.com/useful-sass-mixins) - five really useful snippets
+* [How to structure your typography in Sass] (http://chipcullen.com/how-to-structure-your-typography-in-sass/)
+
+## Shipping
+* [lumi] (https://www.lumi.com/) - Better packaging supplies at the press of a button.
 
 ## Sketch
 * [sketch talk] (http://sketchtalk.io/) - sketch forum & user community
@@ -75,7 +167,23 @@ Just a bunch of my favorite resources for stuff.
 * [sketch keyboard shortcuts] (https://designcode.io/sketch-keyboard) - sketch keyboard shortcuts and tricks
 * [sketch shortcuts] (http://sketchshortcuts.com/) - all of sketch's shortcuts listed
 
-## Stock Media
+## Social
+* [prepopulate tweets tool] (https://www.marketingtechblog.com/share-a-tweet/#content) - add your tweet and pop out the code
+
+## Specs
+* [zeplin] (https://zeplin.io/) - nice specing tool available for sketch only
+* [markly app] (http://marklyapp.com/) - Create Beautiful Specs With Ease
+* [built with] (http://builtwith.com/) - list all of the components a site is built with
+
+## Squarespace
+* [squarespace circle] (https://circle.squarespace.com/) - A community for creative professionals who build websites on Squarespace.
+
+## Stacks
+* [content marketing stack] (http://www.contentmarketingstack.co/) - A curated directory of content marketing resources & tutorials
+* [marketing stack] (http://marketingstack.io/) - A curated directory of marketing resources & tools
+* [start up resources] (http://startupresources.io/) - great list of tools, resources, tips and tricks
+
+## Stock Photos & Videos
 * [death to stock photos] (http://deathtothestockphoto.com/) - stock photography doesn't have to suck
 * [the stocks] (http://thestocks.im/) - collection of free stock photography sites
 * [libre stock] (http://librestock.com/) - search the best 30 free stock photo websites in one place
@@ -101,9 +209,24 @@ Just a bunch of my favorite resources for stuff.
 * [ohsik asset guide/style directory template] (https://github.com/ohsik/asset-library-template) - great framework to build off of
 * [new york times style guide] (http://www.thetimes.co.uk/styleguide/getting-started)
 
-
 ## Talks
 * [Uideo] (https://uideo.net/) - 275 talks for designers from 39 ui/ux conferences
+
+## Traffic & Engagement
+* [sumo me] (http://sumome.com/) - website traffic growth tool
+* [get site control] (https://getsitecontrol.com/) - visitor engagement tools for your startup
+* [lead pages] (http://www.leadpages.net/products/?banner=video) - lead generation tool
+* [exit monitor] (http://exitmonitor.com/) - turn your abandoning visitors into customers
+* [wBounce] (https://wordpress.org/plugins/wbounce/) - improves bounce rate to boost conversions and sales
+* [kingsumo] (http://kingsumo.com/) - grow your traffic by viral giveaways
+
+## Troubleshooting
+* [what's my browser] (http://www.whatsmybrowser.org/) - creates a url with all the info about the client's browser
+
+## Tutorials
+* [bourbon, neat and bitters: getting started] (http://www.git-tower.com/learn/bourbon-neat-bitters/getting-ready/introduction#start)
+* [learning version control with git] (http://www.git-tower.com/learn/git/ebook/command-line/introduction)
+* [a to z css] (http://www.atozcss.com/) - free css screencasts tutorials for designers & developers
 
 ## Typography
 * [typspiration] (http://typespiration.com/) - Inspirational web font combinations with color palettes and ready-to-use HTML/CSS code.
@@ -119,164 +242,21 @@ Just a bunch of my favorite resources for stuff.
 * [awwwards picked typography sites] (http://www.awwwards.com/websites/typography/) - collection of the best typography use on websites
 * [typeinspire] (http://typeinspire.com/) - typography inspiration and design gallery
 
-
-## Wireframing
-* [justinmind] (http://www.justinmind.com/) - interactive wireframing
-* [Sneakpeekit] (http://sneakpeekit.com/) - printable grids for design wireframing
-
-# DEVELOPMENT
-
-## Accessibility
-* [the accessibility cheatsheet] (http://bitsofco.de/2015/the-accessibility-cheatsheet/)
-
-## Analytics
-* [analytics for instagram] (http://getanalytics.co/) - analytics app for instagram
-* [optimizely] (https://www.optimizely.com/) - A/B testing tool
-* [sumo me] (http://sumome.com/) - A/B testing tool
-* [hotjar] (http://hotjar.com) - A/B testing tool
-* [50 A/B split tests to optimize your site to perfection] (http://sujanpatel.com/marketing/ab-testing/)
-
-## Bootcamps
-* [app academy] (http://www.appacademy.io/#p-home)
-* [apprentice.io] (http://www.apprentice.io/) - a professional development program from thoughtbot
-* [braindstation.io] (http://www.brainstation.io/)
-* [careerfoundry] (http://careerfoundry.com/)
-* [firehose] (http://www.thefirehoseproject.com/)
-* [tealeaf academy] (http://www.gotealeaf.com/)
-* [udacity] (https://www.udacity.com/)
-
-## CSS
-* [CSSreference] (http://cssreference.io/) - A free visual guide to CSS
-* [HTML element reference] (https://developer.mozilla.org/en-US/docs/Web/HTML/Element) - all the HTML elements grouped by function
-* [emmett cheatsheet] (http://docs.emmet.io/cheat-sheet/) - the essential tool for web developers
-* [css reference] (https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) - lists all standard CSS properties, pseudo-classes and pseudo-elements, @-rules, units, and selectors in alphabetic order
-* [css docs] (https://docs.webplatform.org/wiki/css) - compiled resource of various CSS topics
-* [can i use] (http://caniuse.com/) - up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers
-* [css data types] (https://developer.mozilla.org/en-US/docs/tag/CSS%20Data%20Type) - list of the value types a property can accept
-* [codrops] (http://tympanus.net/codrops/) - inspirational code snippets
-* [colorful css buttons] (http://codepen.io/chrisdothtml/pen/waKBdM) - animated buttons on codepen
-* [how to center css] (http://howtocenterincss.com/) -  a neat form that spits out code for the parameters you pass it
-* [a to z css] (http://www.atozcss.com/) - free css screencasts tutorials for designers & developers
-
-## Frameworks / Boilerplates
-* [materialize] (http://materializecss.com/) - material design front end framework
-* [web starter kit] (https://developers.google.com/web/tools/starter-kit/) - google framework
-* [digital telepathy grunt boilerplate] (https://github.com/digital-telepathy/)
-* [start bootstrap] (http://startbootstrap.com/) - free bootstrap templates and themes
-* [bones] (http://themble.com/bones/) - HTML5, Mobile-First starter theme for rapid WordPress development
-
-## Grids
-* [gridiculous] (http://gridiculo.us/) - A fully responsive grid boilerplate
-
-## Image Optimization
-* [kraken] (https://kraken.io/web-interface) - Free Online Image Optimizer
-* [responsive image breakpoints generator] (http://www.responsivebreakpoints.com/) - easily generate the optimal responsive image dimensions
-* [jpeg.io] (https://www.jpeg.io/) - convert any major image format into a highly optimized JPEG
-* [imageAlpha] (http://pngmini.com/) - reduces file sizes of 24-bit PNG files (including alpha transparency)  
-* [imageOptim] (https://imageoptim.com/) - make images take up less disk space and load faster, without sacrificing quality
-* [pngquant] (https://pngquant.org/) - command-line utility and a library for lossy compression of PNG images
-* [tinypng] (https://tinypng.com/) - advanced lossy compression for PNG images that preserves full alpha transparency
-* [clip champ] (https://clipchamp.com/) - video compression without using software
-
-## Misc
-* [website downloader] (https://websitedownloader.io/) - download all the source code and assets of any website
-
-## Responsive Web Design
-* [responsive image breakpoints generator] (http://www.responsivebreakpoints.com/) - easily generate the optimal responsive image dimensions
-* [ultimate rwd resources] (http://bradfrost.github.io/this-is-responsive/resources.html) - compilation of RWD resources by Brad Frost
-* [ish responsive stress test] (http://bradfrost.com/demo/ish/) - great tool to research possible breakpoints]
-* [web style guides resources] (http://styleguides.io/) - includes pattern libraries and tool resources for RWD
-* [responsive design cheatsheet] (https://uxpin.s3.amazonaws.com/responsive_web_design_cheatsheet.pdf) - graphic of device measurements for breakpoints
-* [everything there is to know about flexbox] (http://www.designyourway.net/blog/design/everything-there-is-to-know-about-flexbox/) - good round up of articles about flexbox
-* [screen sizes] (http://screensiz.es/phone) - a list of screen size specs for various devices
-* [how to make wordpress images responsive] (http://www.webdesignerdepot.com/2015/06/how-to-make-wordpress-images-responsive/)
-
-## Sass
-* [useful sass snippets](http://hmphry.com/useful-sass-mixins) - five really useful snippets
-* [How to structure your typography in Sass] (http://chipcullen.com/how-to-structure-your-typography-in-sass/)
-
-## Specs
-* [zeplin] (https://zeplin.io/) - nice specing tool available for sketch only
-* [markly app] (http://marklyapp.com/) - Create Beautiful Specs With Ease
-* [built with] (http://builtwith.com/) - list all of the components a site is built with
-
-## Squarespace
-* [squarespace circle] (https://circle.squarespace.com/) - A community for creative professionals who build websites on Squarespace.
-
-## Troubleshooting
-* [what's my browser] (http://www.whatsmybrowser.org/) - creates a url with all the info about the client's browser
-
-## Tutorials
-* [bourbon, neat and bitters: getting started] (http://www.git-tower.com/learn/bourbon-neat-bitters/getting-ready/introduction#start)
-* [learning version control with git] (http://www.git-tower.com/learn/git/ebook/command-line/introduction)
-* [a to z css] (http://www.atozcss.com/) - free css screencasts tutorials for designers & developers
-
 ## UI/UX
 * [ux methods & deliverables] (http://uxdesign.cc/ux-methods-deliverables/) - a list of the most common methods and deliverables produced by UX Designers 
 
-## Website Builders
-
-* [staticGen] (https://www.staticgen.com/) - top open source static site generators
-* [webydo] (http://www.webydo.com/) - code free website builder
-* [webflow] (https://webflow.com/) - code free website builder with CMS
-
-# ANIMATIONS
-
-* [drop to gif] (http://mortenjust.github.io/droptogif/) - zero-click animated GIFs
-
-# COPYWRITING
-
-* [just good copy] (http://www.goodemailcopy.com/) - Email copy from great companies. Brought to you by Front.
-* [copyscape] (http://www.copyscape.com/) - search for copies of your page on the web
-* [paperr] (http://www.paperr.in/) - minimalist web based writing tool
-* [hemingway editor] (http://www.hemingwayapp.com/) - hemingway app makes your writing bold and clear
-* [the gary halbert letters] (http://www.thegaryhalbertletter.com/) - the most valuable website on the Internet
-* [kopywriting kourse] (http://kopywritingkourse.com/) - includes great copy teardowns on the blog
-
-# ECOMMERCE
-
-## Shipping
-* [lumi] (https://www.lumi.com/) - Better packaging supplies at the press of a button.
-
-# MARKETING
-
-## Stacks
-* [content marketing stack] (http://www.contentmarketingstack.co/) - A curated directory of content marketing resources & tutorials
-* [marketing stack] (http://marketingstack.io/) - A curated directory of marketing resources & tools
-
-## Blogging
-* [buzz sumo] (https://app.buzzsumo.com/) - trending topics
-
-## Email
-* [really good emails] (http://reallygoodemails.com/) - a collection for great emails
-* [just good copy] (http://www.goodemailcopy.com/) - email copy from great companies
-* [email hunter] (https://emailhunter.co/) - direct access to all the web's email addresses
-* [html email] (https://htmlemail.io/) - responsive HTML Email Templates
-
-## Proposals & Briefs
-* [beagle] (https://getbeagle.co/) - a tool for creating better proposals
-* [the project brief toolkit] (http://project-brief.casual.pm/) - project brief templates
-
-## Research
-* [programming for marketers] (http://www.programmingformarketers.com/) - become a technical marketer
-
-## Social
-* [prepopulate tweets tool] (https://www.marketingtechblog.com/share-a-tweet/#content) - add your tweet and pop out the code
-
-## Traffic & Engagement
-* [sumo me] (http://sumome.com/) - website traffic growth tool
-* [get site control] (https://getsitecontrol.com/) - visitor engagement tools for your startup
-* [lead pages] (http://www.leadpages.net/products/?banner=video) - lead generation tool
-* [exit monitor] (http://exitmonitor.com/) - turn your abandoning visitors into customers
-* [wBounce] (https://wordpress.org/plugins/wbounce/) - improves bounce rate to boost conversions and sales
-* [kingsumo] (http://kingsumo.com/) - grow your traffic by viral giveaways
 
 ## Video
 * [wistia] (http://wistia.com/) - great video hosting platform
 
-# START UP
+## Website Builders
+* [staticGen] (https://www.staticgen.com/) - top open source static site generators
+* [webydo] (http://www.webydo.com/) - code free website builder
+* [webflow] (https://webflow.com/) - code free website builder with CMS
 
-* [start up resources] (http://startupresources.io/) - great list of tools, resources, tips and tricks
+## Website Downloaders
+* [website downloader] (https://websitedownloader.io/) - download all the source code and assets of any website
 
-# CONFERENCES
-* [ux week](http://uxweek.com/) - Design professionals from all over the world gather for four days of community, inspiration and skills building.
+## Wireframing
+* [justinmind] (http://www.justinmind.com/) - interactive wireframing
+* [Sneakpeekit] (http://sneakpeekit.com/) - printable grids for design wireframing
