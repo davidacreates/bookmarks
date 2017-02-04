@@ -4,7 +4,7 @@ Just a bunch of my favorite resources for stuff.
 ## Accessibility
 * [the accessibility cheatsheet] (http://bitsofco.de/2015/the-accessibility-cheatsheet/)
 
-# Animations
+## Animations
 * [drop to gif] (http://mortenjust.github.io/droptogif/) - zero-click animated GIFs
 
 ## Analytics
