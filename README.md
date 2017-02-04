@@ -55,46 +55,44 @@ Just a bunch of my favorite resources for stuff.
 * [really good emails] (http://reallygoodemails.com/) - a collection for great emails
 
 ## Icons
-* [google material] (https://www.materialpalette.com/icons)
-* [font famous] (http://fontfamous.com/) - The free vector logo font for showing off your press!
-* [we love svg] (https://icons8.com/welovesvg) - google fonts for icons
-* [google material icons] (https://www.google.com/design/icons/) - beautifully crafted icons built for material design
+* [google material] (https://www.materialpalette.com/icons) - material design icons
+* [font famous] (http://fontfamous.com/) - vector logo font for media logos
 * [font awesome] (http://fortawesome.github.io/Font-Awesome/) - scalable vector icons that can instantly be customized
 * [ionicons] (http://ionicons.com/) - free open source icons with CDN
-* [streamline icons] (http://www.streamlineicons.com/) - 4000 vector icons
-* [simple icons] (https://simpleicons.org/) - 127 SVG icons for popular brands
-* [noun project] (https://thenounproject.com/) - 150,000 icons built by creators
 * [icon jar] (http://geticonjar.com/) - organize, search and use icons the easy way
+* [noun project] (https://thenounproject.com/) - 150,000 icons built by creators
+* [simple icons] (https://simpleicons.org/) - SVG icons for popular brands
+* [streamline icons] (http://www.streamlineicons.com/) - 5000 vector icons organized in 97 categories
+* [we love svg] (https://icons8.com/welovesvg) - google fonts for icons
 
 ## Image Optimization
-* [kraken] (https://kraken.io/web-interface) - Free Online Image Optimizer
-* [responsive image breakpoints generator] (http://www.responsivebreakpoints.com/) - easily generate the optimal responsive image dimensions
-* [jpeg.io] (https://www.jpeg.io/) - convert any major image format into a highly optimized JPEG
 * [imageAlpha] (http://pngmini.com/) - reduces file sizes of 24-bit PNG files (including alpha transparency)  
 * [imageOptim] (https://imageoptim.com/) - make images take up less disk space and load faster, without sacrificing quality
+* [jpeg.io] (https://www.jpeg.io/) - convert any major image format into a highly optimized JPEG
+* [kraken] (https://kraken.io/web-interface) - free online image optimizer
 * [pngquant] (https://pngquant.org/) - command-line utility and a library for lossy compression of PNG images
+* [responsive image breakpoints generator] (http://www.responsivebreakpoints.com/) - easily generate the optimal responsive image dimensions
 * [tinypng] (https://tinypng.com/) - advanced lossy compression for PNG images that preserves full alpha transparency
-* [clip champ] (https://clipchamp.com/) - video compression without using software
 
 ## Inspiration
-* [ecomm design] (https://ecomm.design/) - eCommerce Website Design Gallery & Tech Inspiration
-* [crayon] (https://www.crayon.co/) - collection of inspirational websites
-* [land book] (http://land-book.com/) - product landing page gallery
-* [lapa] (http://lapa.ninja/) - landing page design inspiration
-* [product pages] (http://www.productpages.xyz/) - listing the best product, price, and store pages out there
-* [siiimple] (http://www.siiimple.com/) - best minimalist websites on the web
-* [web design inspiration] (http://www.webdesign-inspiration.com/) - we help web designers to get inspired
-* [the best designs] (https://www.thebestdesigns.com/) - the best of web design and web design inspiration
-* [beta list] (http://betalist.com/) - discover new start ups early
-* [one page love] (https://onepagelove.com/) - gallery of one page websites
-* [stumbbble] (http://www.stumbbble.com/) - browse designer portfolio sites
-* [site inspire] (http://www.siteinspire.com/) - gallery of inspirational websites
 * [awwwards] (http://www.awwwards.com/) - gallery of inspirational websites
 * [awwwards picked typography sites] (http://www.awwwards.com/websites/typography/) - collection of the best typography use on websites
-* [typeinspire] (http://typeinspire.com/) - typography inspiration and design gallery
-* [zurb responsive sites] (http://zurb.com/responsive) - great gallery of responsive sites from different frameworks
+* [beta list] (http://betalist.com/) - discover new start ups early
+* [crayon] (https://www.crayon.co/) - collection of inspirational websites
+* [ecomm design] (https://ecomm.design/) - eCommerce Website Design Gallery & Tech Inspiration
+* [land book] (http://land-book.com/) - product landing page gallery
+* [lapa] (http://lapa.ninja/) - landing page design inspiration
 * [little big details] (http://littlebigdetails.com/) - Your daily dose of design inspiration.
+* [one page love] (https://onepagelove.com/) - gallery of one page websites
+* [product pages] (http://www.productpages.xyz/) - listing the best product, price, and store pages out there
+* [siiimple] (http://www.siiimple.com/) - best minimalist websites on the web
+* [site inspire] (http://www.siteinspire.com/) - gallery of inspirational websites
+* [stumbbble] (http://www.stumbbble.com/) - browse designer portfolio sites
+* [the best designs] (https://www.thebestdesigns.com/) - the best of web design and web design inspiration
+* [typeinspire] (http://typeinspire.com/) - typography inspiration and design gallery
 * [ui movement] (https://uimovement.com/) - place to find some really nice animations
+* [web design inspiration] (http://www.webdesign-inspiration.com/) - we help web designers to get inspired
+* [zurb responsive sites] (http://zurb.com/responsive) - great gallery of responsive sites from different frameworks
 
 ## Proposals & Briefs
 * [beagle] (https://getbeagle.co/) - a tool for creating better proposals
