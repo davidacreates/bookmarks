@@ -21,8 +21,10 @@ Just a bunch of my favorite resources for stuff.
 ## Business Development
 * [the directory] (http://www.thedirectory.io/) - discover design agencies and get a job!
 
-## Client Communications
+## Client Feedback
 * [cycles] (https://cycleshq.com/) - makes it super easy for clients to give feedback on your web projects
+* [juntoo] (https://juntoo.co/) - collect and deliver feedback direcly on live web pages
+* [track duck] (https://trackduck.com/) - communicate on websites and designs
 
 ## Conferences
 * [ux week](http://uxweek.com/) - four days of community, inspiration and skills building.
@@ -34,11 +36,16 @@ Just a bunch of my favorite resources for stuff.
 * [swiss colors] (http://swisscolors.net/) - swiss style color picker
 * [gradients.io] (http://www.gradients.io/)- showcase of some beautiful gradient color combinations
 * [material palette] (https://www.materialpalette.com/colors) - a google material design color palette
-* [open color] (https://yeun.github.io/open-color/) - A UI color theme perceptible by the color blind
+* [open color] (https://yeun.github.io/open-color/) - ui color theme perceptible by the color blind
+* [ui gradients] (https://uigradients.com/#) - beautiful color gradients
+
+## Content Gathering
+* [write maps] (https://writemaps.com/) - make sitemaps and gather content
 
 ## Content Marketing
 * [buzz sumo] (https://app.buzzsumo.com/) - trending topics
 * [copyscape] (http://www.copyscape.com/) - search for copies of your page on the web
+* [headline analyzer] (http://coschedule.com/headline-analyzer) - write headlines that drive traffice
 * [hemingway editor] (http://www.hemingwayapp.com/) - hemingway app makes your writing bold and clear
 * [paperr] (http://www.paperr.in/) - minimalist web based writing tool
 
@@ -114,8 +121,9 @@ Just a bunch of my favorite resources for stuff.
 * [squarespace circle] (https://circle.squarespace.com/) - A community for creative professionals who build websites on Squarespace.
 
 ## Stacks
-* [content marketing stack] (http://www.contentmarketingstack.co/) - A curated directory of content marketing resources & tutorials
-* [marketing stack] (http://marketingstack.io/) - A curated directory of marketing resources & tools
+* [content marketing stack] (http://www.contentmarketingstack.co/) - curated directory of content marketing resources & tutorials
+* [marketing stack] (http://marketingstack.io/) - curated directory of marketing resources & tools
+* [resource cards] (https://resourcecards.com/) - free resources aimed to help creatives
 * [start up resources] (http://startupresources.io/) - great list of tools, resources, tips and tricks
 
 ## Stock Photos & Videos
@@ -127,6 +135,7 @@ Just a bunch of my favorite resources for stuff.
 * [ui faces] (http://uifaces.com/) - stock faces for ui elements
 
 ## Style Guides
+* [brand style guide examples] (http://saijogeorge.com/brand-style-guide-examples/) - hand-picked collection of brand style guides
 * [frontify brand style guide] (https://frontify.com/) - software for brand style guides, design workflows & visual collaboration
 * [web style guides resources] (http://styleguides.io/) - includes pattern libraries and tool resources for RWD
 
@@ -143,20 +152,14 @@ Just a bunch of my favorite resources for stuff.
 * [what's my browser] (http://www.whatsmybrowser.org/) - creates a url with all the info about the client's browser
 
 ## Typography
-* [typspiration] (http://typespiration.com/) - Inspirational web font combinations with color palettes and ready-to-use HTML/CSS code.
-* [my fonts] (http://www.myfonts.com/) - font store
-* [beautiful webtype] (http://hellohappy.org/beautiful-web-type/) - a showcase of the best typefaces from the Google web fonts directory
-* [font pair] (http://fontpair.co/) -  a tool showing a variety of suggested font pairings, allowing for the insertion of custom text for each one
-* [font library] (http://katydecorah.com/font-library/#/heavy/) - an open source project to tag and organize google fonts
-* [font cdn] (http://fontcdn.org/) - directory of google fonts displayed elegantly
-* [just my type] (http://justmytype.co/typekit/) - typekit font pairing
+
+* [font pair] (http://fontpair.co/) -  a tool showing a variety of suggested font pairings
 * [typo guide] (http://www.typogui.de/) - a pocket guide to master every day’s typographic adventures
-* [a more modern scale for web typography] (http://typecast.com/blog/a-more-modern-scale-for-web-typography) - typographic scale
-* [awwwards picked typography sites] (http://www.awwwards.com/websites/typography/) - collection of the best typography use on websites
-* [typeinspire] (http://typeinspire.com/) - typography inspiration and design gallery
+* [typspiration] (http://typespiration.com/) - inspirational web font combinations with color palettes and ready-to-use HTML/CSS code.
 
 ## UI/UX
-* [ux methods & deliverables] (http://uxdesign.cc/ux-methods-deliverables/) - a list of the most common methods and deliverables produced by UX Designers 
+* [ux methods & deliverables] (http://uxdesign.cc/ux-methods-deliverables/) - a list of the most common methods and deliverables produced by UX Designers
+* [ux project checklist] (https://uxchecklist.github.io/) - a checklist for your ux
 
 ## Video
 * [wistia] (http://wistia.com/) - great video hosting platform
