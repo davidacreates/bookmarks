@@ -11,6 +11,10 @@ Just a bunch of my favorite resources for stuff.
 ## Accessibility
 * [the accessibility cheatsheet] (http://bitsofco.de/2015/the-accessibility-cheatsheet/) - practical examples of accessibility guidelines implementation
 
+## Animation
+* [animate css] (https://daneden.github.io/animate.css/) - just-add-water css animations
+* [tuesday] (https://shakrmedia.github.io/tuesday/) - a quirky CSS Animation Library
+
 ## Apprenticeships & Bootcamps
 * [app academy] (http://www.appacademy.io/#p-home) - software development (no tuition cost until you’re hired)
 * [apprentice.io] (http://www.apprentice.io/) - ideal for intermediate developers and designers looking to build upon their already strong foundation
