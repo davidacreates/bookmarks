@@ -135,6 +135,7 @@ Just a bunch of my favorite resources for stuff.
 * [death to stock photos] (http://deathtothestockphoto.com/) - stock photography doesn't have to suck
 * [libre stock] (http://librestock.com/) - search the best 30 free stock photo websites in one place
 * [pexels] (http://www.pexels.com/) - all the free stock photography in one place
+* [stock snap] - (https://stocksnap.io/) - hundreds of free high resolution images added weekly
 * [the stocks] (http://thestocks.im/) - collection of free stock photography sites
 * [ui faces] (http://uifaces.com/) - stock faces for ui elements
 
