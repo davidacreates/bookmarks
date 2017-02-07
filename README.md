@@ -3,6 +3,7 @@ Just a bunch of my favorite resources for stuff.
 
 ## Contents
 * [A/B Testing](#a/b-testing)
+* [Color](#color)
 
 ## A/B Testing
 * [crazy egg] (https://www.crazyegg.com/)
