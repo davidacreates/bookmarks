@@ -3,6 +3,7 @@ Just a bunch of my favorite resources for stuff.
 
 ## Contents
 * [A/B Testing](#a/b-testing)
+* [Accessibility](#accessibility)
 * [Color](#color)
 
 ## A/B Testing
