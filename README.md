@@ -4,7 +4,7 @@ Just a bunch of my favorite resources for stuff.
 ## Contents
 * [A/B Testing](#a/b-testing)
 * [Accessibility](#accessibility)
-* [Animation](#animation]
+* [Animation](#animation)
 * [Apprenticeships & Bootcamps](#apprenticeships--bootcamps)
 * [Business Development](#business-development)
 * [Client Feedback](#client-feedback)
