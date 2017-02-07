@@ -1,6 +1,9 @@
 # My Must Have Resources
 Just a bunch of my favorite resources for stuff.
 
+## Contents
+* [A/B Testing](#a/b-testing)
+
 ## A/B Testing
 * [crazy egg] (https://www.crazyegg.com/)
 * [hotjar] (http://hotjar.com)
