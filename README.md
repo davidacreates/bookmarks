@@ -111,6 +111,9 @@ Just a bunch of my favorite resources for stuff.
 * [ui movement] (https://uimovement.com/) - place to find some really nice animations
 * [web design inspiration] (http://www.webdesign-inspiration.com/) - we help web designers to get inspired
 
+## Project Management
+* [milanote] (http://www.milanote.com/) - the notes app for creatives
+
 ## Proposals & Briefs
 * [the project brief toolkit] (http://project-brief.casual.pm/) - project brief templates
 
