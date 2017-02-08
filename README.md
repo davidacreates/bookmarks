@@ -33,6 +33,7 @@ Just a bunch of my favorite resources for stuff.
 
 ## Business Development
 * [the directory] (http://www.thedirectory.io/) - discover design agencies and get a job!
+* [logomakr] (https://logomakr.com/) - make logos easily with icons
 
 ## Client Feedback
 * [cycles] (https://cycleshq.com/) - makes it super easy for clients to give feedback on your web projects
