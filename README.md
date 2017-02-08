@@ -122,8 +122,9 @@ Just a bunch of my favorite resources for stuff.
 * [sketch shortcuts] (http://sketchshortcuts.com/) - all of sketch's shortcuts listed
 * [sketch talk] (http://sketchtalk.io/) - sketch forum & user community
 
-## Social
+## Social Media
 * [prepopulate tweets tool] (https://www.marketingtechblog.com/share-a-tweet/#content) - add your tweet and pop out the code
+* [quuu] (https://www.quuu.co/) - hand-curated content suggestions for social media
 
 ## Specs
 * [built with] (http://builtwith.com/) - list all of the components a site is built with
