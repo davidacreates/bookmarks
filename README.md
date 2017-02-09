@@ -33,6 +33,7 @@ Just a bunch of my favorite resources for stuff.
 
 ## Business Development
 * [the directory] (http://www.thedirectory.io/) - discover design agencies and get a job!
+* [out of office hours] (https://www.outofofficehours.com/) - creating dialog between newcomers and people working in the tech industry
 * [logomakr] (https://logomakr.com/) - make logos easily with icons
 
 ## Client Feedback
