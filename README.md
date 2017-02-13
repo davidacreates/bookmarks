@@ -143,6 +143,7 @@ Just a bunch of my favorite resources for stuff.
 * [content marketing stack] (http://www.contentmarketingstack.co/) - curated directory of content marketing resources & tutorials
 * [marketing stack] (http://marketingstack.io/) - curated directory of marketing resources & tools
 * [resource cards] (https://resourcecards.com/) - free resources aimed to help creatives
+* [stacks of stacks] (http://stackofstack.com/) - hand curated list of the best curated lists
 * [start up resources] (http://startupresources.io/) - great list of tools, resources, tips and tricks
 
 ## Stock Photos & Videos
