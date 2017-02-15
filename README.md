@@ -112,6 +112,9 @@ Just a bunch of my favorite resources for stuff.
 * [ui movement] (https://uimovement.com/) - place to find some really nice animations
 * [web design inspiration] (http://www.webdesign-inspiration.com/) - we help web designers to get inspired
 
+## Job Boards
+* [hired] (https://hired.com/) - hired matches outstanding people with the world's most innovative companies
+
 ## Project Management
 * [milanote] (http://www.milanote.com/) - the notes app for creatives
 
