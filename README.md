@@ -117,6 +117,9 @@ Just a bunch of my favorite resources for stuff.
 ## Job Boards
 * [hired] (https://hired.com/) - hired matches outstanding people with the world's most innovative companies
 
+## Personal Development
+* [my morning routine] (http://mymorningroutine.com/) - 
+
 ## Project Management
 * [milanote] (http://www.milanote.com/) - the notes app for creatives
 
