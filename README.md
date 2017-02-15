@@ -48,7 +48,8 @@ Just a bunch of my favorite resources for stuff.
 * [brand colors] (http://brandcolors.net/) - official color codes of the world's biggest brands
 * [colors] (http://clrs.cc/) - the new default - a nicer palette for the web
 * [color hunt] (http://colorhunt.co/) - a place to discover and share beautiful color palettes
-* [itmeo] (https://webgradients.com/) - free collection of 180 linear gradients that you can use as content backdrops in any part of your website. 
+* [design seeds] (https://www.design-seeds.com/by-color/) - daily dose of color inspiration
+* [itmeo] (https://webgradients.com/) - free collection of 180 linear gradients
 * [swiss colors] (http://swisscolors.net/) - swiss style color picker
 * [gradients.io] (http://www.gradients.io/)- showcase of some beautiful gradient color combinations
 * [material palette] (https://www.materialpalette.com/colors) - a google material design color palette
