@@ -66,11 +66,12 @@ Just a bunch of my favorite resources for stuff.
 * [hemingway editor] (http://www.hemingwayapp.com/) - hemingway app makes your writing bold and clear
 * [paperr] (http://www.paperr.in/) - minimalist web based writing tool
 
-## CSS
+## CSS/HTML
 * [can i use] (http://caniuse.com/) - up-to-date browser support tables for support of front-end web technologies
-* [cssreference] (http://cssreference.io/) - A free visual guide to CSS
+* [css reference] (http://cssreference.io/) - A free visual guide to CSS
 * [codrops] (http://tympanus.net/codrops/) - inspirational code snippets
 * [emmett cheatsheet] (http://docs.emmet.io/cheat-sheet/) - the essential tool for web developers
+* [html reference] (http://htmlreference.io/) - a free guide to HTML
 
 ## Email Automation
 * [email hunter] (https://emailhunter.co/) - direct access to all the web's email addresses
