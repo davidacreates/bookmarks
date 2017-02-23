@@ -149,6 +149,7 @@ Just a bunch of my favorite resources for stuff.
 * [squarespace circle] (https://circle.squarespace.com/) - A community for creative professionals who build websites on Squarespace.
 
 ## Stacks
+* [case studies] (https://www.casestudy.club/case-studies) - amazing collection of case studies
 * [content marketing stack] (http://www.contentmarketingstack.co/) - curated directory of content marketing resources & tutorials
 * [marketing stack] (http://marketingstack.io/) - curated directory of marketing resources & tools
 * [resource cards] (https://resourcecards.com/) - free resources aimed to help creatives
