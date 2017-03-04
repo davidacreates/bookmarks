@@ -8,7 +8,7 @@ Just a bunch of my favorite resources for stuff.
 * [Apprenticeships & Bootcamps](#apprenticeships--bootcamps)
 * [Business Development](#business-development)
 * [Client Feedback](#client-feedback)
-* [Content Gathering](#content-gathering)
+* [Color](#color)
 * [Content Marketing](#content-marketing)
 * [CSS/HTML](#css/html)
 * [Email Automation](#email-automation)
