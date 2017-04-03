@@ -11,6 +11,7 @@ Just a bunch of my favorite resources for stuff.
 * [Color](#color)
 * [Content Marketing](#content-marketing)
 * [CSS/HTML](#css/html)
+* [Design Systems] (#design-systems)
 * [Email Automation](#email-automation)
 * [Icons](#icons)
 * [Image Optimization](#image-optimization)
@@ -99,6 +100,9 @@ Just a bunch of my favorite resources for stuff.
 * [codrops] (http://tympanus.net/codrops/) - inspirational code snippets
 * [emmett cheatsheet] (http://docs.emmet.io/cheat-sheet/) - the essential tool for web developers
 * [html reference] (http://htmlreference.io/) - a free guide to HTML
+
+## Design Systems
+* [carbon design system] (http://carbondesignsystem.com/) - a versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates).
 
 ## Email Automation
 * [email hunter] (https://emailhunter.co/) - direct access to all the web's email addresses
