@@ -11,7 +11,7 @@ Just a bunch of my favorite resources for stuff.
 * [Color](#color)
 * [Content Marketing](#content-marketing)
 * [CSS/HTML](#css/html)
-* [Design Systems] (#design-systems)
+* [Design Systems](#design-systems)
 * [Email Automation](#email-automation)
 * [Icons](#icons)
 * [Image Optimization](#image-optimization)
