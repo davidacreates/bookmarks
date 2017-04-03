@@ -189,6 +189,7 @@ Just a bunch of my favorite resources for stuff.
 * [start up resources] (http://startupresources.io/) - great list of tools, resources, tips and tricks
 
 ## Stock Photos & Videos
+* [color stock] (https://getcolorstock.com/) - we're changing the hue of stock photos with simply priced, royalty-free images for brands, marketers, and content creators.
 * [coverr] (http://www.coverr.co/) - beautiful stock video delivered daily
 * [death to stock photos] (http://deathtothestockphoto.com/) - stock photography doesn't have to suck
 * [every pixel] (https://everypixel.com/) - Stock Image Search Engine That Filters Out Trash
