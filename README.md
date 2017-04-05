@@ -169,6 +169,7 @@ Just a bunch of my favorite resources for stuff.
 * [sketch talk] (http://sketchtalk.io/) - sketch forum & user community
 
 ## Social Media
+* [adJelly] (https://www.adjelly.com/size-guide) - The ultimate social & digital ad size guide!
 * [prepopulate tweets tool] (https://www.marketingtechblog.com/share-a-tweet/#content) - add your tweet and pop out the code
 * [quuu] (https://www.quuu.co/) - hand-curated content suggestions for social media
 
