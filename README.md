@@ -145,6 +145,7 @@ Just a bunch of my favorite resources for stuff.
 * [siiimple] (http://www.siiimple.com/) - best minimalist websites on the web
 * [typeinspire] (http://typeinspire.com/) - typography inspiration and design gallery
 * [ui movement] (https://uimovement.com/) - place to find some really nice animations
+* [upLabs] (https://www.uplabs.com/) - daily ui inspiration & downloads
 * [web design inspiration] (http://www.webdesign-inspiration.com/) - we help web designers to get inspired
 
 ## Job Boards
