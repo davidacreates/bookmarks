@@ -191,13 +191,24 @@ Just a bunch of my favorite resources for stuff.
 * [start up resources] (http://startupresources.io/) - great list of tools, resources, tips and tricks
 
 ## Stock Photos & Videos
+* [bucketlisty] (http://photos.bucketlistly.com/) - free creative common collection of over 5000+ travel photos from all over the world
+* [burst] (https://burst.shopify.com/) - free photography for entrepreneurs
 * [color stock] (https://getcolorstock.com/) - we're changing the hue of stock photos with simply priced, royalty-free images for brands, marketers, and content creators.
 * [coverr] (http://www.coverr.co/) - beautiful stock video delivered daily
 * [death to stock photos] (http://deathtothestockphoto.com/) - stock photography doesn't have to suck
-* [every pixel] (https://everypixel.com/) - Stock Image Search Engine That Filters Out Trash
-* [jopwell] (http://jopwellcollection.jopwell.com/thejopwellcollection/) - Free Stock Images Of Our Community At Work
+* [every pixel] (https://everypixel.com/) - stock image search engine that filters out trash
+* [foodiesfeed] (https://foodiesfeed.com/) - free food pictures
+* [gratisography] (http://www.gratisography.com/) - Free high-resolution pictures you can use on your personal and commercial projects
+* [iso republic] (http://isorepublic.com/) - free stock photography for creatives
+* [jopwell] (http://jopwellcollection.jopwell.com/thejopwellcollection/) - free Stock Images Of Our Community At Work
 * [libre stock] (http://librestock.com/) - search the best 30 free stock photo websites in one place
+* [mmt] (http://mmtstock.com/) - free photos for commercial use
 * [pexels] (http://www.pexels.com/) - all the free stock photography in one place
+* [picography] (https://picography.co/) - free images to use however you like.
+* [raumrot] (http://raumrot.com/photo-set-landing/) - stunning lifestyle imagery for modern creatives
+* [splitshire] (https://www.splitshire.com/) - free stock photos and images for commercial use.
+* [start up stock] (http://startupstockphotos.com/) - start up stock photography
+* [stok pic] (http://stokpic.com/) - free Stock Photos For Commercial Use
 * [stock snap] - (https://stocksnap.io/) - hundreds of free high resolution images added weekly
 * [the stocks] (http://thestocks.im/) - collection of free stock photography sites
 * [ui faces] (http://uifaces.com/) - stock faces for ui elements
