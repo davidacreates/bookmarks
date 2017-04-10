@@ -80,7 +80,7 @@ Just a bunch of my favorite resources for stuff.
 * [design seeds] (https://www.design-seeds.com/by-color/) - daily dose of color inspiration
 * [itmeo] (https://webgradients.com/) - free collection of 180 linear gradients
 * [swiss colors] (http://swisscolors.net/) - swiss style color picker
-* [gradients.io] (http://www.gradients.io/)- showcase of some beautiful gradient color combinations
+* [gradients.io] (http://www.gradients.io/) - showcase of some beautiful gradient color combinations
 * [material palette] (https://www.materialpalette.com/colors) - a google material design color palette
 * [open color] (https://yeun.github.io/open-color/) - ui color theme perceptible by the color blind
 * [ui gradients] (https://uigradients.com/#) - beautiful color gradients
