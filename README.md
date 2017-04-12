@@ -8,9 +8,9 @@ Just a bunch of my favorite resources for stuff.
 * [Apprenticeships & Bootcamps](#apprenticeships--bootcamps)
 * [Business Development](#business-development)
 * [Client Feedback](#client-feedback)
+* [Coding](#coding)
 * [Color](#color)
 * [Content Marketing](#content-marketing)
-* [CSS/HTML](#css/html)
 * [Design Systems](#design-systems)
 * [Email Automation](#email-automation)
 * [Icons](#icons)
@@ -70,6 +70,14 @@ Just a bunch of my favorite resources for stuff.
 * [juntoo] (https://juntoo.co/) - collect and deliver feedback direcly on live web pages
 * [track duck] (https://trackduck.com/) - communicate on websites and designs
 
+## Coding
+* [boilrplate] (http://www.boilrplate.com/) - a curated directory of boilerplates to help you start your projects!
+* [can i use] (http://caniuse.com/) - up-to-date browser support tables for support of front-end web technologies
+* [css reference] (http://cssreference.io/) - A free visual guide to CSS
+* [codrops] (http://tympanus.net/codrops/) - inspirational code snippets
+* [emmett cheatsheet] (http://docs.emmet.io/cheat-sheet/) - the essential tool for web developers
+* [html reference] (http://htmlreference.io/) - a free guide to HTML
+
 ## Conferences
 * [ux week](http://uxweek.com/) - four days of community, inspiration and skills building.
 
@@ -94,13 +102,6 @@ Just a bunch of my favorite resources for stuff.
 * [headline analyzer] (http://coschedule.com/headline-analyzer) - write headlines that drive traffice
 * [hemingway editor] (http://www.hemingwayapp.com/) - hemingway app makes your writing bold and clear
 * [paperr] (http://www.paperr.in/) - minimalist web based writing tool
-
-## CSS/HTML
-* [can i use] (http://caniuse.com/) - up-to-date browser support tables for support of front-end web technologies
-* [css reference] (http://cssreference.io/) - A free visual guide to CSS
-* [codrops] (http://tympanus.net/codrops/) - inspirational code snippets
-* [emmett cheatsheet] (http://docs.emmet.io/cheat-sheet/) - the essential tool for web developers
-* [html reference] (http://htmlreference.io/) - a free guide to HTML
 
 ## Design Systems
 * [carbon design system] (http://carbondesignsystem.com/) - a versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates).
