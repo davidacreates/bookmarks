@@ -78,6 +78,7 @@ Just a bunch of my favorite resources for stuff.
 * [codrops] (http://tympanus.net/codrops/) - inspirational code snippets
 * [emmett cheatsheet] (http://docs.emmet.io/cheat-sheet/) - the essential tool for web developers
 * [html reference] (http://htmlreference.io/) - a free guide to HTML
+* [writemaps] (https://writemaps.com/) - WriteMaps helps you make sitemaps and gather content
 
 ## Conferences
 * [ux week](http://uxweek.com/) - four days of community, inspiration and skills building.
