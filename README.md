@@ -78,6 +78,7 @@ Just a bunch of my favorite resources for stuff.
 * [codrops] (http://tympanus.net/codrops/) - inspirational code snippets
 * [emmett cheatsheet] (http://docs.emmet.io/cheat-sheet/) - the essential tool for web developers
 * [glitch] (https://glitch.com/) - glitch is the friendly community where you'll build the app of your dreams
+* [hacker rank] (https://www.hackerrank.com/) - Practice coding. Compete. Find jobs.
 * [html reference] (http://htmlreference.io/) - a free guide to HTML
 * [writemaps] (https://writemaps.com/) - WriteMaps helps you make sitemaps and gather content
 
