@@ -81,6 +81,7 @@ Just a bunch of my favorite resources for stuff.
 * [glitch] (https://glitch.com/) - glitch is the friendly community where you'll build the app of your dreams
 * [hacker rank] (https://www.hackerrank.com/) - Practice coding. Compete. Find jobs.
 * [html reference] (http://htmlreference.io/) - a free guide to HTML
+* [list] (http://lists.design/) - a gallery of real data ready to be placed in your design.
 * [pramp] (https://www.pramp.com/) - practice coding interviews for free
 * [writemaps] (https://writemaps.com/) - WriteMaps helps you make sitemaps and gather content
 
