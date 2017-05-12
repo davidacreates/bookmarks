@@ -13,6 +13,7 @@ Just a bunch of my favorite resources for stuff.
 * [Content Marketing](#content-marketing)
 * [Design Systems](#design-systems)
 * [Email Automation](#email-automation)
+* [Frameworks](#frameworks)
 * [Icons](#icons)
 * [Image Optimization](#image-optimization)
 * [Inspiration](#inspiration)
@@ -119,6 +120,9 @@ Just a bunch of my favorite resources for stuff.
 * [html email] (https://htmlemail.io/) - responsive HTML Email Templates
 * [just good copy] (http://www.goodemailcopy.com/) - email copy from great companies
 * [really good emails] (http://reallygoodemails.com/) - a collection for great emails
+
+## Frameworks
+* [semantic ui] (https://semantic-ui.com/) - a development framework that helps create beautiful, responsive layouts using human-friendly HTML
 
 ## Icons
 * [google material] (https://www.materialpalette.com/icons) - material design icons
