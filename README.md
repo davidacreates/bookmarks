@@ -122,6 +122,7 @@ Just a bunch of my favorite resources for stuff.
 * [really good emails] (http://reallygoodemails.com/) - a collection for great emails
 
 ## Frameworks
+* [html5 boilerplate] (https://html5boilerplate.com/) - the web’s most popular front-end template
 * [semantic ui] (https://semantic-ui.com/) - a development framework that helps create beautiful, responsive layouts using human-friendly HTML
 
 ## Icons
