@@ -20,6 +20,7 @@ Just a bunch of my favorite resources for stuff.
 * [Personal Development](#personal-development)
 * [Project Management](#project-management)
 * [Proposals & Briefs](#proposals-&-briefs)
+* [Remote Work](#remote-work)
 * [Shipping](#shipping)
 * [Sketch](#sketch)
 * [Social Media](#social-media)
@@ -168,6 +169,11 @@ Just a bunch of my favorite resources for stuff.
 
 ## Proposals & Briefs
 * [the project brief toolkit] (http://project-brief.casual.pm/) - project brief templates
+
+## Remote Work
+* [remote ok] (https://remoteok.io/) - find a job where you can work anywhere
+* [we work remotely] (https://weworkremotely.com/) - the best place to find and list jobs that aren’t restricted by commutes or a particular geographic area
+* [working nomads] (https://www.workingnomads.co/jobs) - we curate the best digital jobs for those looking to start their telecommuting career.
 
 ## Shipping
 * [lumi] (https://www.lumi.com/) - better packaging supplies at the press of a button.
