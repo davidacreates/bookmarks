@@ -48,7 +48,7 @@ Just a bunch of my favorite resources for stuff.
 * [visual website optimizer] (https://vwo.com/)
 
 ## Accessibility
-* [the accessibility cheatsheet] (http://bitsofco.de/2015/the-accessibility-cheatsheet/) - practical examples of accessibility guidelines implementation
+* the accessibility cheatsheet (http://bitsofco.de/2015/the-accessibility-cheatsheet/) - practical examples of accessibility guidelines implementation
 
 ## Animation
 * [animate css] (https://daneden.github.io/animate.css/) - just-add-water css animations
