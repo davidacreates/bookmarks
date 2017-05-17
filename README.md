@@ -237,6 +237,7 @@ Just a bunch of my favorite resources for stuff.
 * [brand style guide examples] (http://saijogeorge.com/brand-style-guide-examples/) - hand-picked collection of brand style guides
 * [frontify brand style guide] (https://frontify.com/) - software for brand style guides, design workflows & visual collaboration
 * [intercom style guide] (http://intercom.github.io/core-styles/) - intercom core styles
+* [style guide guide] (http://bradfrost.github.io/style-guide-guide/) - A boilerplate for creating superb style guides
 * [web style guides resources] (http://styleguides.io/) - includes pattern libraries and tool resources for RWD
 
 ## Talks
