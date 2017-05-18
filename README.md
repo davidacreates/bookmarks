@@ -119,6 +119,7 @@ Just a bunch of my favorite resources for stuff.
 * [email hunter] (https://emailhunter.co/) - direct access to all the web's email addresses
 * [html email] (https://htmlemail.io/) - responsive HTML Email Templates
 * [just good copy] (http://www.goodemailcopy.com/) - email copy from great companies
+* [postmark app] (https://postmarkapp.com/) - postmark makes it easy to send time-sensitive transactional email to your customers.
 * [really good emails] (http://reallygoodemails.com/) - a collection for great emails
 
 ## Frameworks
