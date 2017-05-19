@@ -78,6 +78,7 @@ Just a bunch of my favorite resources for stuff.
 * [can i use] (http://caniuse.com/) - up-to-date browser support tables for support of front-end web technologies
 * [css reference] (http://cssreference.io/) - A free visual guide to CSS
 * [codrops] (http://tympanus.net/codrops/) - inspirational code snippets
+* [get credit card numbers] (http://www.getcreditcardnumbers.com/) - Valid Credit Card Numbers for Testing Purposes!
 * [emmett cheatsheet] (http://docs.emmet.io/cheat-sheet/) - the essential tool for web developers
 * [github cheatsheet] (https://education.github.com/git-cheat-sheet-education.pdf) - the most important and commonly used Git commands for easy reference
 * [glitch] (https://glitch.com/) - glitch is the friendly community where you'll build the app of your dreams
@@ -259,6 +260,7 @@ Just a bunch of my favorite resources for stuff.
 * [font pair] (http://fontpair.co/) -  a tool showing a variety of suggested font pairings
 * [typo guide] (http://www.typogui.de/) - a pocket guide to master every day’s typographic adventures
 * [typspiration] (http://typespiration.com/) - inspirational web font combinations with color palettes and ready-to-use HTML/CSS code.
+* [typewolf] (https://www.typewolf.com/google-fonts) - the 40 best google fonts
 
 ## UI/UX
 * [ux methods & deliverables] (http://uxdesign.cc/ux-methods-deliverables/) - a list of the most common methods and deliverables produced by UX Designers
