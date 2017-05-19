@@ -85,6 +85,7 @@ Just a bunch of my favorite resources for stuff.
 * [hacker rank] (https://www.hackerrank.com/) - Practice coding. Compete. Find jobs.
 * [html reference] (http://htmlreference.io/) - a free guide to HTML
 * [list] (http://lists.design/) - a gallery of real data ready to be placed in your design.
+* [mailtrap] (https://mailtrap.io/) - email testing for dev teams
 * [pramp] (https://www.pramp.com/) - practice coding interviews for free
 * [writemaps] (https://writemaps.com/) - WriteMaps helps you make sitemaps and gather content
 
