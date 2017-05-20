@@ -93,6 +93,7 @@ Just a bunch of my favorite resources for stuff.
 * [ux week](http://uxweek.com/) - four days of community, inspiration and skills building.
 
 ## Color
+* [ambience] (http://ambiance.somethingjustlikethis.com/) - color palette generator
 * [brand colors] (http://brandcolors.net/) - official color codes of the world's biggest brands
 * [colors] (http://clrs.cc/) - the new default - a nicer palette for the web
 * [color hunt] (http://colorhunt.co/) - a place to discover and share beautiful color palettes
