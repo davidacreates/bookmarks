@@ -97,6 +97,7 @@ Just a bunch of my favorite resources for stuff.
 * [brand colors] (http://brandcolors.net/) - official color codes of the world's biggest brands
 * [colors] (http://clrs.cc/) - the new default - a nicer palette for the web
 * [color hunt] (http://colorhunt.co/) - a place to discover and share beautiful color palettes
+* [color mind] (http://colormind.io/bootstrap/) - color scheme generator that uses deep learning
 * [colourcode] (http://www.colourco.de/) - Pick colours based on hsl
 * [design seeds] (https://www.design-seeds.com/by-color/) - daily dose of color inspiration
 * [itmeo] (https://webgradients.com/) - free collection of 180 linear gradients
@@ -260,6 +261,7 @@ Just a bunch of my favorite resources for stuff.
 ## Typography
 
 * [font pair] (http://fontpair.co/) -  a tool showing a variety of suggested font pairings
+* [font joy] (http://fontjoy.com/) - generate font combinations with deep learning
 * [mixfont] (https://www.mixfont.com/) - A modern font generator
 * [typo guide] (http://www.typogui.de/) - a pocket guide to master every day’s typographic adventures
 * [typspiration] (http://typespiration.com/) - inspirational web font combinations with color palettes and ready-to-use HTML/CSS code.
