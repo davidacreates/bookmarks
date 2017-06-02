@@ -133,6 +133,7 @@ Just a bunch of my favorite resources for stuff.
 
 ## Icons
 * [google material] (https://www.materialpalette.com/icons) - material design icons
+* [feather icons] (https://feathericons.com/) - simply beautiful open source svg icons
 * [font famous] (http://fontfamous.com/) - vector logo font for media logos
 * [font awesome] (http://fortawesome.github.io/Font-Awesome/) - scalable vector icons that can instantly be customized
 * [ionicons] (http://ionicons.com/) - free open source icons with CDN
