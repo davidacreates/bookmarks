@@ -163,6 +163,7 @@ Just a bunch of my favorite resources for stuff.
 * [land book] (http://land-book.com/) - product landing page gallery
 * [lapa] (http://lapa.ninja/) - landing page design inspiration
 * [little big details] (http://littlebigdetails.com/) - Your daily dose of design inspiration.
+* [logojoy] (https://www.logojoy.com/) - Logojoy makes it easy and fun to create a logo that you’ll be proud of
 * [one page love] (https://onepagelove.com/) - gallery of one page websites
 * [product pages] (http://www.productpages.xyz/) - listing the best product, price, and store pages out there
 * [siiimple] (http://www.siiimple.com/) - best minimalist websites on the web
