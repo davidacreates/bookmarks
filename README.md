@@ -219,7 +219,7 @@ Just a bunch of my favorite resources for stuff.
 * [stacks of stacks] (http://stackofstack.com/) - hand curated list of the best curated lists
 * [start up resources] (http://startupresources.io/) - great list of tools, resources, tips and tricks
 
-## Stock Photos & Videos
+## Stock Photos, Videos, & Text
 * [bucketlisty] (http://photos.bucketlistly.com/) - free creative common collection of over 5000+ travel photos from all over the world
 * [burst] (https://burst.shopify.com/) - free photography for entrepreneurs
 * [color stock] (https://getcolorstock.com/) - we're changing the hue of stock photos with simply priced, royalty-free images for brands, marketers, and content creators.
@@ -231,6 +231,7 @@ Just a bunch of my favorite resources for stuff.
 * [iso republic] (http://isorepublic.com/) - free stock photography for creatives
 * [jopwell] (http://jopwellcollection.jopwell.com/thejopwellcollection/) - free Stock Images Of Our Community At Work
 * [libre stock] (http://librestock.com/) - search the best 30 free stock photo websites in one place
+* [lists] (https://listsdesign.herokuapp.com/) - real content for all your designs.
 * [mmt] (http://mmtstock.com/) - free photos for commercial use
 * [pexels] (http://www.pexels.com/) - all the free stock photography in one place
 * [picography] (https://picography.co/) - free images to use however you like.
