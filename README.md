@@ -275,6 +275,8 @@ Just a bunch of my favorite resources for stuff.
 * [font pair](http://fontpair.co/) -  a tool showing a variety of suggested font pairings
 * [font joy](http://fontjoy.com/) - generate font combinations with deep learning
 * [mixfont](https://www.mixfont.com/) - A modern font generator
+* [google fonts combinations v1](https://www.behance.net/gallery/35768979/Typography-Google-Fonts-Combinations)
+* [google fonts combinations v2](https://www.behance.net/gallery/41054815/Typography-Google-Fonts-Combinations-Volume-2)
 * [typo guide](http://www.typogui.de/) - a pocket guide to master every day’s typographic adventures
 * [typspiration](http://typespiration.com/) - inspirational web font combinations with color palettes and ready-to-use HTML/CSS code.
 * [typewolf](https://www.typewolf.com/google-fonts) - the 40 best google fonts
