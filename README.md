@@ -135,6 +135,7 @@ Just a bunch of my favorite resources for stuff.
 
 ## Icons
 * [google material](https://www.materialpalette.com/icons) - material design icons
+* [grumpicon](http://www.grumpicon.com/) - Drag & Drop ur SVGs on the Grumpicon plz
 * [feather icons](https://feathericons.com/) - simply beautiful open source svg icons
 * [font famous](http://fontfamous.com/) - vector logo font for media logos
 * [font awesome](http://fortawesome.github.io/Font-Awesome/) - scalable vector icons that can instantly be customized
@@ -143,7 +144,11 @@ Just a bunch of my favorite resources for stuff.
 * [instant logo search](http://instantlogosearch.com/) - search & download thousands of logos instantly
 * [noun project](https://thenounproject.com/) - 150,000 icons built by creators
 * [simple icons](https://simpleicons.org/) - SVG icons for popular brands
+* [spritesh](https://www.npmjs.com/package/spritesh) - a node.js script to build a SVG sprite from a folder of SVG files
 * [streamline icons](http://www.streamlineicons.com/) - 5000 vector icons organized in 97 categories
+* [svg4everybody](https://github.com/jonathantneal/svg4everybody) - use external SVG spritemaps today
+* [svgo](https://github.com/svg/svgo) - nodejs-based tool for optimizing SVG vector graphics files
+* [svgomg](https://jakearchibald.github.io/svgomg/) - graphical interface for svgo
 * [we love svg](https://icons8.com/welovesvg) - google fonts for icons
 
 ## Image Optimization
