@@ -102,11 +102,12 @@ Just a bunch of my favorite resources for stuff.
 * [color mind](http://colormind.io/bootstrap/) - color scheme generator that uses deep learning
 * [colourcode](http://www.colourco.de/) - Pick colours based on hsl
 * [design seeds](https://www.design-seeds.com/by-color/) - daily dose of color inspiration
-* [itmeo](https://webgradients.com/) - free collection of 180 linear gradients
-* [swiss colors](http://swisscolors.net/) - swiss style color picker
+* [grabient](https://www.grabient.com/) - UI to generate linear-gradients
 * [gradients.io](http://www.gradients.io/) - showcase of some beautiful gradient color combinations
-* [material palette](https://www.materialpalette.com/colors) - a google material design color palette
+* [itmeo](https://webgradients.com/) - free collection of 180 linear gradients
 * [open color](https://yeun.github.io/open-color/) - ui color theme perceptible by the color blind
+* [material palette](https://www.materialpalette.com/colors) - a google material design color palette
+* [swiss colors](http://swisscolors.net/) - swiss style color picker
 * [ui gradients](https://uigradients.com/#) - beautiful color gradients
 
 ## Content Gathering
