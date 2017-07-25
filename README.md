@@ -101,6 +101,7 @@ Just a bunch of my favorite resources for stuff.
 * [color hunt](http://colorhunt.co/) - a place to discover and share beautiful color palettes
 * [color mind](http://colormind.io/bootstrap/) - color scheme generator that uses deep learning
 * [colourcode](http://www.colourco.de/) - Pick colours based on hsl
+* [cool hue](https://webkul.github.io/coolhue/) - Coolest handpicked Gradient Hues
 * [design seeds](https://www.design-seeds.com/by-color/) - daily dose of color inspiration
 * [grabient](https://www.grabient.com/) - UI to generate linear-gradients
 * [gradients.io](http://www.gradients.io/) - showcase of some beautiful gradient color combinations
