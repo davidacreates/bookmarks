@@ -242,6 +242,7 @@ Just a bunch of my favorite resources for stuff.
 * [libre stock](http://librestock.com/) - search the best 30 free stock photo websites in one place
 * [lists](https://listsdesign.herokuapp.com/) - real content for all your designs.
 * [mmt](http://mmtstock.com/) - free photos for commercial use
+* [nappy](https://www.nappy.co/) - free beautiful, high-res photos of black and brown people
 * [pexels](http://www.pexels.com/) - all the free stock photography in one place
 * [picography](https://picography.co/) - free images to use however you like.
 * [raumrot](http://raumrot.com/photo-set-landing/) - stunning lifestyle imagery for modern creatives
