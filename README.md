@@ -108,6 +108,7 @@ Just a bunch of my favorite resources for stuff.
 * [itmeo](https://webgradients.com/) - free collection of 180 linear gradients
 * [open color](https://yeun.github.io/open-color/) - ui color theme perceptible by the color blind
 * [material palette](https://www.materialpalette.com/colors) - a google material design color palette
+* [palx](https://palx.jxnblk.com/) - automatic color palette generator
 * [swiss colors](http://swisscolors.net/) - swiss style color picker
 * [ui gradients](https://uigradients.com/#) - beautiful color gradients
 
