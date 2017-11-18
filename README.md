@@ -110,6 +110,7 @@ Just a bunch of my favorite resources for stuff.
 * [material palette](https://www.materialpalette.com/colors) - a google material design color palette
 * [palx](https://palx.jxnblk.com/) - automatic color palette generator
 * [swiss colors](http://swisscolors.net/) - swiss style color picker
+* [transparent textures](https://www.transparenttextures.com) - easy to download transparent textures
 * [ui gradients](https://uigradients.com/#) - beautiful color gradients
 
 ## Content Gathering
