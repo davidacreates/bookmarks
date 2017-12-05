@@ -285,6 +285,7 @@ Just a bunch of my favorite resources for stuff.
 * [google fonts combinations v1](https://www.behance.net/gallery/35768979/Typography-Google-Fonts-Combinations)
 * [google fonts combinations v2](https://www.behance.net/gallery/41054815/Typography-Google-Fonts-Combinations-Volume-2)
 * [typo guide](http://www.typogui.de/) - a pocket guide to master every day’s typographic adventures
+* [typo scan](http://typoscan.com) - a designer tool which can help you to scan typography of your favorite website
 * [typspiration](http://typespiration.com/) - inspirational web font combinations with color palettes and ready-to-use HTML/CSS code.
 * [typewolf](https://www.typewolf.com/google-fonts) - the 40 best google fonts
 * [ultimate google font pairing](https://www.reliablepsd.com/ultimate-google-font-pairings/) - Collection of Google Font Pairings (Displayed Beautifully with Classic Art)
