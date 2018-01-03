@@ -98,6 +98,7 @@ Just a bunch of my favorite resources for stuff.
 * [ambience](http://ambiance.somethingjustlikethis.com/) - color palette generator
 * [brand colors](http://brandcolors.net/) - official color codes of the world's biggest brands
 * [colors](http://clrs.cc/) - the new default - a nicer palette for the web
+* [the colorbook](https://colorbook.me) - the latest & most popular color palettes trending on dribbble right now
 * [color hunt](http://colorhunt.co/) - a place to discover and share beautiful color palettes
 * [color mind](http://colormind.io/bootstrap/) - color scheme generator that uses deep learning
 * [colourcode](http://www.colourco.de/) - Pick colours based on hsl
