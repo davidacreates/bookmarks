@@ -7,6 +7,7 @@ Just a bunch of my favorite resources for stuff.
 * [Animation](#animation)
 * [Apprenticeships & Bootcamps](#apprenticeships--bootcamps)
 * [Business Development](#business-development)
+* [Cheatsheets](#cheatsheets)
 * [Client Feedback](#client-feedback)
 * [Coding](#coding)
 * [Color](#color)
@@ -67,6 +68,9 @@ Just a bunch of my favorite resources for stuff.
 * [the directory](http://www.thedirectory.io/) - discover design agencies and get a job!
 * [out of office hours](https://www.outofofficehours.com/) - creating dialog between newcomers and people working in the tech industry
 * [logomakr](https://logomakr.com/) - make logos easily with icons
+
+## Cheatsheets
+* [css cheat sheet](https://adam-marsden.co.uk/css-cheat-sheet) - a reference for css goodness
 
 ## Client Feedback
 * [cycles](https://cycleshq.com/) - makes it super easy for clients to give feedback on your web projects
