@@ -85,6 +85,7 @@ Just a bunch of my favorite resources for stuff.
 * [css reference](http://cssreference.io/) - A free visual guide to CSS
 * [codrops](http://tympanus.net/codrops/) - inspirational code snippets
 * [get credit card numbers](http://www.getcreditcardnumbers.com/) - Valid Credit Card Numbers for Testing Purposes!
+* [get the simple guide](http://rogerdudler.github.io/git-guide/) - just a simple guide for getting started with git. no deep shit ;)
 * [emmett cheatsheet](http://docs.emmet.io/cheat-sheet/) - the essential tool for web developers
 * [github cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf) - the most important and commonly used Git commands for easy reference
 * [glitch](https://glitch.com/) - glitch is the friendly community where you'll build the app of your dreams
