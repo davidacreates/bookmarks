@@ -71,6 +71,7 @@ Just a bunch of my favorite resources for stuff.
 
 ## Cheatsheets
 * [css cheat sheet](https://adam-marsden.co.uk/css-cheat-sheet) - a reference for css goodness
+* [visual studio code keyboard shortcut cheat sheet ](http://www.arungudelli.com/microsoft/visual-studio-code-keyboard-shortcut-cheat-sheet-windows-mac-linux/) - free, open-source and cross-platform cheatsheet
 
 ## Client Feedback
 * [cycles](https://cycleshq.com/) - makes it super easy for clients to give feedback on your web projects
