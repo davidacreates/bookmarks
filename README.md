@@ -94,6 +94,7 @@ Just a bunch of my favorite resources for stuff.
 * [json placeholder](https://jsonplaceholder.typicode.com/) - fake Online REST API for Testing and Prototyping
 * [list](http://lists.design/) - a gallery of real data ready to be placed in your design.
 * [mailtrap](https://mailtrap.io/) - email testing for dev teams
+* [micron.js](https://webkul.github.io/micron/) - a [μ] microInteraction library built with css animations and controlled by javaScript power
 * [pramp](https://www.pramp.com/) - practice coding interviews for free
 * [writemaps](https://writemaps.com/) - WriteMaps helps you make sitemaps and gather content
 
