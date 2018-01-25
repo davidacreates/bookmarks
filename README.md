@@ -122,6 +122,8 @@ Just a bunch of my favorite resources for stuff.
 * [swiss colors](http://swisscolors.net/) - swiss style color picker
 * [transparent textures](https://www.transparenttextures.com) - easy to download transparent textures
 * [ui gradients](https://uigradients.com/#) - beautiful color gradients
+* [web gradients](https://webgradients.com) - free collection of 180 linear gradients that you can use as
+content backdrops in any part of your website
 
 ## Content Gathering
 * [write maps](https://writemaps.com/) - make sitemaps and gather content
