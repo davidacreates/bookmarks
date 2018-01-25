@@ -98,6 +98,9 @@ Just a bunch of my favorite resources for stuff.
 * [pramp](https://www.pramp.com/) - practice coding interviews for free
 * [writemaps](https://writemaps.com/) - WriteMaps helps you make sitemaps and gather content
 
+### CSS Grid
+* [CSS Gridish](https://medium.freecodecamp.org/introducing-css-gridish-helping-teams-to-adapt-css-grid-today-3e031ab222de) - Introducing CSS Gridish: An Open Source Tool to Help Your Team Adapt CSS Grid Today
+
 ## Conferences
 * [ux week](http://uxweek.com/) - four days of community, inspiration and skills building.
 
