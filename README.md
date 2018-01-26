@@ -30,7 +30,7 @@ Just a bunch of my favorite resources for stuff.
 * [Squarespace](#squarespace)
 * [Stacks](#stacks)
 * [Stock Photos & Videos](#stock-photos-&-videos)
-* [Style Guides](#styleguides)
+* [Style Guides](#style-guides)
 * [Talks](#talks)
 * [Traffic & Engagement](#traffic-&-engagement)
 * [Troubleshooting](#troubleshooting)
@@ -273,6 +273,7 @@ content backdrops in any part of your website
 * [ui faces](http://uifaces.com/) - stock faces for ui elements
 
 ## Style Guides
+* [bonsai (typography)](http://bonsai.thisalso.com/typography) - model for how to set up type and spacing
 * [brand style guide examples](http://saijogeorge.com/brand-style-guide-examples/) - hand-picked collection of brand style guides
 * [frontify brand style guide](https://frontify.com/) - software for brand style guides, design workflows & visual collaboration
 * [intercom style guide](http://intercom.github.io/core-styles/) - intercom core styles
