@@ -70,6 +70,7 @@ Just a bunch of my favorite resources for stuff.
 * [logomakr](https://logomakr.com/) - make logos easily with icons
 
 ## Cheatsheets
+* [chrome devtools cheatsheet](https://developers.google.com/web/tools/chrome-devtools/shortcuts) - reference of keyboard shortcuts in Chrome DevTools
 * [css cheat sheet](https://adam-marsden.co.uk/css-cheat-sheet) - a reference for css goodness
 * [visual studio code keyboard shortcut cheat sheet ](http://www.arungudelli.com/microsoft/visual-studio-code-keyboard-shortcut-cheat-sheet-windows-mac-linux/) - free, open-source and cross-platform cheatsheet
 * [visual studio code keyboard shortcuts for mac](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) - keyboard shortcuts for macOS
