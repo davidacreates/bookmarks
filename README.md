@@ -68,6 +68,7 @@ Just a bunch of my favorite resources for stuff.
 * [the directory](http://www.thedirectory.io/) - discover design agencies and get a job!
 * [out of office hours](https://www.outofofficehours.com/) - creating dialog between newcomers and people working in the tech industry
 * [logomakr](https://logomakr.com/) - make logos easily with icons
+* [resume.io](https://resume.io) - build your job-winning resume in three simple steps
 
 ## Cheatsheets
 * [chrome devtools cheatsheet](https://developers.google.com/web/tools/chrome-devtools/shortcuts) - reference of keyboard shortcuts in Chrome DevTools
