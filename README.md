@@ -76,6 +76,11 @@ Just a bunch of my favorite resources for stuff.
 * [visual studio code keyboard shortcut cheat sheet ](http://www.arungudelli.com/microsoft/visual-studio-code-keyboard-shortcut-cheat-sheet-windows-mac-linux/) - free, open-source and cross-platform cheatsheet
 * [visual studio code keyboard shortcuts for mac](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) - keyboard shortcuts for macOS
 
+### Flexbox
+* [css tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - a complete guide to flexbox
+* [flexbox cheatsheet](https://yoksel.github.io/flex-cheatsheet/) - interactive flexbox tool
+* [flexbox froggy](http://flexboxfroggy.com) -  a game where you help Froggy and friends by writing CSS code
+
 ## Client Feedback
 * [cycles](https://cycleshq.com/) - makes it super easy for clients to give feedback on your web projects
 * [juntoo](https://juntoo.co/) - collect and deliver feedback direcly on live web pages
