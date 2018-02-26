@@ -187,6 +187,7 @@ for Rapid UI Development
 * [simple icons](https://simpleicons.org/) - SVG icons for popular brands
 * [spritesh](https://www.npmjs.com/package/spritesh) - a node.js script to build a SVG sprite from a folder of SVG files
 * [streamline icons](http://www.streamlineicons.com/) - 5000 vector icons organized in 97 categories
+* [super tiny icons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 * [svg4everybody](https://github.com/jonathantneal/svg4everybody) - use external SVG spritemaps today
 * [svgo](https://github.com/svg/svgo) - nodejs-based tool for optimizing SVG vector graphics files
 * [svgomg](https://jakearchibald.github.io/svgomg/) - graphical interface for svgo
