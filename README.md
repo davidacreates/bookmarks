@@ -18,7 +18,7 @@ Just a bunch of my favorite resources for stuff.
 * [Icons](#icons)
 * [Image Optimization](#image-optimization)
 * [Inspiration](#inspiration)
-* [Job Boards](#job-boards)
+* [Job Search](#job-search)
 * [Personal Development](#personal-development)
 * [Project Management](#project-management)
 * [Proposals & Briefs](#proposals-&-briefs)
@@ -222,8 +222,9 @@ for Rapid UI Development
 * [upLabs](https://www.uplabs.com/) - daily ui inspiration & downloads
 * [web design inspiration](http://www.webdesign-inspiration.com/) - we help web designers to get inspired
 
-## Job Boards
+## Job Search
 * [hired](https://hired.com/) - hired matches outstanding people with the world's most innovative companies
+* [huntr](https://huntr.co) - Save jobs from any website and view them anytime in your Huntr dashboard.
 
 ## Personal Development
 * [my morning routine](http://mymorningroutine.com/) - 
