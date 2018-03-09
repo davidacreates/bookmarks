@@ -2,7 +2,7 @@
 Just a bunch of my favorite resources for stuff.
 
 ## Contents
-* [A/B Testing](#a/b-testing)
+* [A-B Testing](#a-b-testing)
 * [Accessibility](#accessibility)
 * [Animation](#animation)
 * [Apprenticeships & Bootcamps](#apprenticeships--bootcamps)
@@ -35,14 +35,14 @@ Just a bunch of my favorite resources for stuff.
 * [Traffic & Engagement](#traffic-&-engagement)
 * [Troubleshooting](#troubleshooting)
 * [Typography](#typography)
-* [UI/UX](#ui/ux)
+* [UI-UX](#ui-ux)
 * [Video](#video)
 * [Website Builders](#website-builders)
 * [Website Downloaders](#website-downloaders)
 * [Wireframing](#wireframing)
 * [Wordpress](#wordpress)
 
-## A/B Testing
+## A-B Testing
 * [crazy egg](https://www.crazyegg.com/)
 * [hotjar](http://hotjar.com)
 * [optimizely](https://www.optimizely.com)
@@ -226,9 +226,6 @@ for Rapid UI Development
 * [hired](https://hired.com/) - hired matches outstanding people with the world's most innovative companies
 * [huntr](https://huntr.co) - Save jobs from any website and view them anytime in your Huntr dashboard.
 
-## Personal Development
-* [my morning routine](http://mymorningroutine.com/) - 
-
 ## Project Management
 * [milanote](http://www.milanote.com/) - the notes app for creatives
 
@@ -258,9 +255,6 @@ for Rapid UI Development
 ## Specs
 * [built with](http://builtwith.com/) - list all of the components a site is built with
 * [markly app](http://marklyapp.com/) - create beautiful specs with ease
-
-## Squarespace
-* [squarespace circle](https://circle.squarespace.com/) - A community for creative professionals who build websites on Squarespace.
 
 ## Stacks
 * [case studies](https://www.casestudy.club/case-studies) - amazing collection of case studies
@@ -332,7 +326,7 @@ for Rapid UI Development
 * [typewolf](https://www.typewolf.com/google-fonts) - the 40 best google fonts
 * [ultimate google font pairing](https://www.reliablepsd.com/ultimate-google-font-pairings/) - Collection of Google Font Pairings (Displayed Beautifully with Classic Art)
 
-## UI/UX
+## UI-UX
 * [7 practical tips for cheating at design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886) - improving your designs with tactics instead of talent
 * [10 cheat codes for designing user interfaces](https://medium.com/sketch-app-sources/design-cheatsheet-274384775da9) - a list of ui design tips with the actual values included
 * [good ui](https://www.goodui.org) - a running idea list of highly effective conversion patterns
@@ -341,22 +335,8 @@ for Rapid UI Development
 * [ux methods & deliverables](http://uxdesign.cc/ux-methods-deliverables/) - a list of the most common methods and deliverables produced by UX Designers
 * [ux project checklist](https://uxchecklist.github.io/) - a checklist for your ux
 
-## Video
-* [wistia](http://wistia.com/) - great video hosting platform
-
-## Website Builders
-* [staticGen](https://www.staticgen.com/) - top open source static site generators
-* [webydo](http://www.webydo.com/) - code free website builder
-* [webflow](https://webflow.com/) - code free website builder with CMS
-
-## Website Downloaders
-* [website downloader](https://websitedownloader.io/) - download all the source code and assets of any website
-
 ## Wireframing
 * [blokk](http://www.blokkfont.com/) - font for quick mock-ups and wireframing
 * [flow](http://danross.co/flow/) - typeface built for wireframing
 * [justinmind](http://www.justinmind.com/) - interactive wireframing
 * [Sneakpeekit](http://sneakpeekit.com/) - printable grids for design wireframing
-
-## Wordpress
-* [underscores](http://underscores.me/) - a starter theme for wordpress
