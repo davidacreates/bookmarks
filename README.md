@@ -333,6 +333,11 @@ for Rapid UI Development
 * [ultimate google font pairing](https://www.reliablepsd.com/ultimate-google-font-pairings/) - Collection of Google Font Pairings (Displayed Beautifully with Classic Art)
 
 ## UI/UX
+* [7 practical tips for cheating at design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886) - improving your designs with tactics instead of talent
+* [10 cheat codes for designing user interfaces](https://medium.com/sketch-app-sources/design-cheatsheet-274384775da9) - a list of ui design tips with the actual values included
+* [good ui](https://www.goodui.org) - a running idea list of highly effective conversion patterns
+* [good to great ui animation tips](https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5) - practical suggestions to improve your ui micro-interactions
+* [top ten typography tips](http://www.toptentypography.tips) - a few easy tips on how to improve typography
 * [ux methods & deliverables](http://uxdesign.cc/ux-methods-deliverables/) - a list of the most common methods and deliverables produced by UX Designers
 * [ux project checklist](https://uxchecklist.github.io/) - a checklist for your ux
 
