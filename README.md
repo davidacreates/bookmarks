@@ -71,17 +71,18 @@ Just a bunch of my favorite resources for stuff.
 * [resume.io](https://resume.io) - build your job-winning resume in three simple steps
 
 ## Cheatsheets
-* [chrome devtools cheatsheet](https://developers.google.com/web/tools/chrome-devtools/shortcuts)
-* [css cheat sheet](https://adam-marsden.co.uk/css-cheat-sheet)
+* [chrome devtools](https://developers.google.com/web/tools/chrome-devtools/shortcuts)
+* [css](https://adam-marsden.co.uk/css-cheat-sheet)
 * [javascript](http://overapi.com/javascript)
 * [javascript es6+](https://devhints.io/es6)
 * [javascript regex](https://www.debuggex.com/cheatsheet/regex/javascript)
+* [jQuery](https://oscarotero.com/jquery/)
 * [react](https://devhints.io/react)
 * [redux](https://github.com/linkmesrl/react-journey-2016/blob/master/resources/egghead-redux-cheat-sheet-3-2-1.pdf)
-* [sass cheat sheet](https://devhints.io/sass)
-* [visual studio code keyboard shortcut cheat sheet ](http://www.arungudelli.com/microsoft/visual-studio-code-keyboard-shortcut-cheat-sheet-windows-mac-linux/)
-* [visual studio code keyboard shortcuts for mac](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
-* [vue js](https://vuejs-tips.github.io/cheatsheet/)
+* [sass](https://devhints.io/sass)
+* [visual studio code](http://www.arungudelli.com/microsoft/visual-studio-code-keyboard-shortcut-cheat-sheet-windows-mac-linux/)
+* [visual studio code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+* [vue](https://vuejs-tips.github.io/cheatsheet/)
 
 ### Flexbox
 * [css tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - a complete guide to flexbox
