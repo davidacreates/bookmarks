@@ -167,6 +167,7 @@ content backdrops in any part of your website
 
 ## Frameworks
 * [bulma](https://bulma.io) - a free and open source CSS framework based on Flexbox
+* [evie](https://evie.undraw.co) - a production-ready theme for your projects
 * [html5 boilerplate](https://html5boilerplate.com/) - the web’s most popular front-end template
 * [milligram](https://milligram.io) - A minimalist CSS framework 
 * [semantic ui](https://semantic-ui.com/) - a development framework that helps create beautiful, responsive layouts using human-friendly HTML
