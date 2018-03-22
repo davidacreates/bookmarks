@@ -195,6 +195,7 @@ for Rapid UI Development
 * [svg4everybody](https://github.com/jonathantneal/svg4everybody) - use external SVG spritemaps today
 * [svgo](https://github.com/svg/svgo) - nodejs-based tool for optimizing SVG vector graphics files
 * [svgomg](https://jakearchibald.github.io/svgomg/) - graphical interface for svgo
+* [ui faces](https://uifaces.co) - a collection if diverse avatars
 * [we love svg](https://icons8.com/welovesvg) - google fonts for icons
 
 ## Image Optimization
