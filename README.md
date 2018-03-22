@@ -128,6 +128,7 @@ Just a bunch of my favorite resources for stuff.
 * [color converter](https://www.w3schools.com/colors/colors_converter.asp) - convert colors and create a range palette
 * [color hunt](http://colorhunt.co/) - a place to discover and share beautiful color palettes
 * [color mind](http://colormind.io/bootstrap/) - color scheme generator that uses deep learning
+* [color management](https://bjango.com/articles/colourmanagementgamut/) - a three part series by bjango on how to best set up color management profiles in sketch, photoshop and illustrator.
 * [colorwise](https://colorwise.io/) - the wise choice of colors.
 * [colourcode](http://www.colourco.de/) - pick colours based on hsl
 * [cool hue](https://webkul.github.io/coolhue/) - coolest handpicked Gradient Hues
