@@ -208,13 +208,15 @@ for Rapid UI Development
 * [tinypng](https://tinypng.com/) - advanced lossy compression for PNG images that preserves full alpha transparency
 
 ## Inspiration
+### Ecomm
 * [beautiful stores](https://beautifulstores.com/) - inspiring e-comm stores
+* [ecomm design](https://ecomm.design/) - eCommerce Website Design Gallery & Tech Inspiration
+### General
 * [best folios](http://bestfolios.com/home) - the best portfolio websites and resumes from ui/ux designers, graphic designers and motion designers
 * [beta list](http://betalist.com/) - discover new start ups early
 * [cart craze](http://cartcraze.com/) - ecommerce website inspiration
 * [crayon](https://www.crayon.co/) - collection of inspirational websites
 * [designspiration](https://www.designspiration.net/) - the best design inspiration
-* [ecomm design](https://ecomm.design/) - eCommerce Website Design Gallery & Tech Inspiration
 * [foundation sites](http://zurb.com/responsive) - gallery of websites built on foundation
 * [good web design](http://www.goodweb.design) - the best landing pages, organized by section
 * [land book](http://land-book.com/) - product landing page gallery
