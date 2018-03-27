@@ -208,30 +208,33 @@ for Rapid UI Development
 * [tinypng](https://tinypng.com/) - advanced lossy compression for PNG images that preserves full alpha transparency
 
 ## Inspiration
+### Copy
+* [nishi](http://www.heynishi.com) - Copywriting matters: Boring brands, take note.
 ### Ecomm
 * [beautiful stores](https://beautifulstores.com/) - inspiring e-comm stores
+* [cart craze](http://cartcraze.com/) - ecommerce website inspiration
+* [commerce cream](https://commercecream.com/) - the most beautiful commerce experiences on Shopify
 * [ecomm design](https://ecomm.design/) - eCommerce Website Design Gallery & Tech Inspiration
+* [pages xyz](http://www.pages.xyz/type/pricing) - a curated list of the best pricing, app, store, product and checkout pages
+* [product pages](http://www.productpages.xyz/) - listing the best product, price, and store pages out there
 ### General
 * [best folios](http://bestfolios.com/home) - the best portfolio websites and resumes from ui/ux designers, graphic designers and motion designers
 * [beta list](http://betalist.com/) - discover new start ups early
-* [cart craze](http://cartcraze.com/) - ecommerce website inspiration
 * [crayon](https://www.crayon.co/) - collection of inspirational websites
 * [designspiration](https://www.designspiration.net/) - the best design inspiration
 * [foundation sites](http://zurb.com/responsive) - gallery of websites built on foundation
-* [good web design](http://www.goodweb.design) - the best landing pages, organized by section
-* [land book](http://land-book.com/) - product landing page gallery
-* [lapa](http://lapa.ninja/) - landing page design inspiration
 * [little big details](http://littlebigdetails.com/) - Your daily dose of design inspiration.
 * [logojoy](https://www.logojoy.com/) - Logojoy makes it easy and fun to create a logo that you’ll be proud of
-* [nishi](http://www.heynishi.com) - Copywriting matters: Boring brands, take note.
-* [one page love](https://onepagelove.com/) - gallery of one page websites
-* [pages xyz](http://www.pages.xyz/type/pricing) - a curated list of the best pricing, app, store, product and checkout pages
-* [product pages](http://www.productpages.xyz/) - listing the best product, price, and store pages out there
 * [siiimple](http://www.siiimple.com/) - best minimalist websites on the web
 * [typeinspire](http://typeinspire.com/) - typography inspiration and design gallery
 * [ui movement](https://uimovement.com/) - place to find some really nice animations
 * [upLabs](https://www.uplabs.com/) - daily ui inspiration & downloads
 * [web design inspiration](http://www.webdesign-inspiration.com/) - we help web designers to get inspired
+### Landing Pages
+* [good web design](http://www.goodweb.design) - the best landing pages, organized by section
+* [land book](http://land-book.com/) - product landing page gallery
+* [lapa](http://lapa.ninja/) - landing page design inspiration
+* [one page love](https://onepagelove.com/) - gallery of one page websites
 
 ## Job Search
 * [hired](https://hired.com/) - hired matches outstanding people with the world's most innovative companies
