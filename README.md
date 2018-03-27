@@ -217,6 +217,8 @@ for Rapid UI Development
 * [ecomm design](https://ecomm.design/) - eCommerce Website Design Gallery & Tech Inspiration
 * [pages xyz](http://www.pages.xyz/type/pricing) - a curated list of the best pricing, app, store, product and checkout pages
 * [product pages](http://www.productpages.xyz/) - listing the best product, price, and store pages out there
+### Email
+* [really good emails](https://reallygoodemails.com/) - the best email designs in the universe
 ### General
 * [best folios](http://bestfolios.com/home) - the best portfolio websites and resumes from ui/ux designers, graphic designers and motion designers
 * [beta list](http://betalist.com/) - discover new start ups early
