@@ -162,9 +162,7 @@ content backdrops in any part of your website
 ## Email Automation
 * [email hunter](https://emailhunter.co/) - direct access to all the web's email addresses
 * [html email](https://htmlemail.io/) - responsive HTML Email Templates
-* [just good copy](http://www.goodemailcopy.com/) - email copy from great companies
 * [postmark app](https://postmarkapp.com/) - postmark makes it easy to send time-sensitive transactional email to your customers.
-* [really good emails](http://reallygoodemails.com/) - a collection for great emails
 
 ## Frameworks
 * [bulma](https://bulma.io) - a free and open source CSS framework based on Flexbox
@@ -177,6 +175,7 @@ content backdrops in any part of your website
 * [tachyons](http://tachyons.io) - Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible
 * [tailwind css](https://tailwindcss.com) - A Utility-First CSS Framework
 for Rapid UI Development
+* [uniform](http://uniform.hudl.com/) - hudl's design/code system
 
 ## Icons
 * [google material](https://www.materialpalette.com/icons) - material design icons
@@ -209,7 +208,8 @@ for Rapid UI Development
 
 ## Inspiration
 ### Copy
-* [nishi](http://www.heynishi.com) - Copywriting matters: Boring brands, take note.
+* [nishi](http://www.heynishi.com) - Copywriting matters: Boring brands, take note
+* [just good copy](http://www.goodemailcopy.com/) - email copy from great companies
 ### Ecomm
 * [beautiful stores](https://beautifulstores.com/) - inspiring e-comm stores
 * [cart craze](http://cartcraze.com/) - ecommerce website inspiration
