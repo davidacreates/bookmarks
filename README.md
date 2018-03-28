@@ -160,9 +160,12 @@ content backdrops in any part of your website
 * [carbon design system](http://carbondesignsystem.com/) - a versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates).
 
 ## Email Automation
+### Tools
 * [email hunter](https://emailhunter.co/) - direct access to all the web's email addresses
-* [html email](https://htmlemail.io/) - responsive HTML Email Templates
 * [postmark app](https://postmarkapp.com/) - postmark makes it easy to send time-sensitive transactional email to your customers.
+### Responsive
+* [html email](https://htmlemail.io/) - responsive HTML Email Templates
+* [responsive email patterns](http://responsiveemailpatterns.com/) - a collection of patterns & modules for responsive emails
 
 ## Frameworks
 * [bulma](https://bulma.io) - a free and open source CSS framework based on Flexbox
