@@ -13,7 +13,7 @@ Just a bunch of my favorite resources for stuff.
 * [Color](#color)
 * [Content Marketing](#content-marketing)
 * [Design Systems](#design-systems)
-* [Email Automation](#email-automation)
+* [Email Marketing](#email-marketing)
 * [Frameworks](#frameworks)
 * [Icons](#icons)
 * [Image Optimization](#image-optimization)
@@ -158,8 +158,9 @@ content backdrops in any part of your website
 
 ## Design Systems
 * [carbon design system](http://carbondesignsystem.com/) - a versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates).
+* [uniform](http://uniform.hudl.com/) - hudl's design/code system
 
-## Email Automation
+## Email Marketing
 ### Tools
 * [email hunter](https://emailhunter.co/) - direct access to all the web's email addresses
 * [postmark app](https://postmarkapp.com/) - postmark makes it easy to send time-sensitive transactional email to your customers.
@@ -178,7 +179,6 @@ content backdrops in any part of your website
 * [tachyons](http://tachyons.io) - Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible
 * [tailwind css](https://tailwindcss.com) - A Utility-First CSS Framework
 for Rapid UI Development
-* [uniform](http://uniform.hudl.com/) - hudl's design/code system
 
 ## Icons
 * [google material](https://www.materialpalette.com/icons) - material design icons
