@@ -161,13 +161,14 @@ content backdrops in any part of your website
 * [uniform](http://uniform.hudl.com/) - hudl's design/code system
 
 ## Email Marketing
-### Tools
-* [email hunter](https://emailhunter.co/) - direct access to all the web's email addresses
-* [postmark app](https://postmarkapp.com/) - postmark makes it easy to send time-sensitive transactional email to your customers.
+
 ### Responsive
 * [html email](https://htmlemail.io/) - responsive HTML Email Templates
 * [responsive email patterns](http://responsiveemailpatterns.com/) - a collection of patterns & modules for responsive emails
 
+### Tools
+* [email hunter](https://emailhunter.co/) - direct access to all the web's email addresses
+* [postmark app](https://postmarkapp.com/) - postmark makes it easy to send time-sensitive transactional email to your customers.
 ## Frameworks
 * [bulma](https://bulma.io) - a free and open source CSS framework based on Flexbox
 * [evie](https://evie.undraw.co) - a production-ready theme for your projects
