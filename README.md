@@ -164,6 +164,7 @@ content backdrops in any part of your website
 
 ### Responsive
 * [html email](https://htmlemail.io/) - responsive HTML Email Templates
+* [litmus responsive email resources](http://pages.litmus.com/RWDsummit) - a collection of responsive resources from the folks at Litmus
 * [responsive email patterns](http://responsiveemailpatterns.com/) - a collection of patterns & modules for responsive emails
 
 ### Tools
