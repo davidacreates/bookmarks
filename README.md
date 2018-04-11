@@ -223,6 +223,7 @@ for Rapid UI Development
 * [pages xyz](http://www.pages.xyz/type/pricing) - a curated list of the best pricing, app, store, product and checkout pages
 * [product pages](http://www.productpages.xyz/) - listing the best product, price, and store pages out there
 ### Email
+* [html email gallery](http://www.htmlemailgallery.com/) - help locate the emails and resources that suit your needs
 * [really good emails](https://reallygoodemails.com/) - the best email designs in the universe
 ### General
 * [best folios](http://bestfolios.com/home) - the best portfolio websites and resumes from ui/ux designers, graphic designers and motion designers
