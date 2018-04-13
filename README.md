@@ -136,6 +136,7 @@ Just a bunch of my favorite resources for stuff.
 * [design seeds](https://www.design-seeds.com/by-color/) - daily dose of color inspiration
 * [grabient](https://www.grabient.com/) - UI to generate linear-gradients
 * [gradients.io](http://www.gradients.io/) - showcase of some beautiful gradient color combinations
+* [hue snap](https://www.huesnap.com/) - color inspirations for creatives around the world
 * [itmeo](https://webgradients.com/) - free collection of 180 linear gradients
 * [open color](https://yeun.github.io/open-color/) - ui color theme perceptible by the color blind
 * [material palette](https://www.materialpalette.com/colors) - a google material design color palette
