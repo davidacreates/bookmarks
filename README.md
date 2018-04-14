@@ -226,6 +226,7 @@ for Rapid UI Development
 ### Email
 * [beautiful email newsletters](http://beautiful-email-newsletters.com/) - the #1 html email gallery showcase in the world
 * [email gallery](http://www.email-gallery.com/) - find inspiration in the collection of emails from various companies and individuals
+* [just good copy](https://www.goodemailcopy.com/) - email copy from great companies
 * [html email gallery](http://www.htmlemailgallery.com/) - help locate the emails and resources that suit your needs
 * [really good emails](https://reallygoodemails.com/) - the best email designs in the universe
 ### General
