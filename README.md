@@ -73,6 +73,7 @@ Just a bunch of my favorite resources for stuff.
 ## Cheatsheets
 * [chrome devtools](https://developers.google.com/web/tools/chrome-devtools/shortcuts)
 * [css](https://adam-marsden.co.uk/css-cheat-sheet)
+* [devhints](https://devhints.io/) - best collection of cheatsheets. must use.
 * [javascript](http://overapi.com/javascript)
 * [javascript es6+](https://devhints.io/es6)
 * [javascript regex](https://www.debuggex.com/cheatsheet/regex/javascript)
