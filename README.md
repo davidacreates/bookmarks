@@ -93,6 +93,7 @@ Just a bunch of my favorite resources for stuff.
 ### Git
 * [atlassian](http://cloud.orangemooncreative.com/1l3X2w1G0p1U/atlassian-git-cheatsheet.pdf)
 * [github](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+* [udacity](http://cloud.orangemooncreative.com/3n3m31330L0l/git_cheat_sheet.pdf)
 
 ## Client Feedback
 * [cycles](https://cycleshq.com/) - makes it super easy for clients to give feedback on your web projects
