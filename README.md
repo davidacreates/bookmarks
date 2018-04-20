@@ -90,6 +90,10 @@ Just a bunch of my favorite resources for stuff.
 * [flexbox cheatsheet](https://yoksel.github.io/flex-cheatsheet/) - interactive flexbox tool
 * [flexbox froggy](http://flexboxfroggy.com) -  a game where you help Froggy and friends by writing CSS code
 
+### Git
+* [atlassian](http://cloud.orangemooncreative.com/1l3X2w1G0p1U/atlassian-git-cheatsheet.pdf)
+* [github](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+
 ## Client Feedback
 * [cycles](https://cycleshq.com/) - makes it super easy for clients to give feedback on your web projects
 * [juntoo](https://juntoo.co/) - collect and deliver feedback direcly on live web pages
