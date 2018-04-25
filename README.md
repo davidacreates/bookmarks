@@ -140,6 +140,7 @@ Just a bunch of my favorite resources for stuff.
 * [cool hue](https://webkul.github.io/coolhue/) - coolest handpicked Gradient Hues
 * [css gradient generator](https://cssgradient.io) - create gradients for the web
 * [design seeds](https://www.design-seeds.com/by-color/) - daily dose of color inspiration
+* [duotone shape factory](https://duotone.shapefactory.co/) - quickly create duotone photos
 * [grabient](https://www.grabient.com/) - UI to generate linear-gradients
 * [gradients.io](http://www.gradients.io/) - showcase of some beautiful gradient color combinations
 * [hue snap](https://www.huesnap.com/) - color inspirations for creatives around the world
