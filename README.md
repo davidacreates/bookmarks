@@ -227,6 +227,7 @@ for Rapid UI Development
 * [cart craze](http://cartcraze.com/) - ecommerce website inspiration
 * [commerce cream](https://commercecream.com/) - the most beautiful commerce experiences on Shopify
 * [ecomm design](https://ecomm.design/) - eCommerce Website Design Gallery & Tech Inspiration
+* [land book](http://land-book.com/) - product landing page gallery
 * [pages xyz](http://www.pages.xyz/type/pricing) - a curated list of the best pricing, app, store, product and checkout pages
 * [product pages](http://www.productpages.xyz/) - listing the best product, price, and store pages out there
 ### Email
