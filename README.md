@@ -143,10 +143,12 @@ Just a bunch of my favorite resources for stuff.
 * [duotone shape factory](https://duotone.shapefactory.co/) - quickly create duotone photos
 * [grabient](https://www.grabient.com/) - UI to generate linear-gradients
 * [gradients.io](http://www.gradients.io/) - showcase of some beautiful gradient color combinations
+* [gradient shape factory](https://gradient.shapefactory.co/) - quickly make gradients
 * [hue snap](https://www.huesnap.com/) - color inspirations for creatives around the world
 * [itmeo](https://webgradients.com/) - free collection of 180 linear gradients
 * [open color](https://yeun.github.io/open-color/) - ui color theme perceptible by the color blind
 * [material palette](https://www.materialpalette.com/colors) - a google material design color palette
+* [pigment shape factory](https://pigment.shapefactory.co/) - cool color picking tool with a bunch of pigments
 * [palx](https://palx.jxnblk.com/) - automatic color palette generator
 * [swiss colors](http://swisscolors.net/) - swiss style color picker
 * [transparent textures](https://www.transparenttextures.com) - easy to download transparent textures
