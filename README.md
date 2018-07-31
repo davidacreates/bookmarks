@@ -130,19 +130,19 @@ Just a bunch of my favorite resources for stuff.
 ## Color
 * [brand colors](http://brandcolors.net/) - official color codes of the world's biggest brands
 * [colors](http://clrs.cc/) - the new default - a nicer palette for the web
-* [the colorbook](https://colorbook.me) - the latest & most popular color palettes trending on dribbble right now
-* [color hunt](http://colorhunt.co/) - a place to discover and share beautiful color palettes
 * [color management](https://bjango.com/articles/colourmanagementgamut/) - a three part series by bjango on how to best set up color management profiles in sketch, photoshop and illustrator.
 * [colorwise](https://colorwise.io/) - the wise choice of colors.
 * [colourcode](http://www.colourco.de/) - pick colours based on hsl
-* [design seeds](https://www.design-seeds.com/by-color/) - daily dose of color inspiration
-* [duotone shape factory](https://duotone.shapefactory.co/) - quickly create duotone photos
-* [hue snap](https://www.huesnap.com/) - color inspirations for creatives around the world
-* [open color](https://yeun.github.io/open-color/) - ui color theme perceptible by the color blind
 * [material palette](https://www.materialpalette.com/colors) - a google material design color palette
 * [pigment shape factory](https://pigment.shapefactory.co/) - cool color picking tool with a bunch of pigments
 * [swiss colors](http://swisscolors.net/) - swiss style color picker
 * [transparent textures](https://www.transparenttextures.com) - easy to download transparent textures
+
+### Accessibility
+* [open color](https://yeun.github.io/open-color/) - ui color theme perceptible by the color blind
+
+### Duotone
+* [duotone shape factory](https://duotone.shapefactory.co/) - quickly create duotone photos
 
 ### Generators
 * [ambience](http://ambiance.somethingjustlikethis.com/) - color palette generator
@@ -161,6 +161,12 @@ Just a bunch of my favorite resources for stuff.
 * [ui gradients](https://uigradients.com/#) - beautiful color gradients
 * [web gradients](https://webgradients.com) - free collection of 180 linear gradients that you can use as
 content backdrops in any part of your website
+
+### Inspiration
+* [the colorbook](https://colorbook.me) - the latest & most popular color palettes trending on dribbble right now
+* [color hunt](http://colorhunt.co/) - a place to discover and share beautiful color palettes
+* [design seeds](https://www.design-seeds.com/by-color/) - daily dose of color inspiration
+* [hue snap](https://www.huesnap.com/) - color inspirations for creatives around the world
 
 ## Content Gathering
 * [write maps](https://writemaps.com/) - make sitemaps and gather content
