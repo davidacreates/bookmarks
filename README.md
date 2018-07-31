@@ -128,31 +128,36 @@ Just a bunch of my favorite resources for stuff.
 * [ux week](http://uxweek.com/) - four days of community, inspiration and skills building.
 
 ## Color
-* [ambience](http://ambiance.somethingjustlikethis.com/) - color palette generator
 * [brand colors](http://brandcolors.net/) - official color codes of the world's biggest brands
 * [colors](http://clrs.cc/) - the new default - a nicer palette for the web
 * [the colorbook](https://colorbook.me) - the latest & most popular color palettes trending on dribbble right now
-* [color converter](https://www.w3schools.com/colors/colors_converter.asp) - convert colors and create a range palette
 * [color hunt](http://colorhunt.co/) - a place to discover and share beautiful color palettes
-* [color mind](http://colormind.io/bootstrap/) - color scheme generator that uses deep learning
 * [color management](https://bjango.com/articles/colourmanagementgamut/) - a three part series by bjango on how to best set up color management profiles in sketch, photoshop and illustrator.
 * [colorwise](https://colorwise.io/) - the wise choice of colors.
 * [colourcode](http://www.colourco.de/) - pick colours based on hsl
-* [cool hue](https://webkul.github.io/coolhue/) - coolest handpicked Gradient Hues
-* [css gradient generator](https://cssgradient.io) - create gradients for the web
 * [design seeds](https://www.design-seeds.com/by-color/) - daily dose of color inspiration
 * [duotone shape factory](https://duotone.shapefactory.co/) - quickly create duotone photos
-* [grabient](https://www.grabient.com/) - UI to generate linear-gradients
-* [gradients.io](http://www.gradients.io/) - showcase of some beautiful gradient color combinations
-* [gradient shape factory](https://gradient.shapefactory.co/) - quickly make gradients
 * [hue snap](https://www.huesnap.com/) - color inspirations for creatives around the world
-* [itmeo](https://webgradients.com/) - free collection of 180 linear gradients
 * [open color](https://yeun.github.io/open-color/) - ui color theme perceptible by the color blind
 * [material palette](https://www.materialpalette.com/colors) - a google material design color palette
 * [pigment shape factory](https://pigment.shapefactory.co/) - cool color picking tool with a bunch of pigments
-* [palx](https://palx.jxnblk.com/) - automatic color palette generator
 * [swiss colors](http://swisscolors.net/) - swiss style color picker
 * [transparent textures](https://www.transparenttextures.com) - easy to download transparent textures
+
+### Generators
+* [ambience](http://ambiance.somethingjustlikethis.com/) - color palette generator
+* [color converter](https://www.w3schools.com/colors/colors_converter.asp) - convert colors and create a range palette
+* [color mind](http://colormind.io/bootstrap/) - color scheme generator that uses deep learning
+* [palx](https://palx.jxnblk.com/) - automatic color palette generator
+
+### Gradients
+* [cool hue](https://webkul.github.io/coolhue/) - coolest handpicked Gradient Hues
+* [css gradient generator](https://cssgradient.io) - create gradients for the web
+* [grabient](https://www.grabient.com/) - UI to generate linear-gradients
+* [gradients.io](http://www.gradients.io/) - showcase of some beautiful gradient color combinations
+* [gradient hunt](https://gradienthunt.com/) - free and open platform for color inspiration with thousands of trendy hand-made color gradients
+* [gradient shape factory](https://gradient.shapefactory.co/) - quickly make gradients
+* [itmeo](https://webgradients.com/) - free collection of 180 linear gradients
 * [ui gradients](https://uigradients.com/#) - beautiful color gradients
 * [web gradients](https://webgradients.com) - free collection of 180 linear gradients that you can use as
 content backdrops in any part of your website
