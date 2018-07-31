@@ -214,7 +214,8 @@ for Rapid UI Development
 * [we love svg](https://icons8.com/welovesvg) - google fonts for icons
 
 ## Image Optimization
-* [imageAlpha](http://pngmini.com/) - reduces file sizes of 24-bit PNG files (including alpha transparency)  
+* [imageAlpha](http://pngmini.com/) - reduces file sizes of 24-bit PNG files (including alpha transparency)
+* [imageKit](https://imagekit.io/website-analyzer) - analyze the images on your website and get suggestions on how to correct
 * [imageOptim](https://imageoptim.com/) - make images take up less disk space and load faster, without sacrificing quality
 * [jpeg.io](https://www.jpeg.io/) - convert any major image format into a highly optimized JPEG
 * [kraken](https://kraken.io/web-interface) - free online image optimizer
