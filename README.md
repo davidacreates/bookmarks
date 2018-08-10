@@ -108,6 +108,7 @@ Just a bunch of my favorite resources for stuff.
 * [codrops](http://tympanus.net/codrops/) - inspirational code snippets
 * [get credit card numbers](http://www.getcreditcardnumbers.com/) - Valid Credit Card Numbers for Testing Purposes!
 * [get the simple guide](http://rogerdudler.github.io/git-guide/) - just a simple guide for getting started with git. no deep shit ;)
+* [embed responsively](http://embedresponsively.com/) - creates a responsive iframe for videos
 * [emmett cheatsheet](http://docs.emmet.io/cheat-sheet/) - the essential tool for web developers
 * [free frontend](http://freefrontend.com/) - collection of frontend code snippets
 * [github cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf) - the most important and commonly used Git commands for easy reference
