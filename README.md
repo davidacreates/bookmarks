@@ -105,7 +105,6 @@ Just a bunch of my favorite resources for stuff.
 * [bulma](http://bulma.io/) - A modern CSS framework based on Flexbox
 * [can i use](http://caniuse.com/) - up-to-date browser support tables for support of front-end web technologies
 * [css reference](http://cssreference.io/) - A free visual guide to CSS
-* [codrops](http://tympanus.net/codrops/) - inspirational code snippets
 * [get credit card numbers](http://www.getcreditcardnumbers.com/) - Valid Credit Card Numbers for Testing Purposes!
 * [get the simple guide](http://rogerdudler.github.io/git-guide/) - just a simple guide for getting started with git. no deep shit ;)
 * [embed responsively](http://embedresponsively.com/) - creates a responsive iframe for videos
@@ -122,9 +121,15 @@ Just a bunch of my favorite resources for stuff.
 * [pramp](https://www.pramp.com/) - practice coding interviews for free
 * [writemaps](https://writemaps.com/) - WriteMaps helps you make sitemaps and gather content
 
+### Code Snippets
+* [codrops](http://tympanus.net/codrops/) - inspirational code snippets
+
 ### CSS Grid
 * [CSS Gridish](https://medium.freecodecamp.org/introducing-css-gridish-helping-teams-to-adapt-css-grid-today-3e031ab222de) - Introducing CSS Gridish: An Open Source Tool to Help Your Team Adapt CSS Grid Today
 * [Grid](http://grid.malven.co/) - A Visual Cheatsheet for CSS Grid Layout
+
+### Editors
+* [VSCode Themes](https://vscodethemes.com/) - A collection of some of the most popular themes for Visual Studio Code grouped by categories (Trending, Dark & Light)
 
 ## Conferences
 * [ux week](http://uxweek.com/) - four days of community, inspiration and skills building.
@@ -151,6 +156,7 @@ Just a bunch of my favorite resources for stuff.
 * [color converter](https://www.w3schools.com/colors/colors_converter.asp) - convert colors and create a range palette
 * [color mind](http://colormind.io/bootstrap/) - color scheme generator that uses deep learning
 * [palx](https://palx.jxnblk.com/) - automatic color palette generator
+* [scale](https://hihayk.github.io/scale/) - a small tool to help you generate color scales in an instant
 
 ### Gradients
 * [cool hue](https://webkul.github.io/coolhue/) - coolest handpicked Gradient Hues
@@ -259,6 +265,7 @@ for Rapid UI Development
 * [beta list](http://betalist.com/) - discover new start ups early
 * [crayon](https://www.crayon.co/) - collection of inspirational websites
 * [designspiration](https://www.designspiration.net/) - the best design inspiration
+* [design revision] (https://designrevision.com/blog/) - blog of the latest design resources and tools
 * [foundation sites](http://zurb.com/responsive) - gallery of websites built on foundation
 * [little big details](http://littlebigdetails.com/) - Your daily dose of design inspiration.
 * [logojoy](https://www.logojoy.com/) - Logojoy makes it easy and fun to create a logo that you’ll be proud of
