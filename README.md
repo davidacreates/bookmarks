@@ -110,7 +110,7 @@ Just a bunch of my favorite resources for stuff.
 * [embed responsively](http://embedresponsively.com/) - creates a responsive iframe for videos
 * [emmett cheatsheet](http://docs.emmet.io/cheat-sheet/) - the essential tool for web developers
 * [free frontend](http://freefrontend.com/) - collection of frontend code snippets
-* [front-end checklist] (https://frontendchecklist.io/) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
+* [front-end checklist](https://frontendchecklist.io/) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
 * [github cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf) - the most important and commonly used Git commands for easy reference
 * [glitch](https://glitch.com/) - glitch is the friendly community where you'll build the app of your dreams
 * [hacker rank](https://www.hackerrank.com/) - Practice coding. Compete. Find jobs.
