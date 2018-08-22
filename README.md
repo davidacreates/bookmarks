@@ -320,6 +320,7 @@ for Rapid UI Development
 ## Stacks
 * [case studies](https://www.casestudy.club/case-studies) - amazing collection of case studies
 * [content marketing stack](http://www.contentmarketingstack.co/) - curated directory of content marketing resources & tutorials
+* [design notes](http://www.designnotes.co/) - a free resource library for product designers
 * [design resources](http://designresources.party/) - select websites, tools, assets, and readings for working in and learning about design.
 * [marketing stack](http://marketingstack.io/) - curated directory of marketing resources & tools
 * [resource cards](https://resourcecards.com/) - free resources aimed to help creatives
