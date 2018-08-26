@@ -6,6 +6,7 @@ Just a bunch of my favorite resources for stuff.
 * [Accessibility](#accessibility)
 * [Animation](#animation)
 * [Apprenticeships & Bootcamps](#apprenticeships--bootcamps)
+* [Branding](#branding)
 * [Business Development](#business-development)
 * [Cheatsheets](#cheatsheets)
 * [Client Feedback](#client-feedback)
@@ -63,6 +64,9 @@ Just a bunch of my favorite resources for stuff.
 * [firehose](http://www.thefirehoseproject.com/) - your path to a software career
 * [udacity nanodegree](https://www.udacity.com/nanodegree) - master in-demand skills
 * [whitespace](http://whitespacecrew.com/) - selective design program connecting designers with rising tech startups
+
+## Branding
+* [responsive logos](http://responsivelogos.co.uk/) - an exploration into scalable logos for the modern web.
 
 ## Business Development
 * [the directory](http://www.thedirectory.io/) - discover design agencies and get a job!
