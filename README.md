@@ -51,6 +51,7 @@ Just a bunch of my favorite resources for stuff.
 * [visual website optimizer](https://vwo.com/)
 
 ## Accessibility
+* [aria design patterns](https://www.w3.org/TR/wai-aria-practices/) - great resource for figuring out what kind of keyboard support complex components should implement
 * [the accessibility cheatsheet](http://bitsofco.de/2015/the-accessibility-cheatsheet/) - practical examples of accessibility guidelines implementation
 * [web content accessibility guidelines](https://www.w3.org/TR/WCAG20/) -  a wide range of recommendations for making Web content more accessible
 * [WebAIM's WCAG 2 Checklist](https://webaim.org/standards/wcag/checklist) - checklist of recommendations for implementing accessibility principles and techniques for those seeking WCAG conformance
