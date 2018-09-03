@@ -113,7 +113,6 @@ Just a bunch of my favorite resources for stuff.
 * [get the simple guide](http://rogerdudler.github.io/git-guide/) - just a simple guide for getting started with git. no deep shit ;)
 * [embed responsively](http://embedresponsively.com/) - creates a responsive iframe for videos
 * [emmett cheatsheet](http://docs.emmet.io/cheat-sheet/) - the essential tool for web developers
-* [free frontend](http://freefrontend.com/) - collection of frontend code snippets
 * [front-end checklist](https://frontendchecklist.io/) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
 * [github cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf) - the most important and commonly used Git commands for easy reference
 * [glitch](https://glitch.com/) - glitch is the friendly community where you'll build the app of your dreams
@@ -128,6 +127,7 @@ Just a bunch of my favorite resources for stuff.
 
 ### Code Snippets
 * [codrops](http://tympanus.net/codrops/) - inspirational code snippets
+* [free frontend](http://freefrontend.com/) - collection of frontend code snippets
 * [form storage](https://appleple.github.io/form-storage/) - A JavaScript library stores the form-data to the localstorage so you don't have to fill the form again.
 
 ### CSS Grid
