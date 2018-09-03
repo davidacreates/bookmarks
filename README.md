@@ -126,6 +126,7 @@ Just a bunch of my favorite resources for stuff.
 * [writemaps](https://writemaps.com/) - WriteMaps helps you make sitemaps and gather content
 
 ### Code Snippets
+* [anime.js](https://github.com/juliangarnier/anime) - lightweight JavaScript animation library
 * [codrops](http://tympanus.net/codrops/) - inspirational code snippets
 * [free frontend](http://freefrontend.com/) - collection of frontend code snippets
 * [form storage](https://appleple.github.io/form-storage/) - A JavaScript library stores the form-data to the localstorage so you don't have to fill the form again.
