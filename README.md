@@ -181,7 +181,7 @@ Just a bunch of my favorite resources for stuff.
 * [web gradients](https://webgradients.com) - free collection of 180 linear gradients that you can use as
 content backdrops in any part of your website
 
-### Inspiration
+### Color Inspiration
 * [the colorbook](https://colorbook.me) - the latest & most popular color palettes trending on dribbble right now
 * [color hunt](http://colorhunt.co/) - a place to discover and share beautiful color palettes
 * [design seeds](https://www.design-seeds.com/by-color/) - daily dose of color inspiration
