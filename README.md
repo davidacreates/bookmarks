@@ -53,6 +53,7 @@ Just a bunch of my favorite resources for stuff.
 ## Accessibility
 * [aria design patterns](https://www.w3.org/TR/wai-aria-practices/#aria_ex) - great resource for figuring out what kind of keyboard support complex components should implement
 * [aria in html](https://www.w3.org/TR/html-aria/) - web developer requirements for use of ARIA in HTML
+* [aria relationship attributes](https://www.w3.org/TR/wai-aria-1.1/#attrs_relationships)- lists attributes that indicate relationships or associations between elements
 * [the accessibility cheatsheet](http://bitsofco.de/2015/the-accessibility-cheatsheet/) - practical examples of accessibility guidelines implementation
 * [web content accessibility guidelines](https://www.w3.org/TR/WCAG20/) -  a wide range of recommendations for making Web content more accessible
 * [WebAIM's WCAG 2 Checklist](https://webaim.org/standards/wcag/checklist) - checklist of recommendations for implementing accessibility principles and techniques for those seeking WCAG conformance
