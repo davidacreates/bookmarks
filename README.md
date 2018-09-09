@@ -188,6 +188,7 @@ content backdrops in any part of your website
 * [color hunt](http://colorhunt.co/) - a place to discover and share beautiful color palettes
 * [design seeds](https://www.design-seeds.com/by-color/) - daily dose of color inspiration
 * [hue snap](https://www.huesnap.com/) - color inspirations for creatives around the world
+* [picular](https://picular.co/) - google, but for colors
 
 ## Content Gathering
 * [write maps](https://writemaps.com/) - make sitemaps and gather content
