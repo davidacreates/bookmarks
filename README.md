@@ -165,6 +165,7 @@ Just a bunch of my favorite resources for stuff.
 * [duotone shape factory](https://duotone.shapefactory.co/) - quickly create duotone photos
 
 ### Generators
+* [0 to 255](http://www.0to255.com) - color tool to find lighter and darker colors
 * [ambience](http://ambiance.somethingjustlikethis.com/) - color palette generator
 * [color converter](https://www.w3schools.com/colors/colors_converter.asp) - convert colors and create a range palette
 * [color mind](http://colormind.io/bootstrap/) - color scheme generator that uses deep learning
