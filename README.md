@@ -133,6 +133,7 @@ Just a bunch of my favorite resources for stuff.
 ### Code Snippets
 * [anime.js](https://github.com/juliangarnier/anime) - lightweight JavaScript animation library
 * [codrops](http://tympanus.net/codrops/) - inspirational code snippets
+* [css media queries](https://gist.github.com/gokulkrishh/242e68d1ee94ad05f488) - a list of media queries for devices
 * [free frontend](http://freefrontend.com/) - collection of frontend code snippets
 * [form storage](https://appleple.github.io/form-storage/) - A JavaScript library stores the form-data to the localstorage so you don't have to fill the form again.
 
