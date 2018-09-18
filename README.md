@@ -299,6 +299,7 @@ for Rapid UI Development
 * [one page love](https://onepagelove.com/) - gallery of one page websites
 
 ## Job Search
+* [awesome remote job](https://github.com/lukasz-madon/awesome-remote-job) - a curated list of awesome remote jobs and resources
 * [hired](https://hired.com/) - hired matches outstanding people with the world's most innovative companies
 * [huntr](https://huntr.co) - Save jobs from any website and view them anytime in your Huntr dashboard.
 
