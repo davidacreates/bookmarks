@@ -12,7 +12,13 @@
 - [Set](#set)
 
 ## Async Functions
-- `async`
+- `async` keyword
+- `await` keyword
+- object async
+- class async
+- `try`
+- `catch`
+- `await Promise.all([])`
 
 ## Class Keyword
 - `constructor()` method
