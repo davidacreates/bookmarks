@@ -6,7 +6,8 @@
 - [Class Keyword](#class-keyword)
 - [Set Object](#set-object)
 - [Map and Weak Map Objects](#map-and-weak-map-objects)
-- [Promis Object](#promise-object)
+- [Promise Object](#promise-object)
+- [Generator Functions](#generator-functions)
 
 
 ## Constructor Function
@@ -71,3 +72,11 @@
 - `Promise` chaining
   - `then()` method
   - return `data`
+
+## Generator Functions
+- `yield` keyword
+- `next()` method
+- `value` property
+- `Symbol.iterator`
+- `for of` loop
+- async generators
