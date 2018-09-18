@@ -8,14 +8,15 @@
 - [Map and Weak Map Objects](#map-and-weak-map-objects)
 - [Promise Object](#promise-object)
 - [Generator Functions](#generator-functions)
+- [Jasmine Testing](#jasmine-testing)
 
 
 ## Constructor Function
 - `new` keyword
 - `this` keyword (ES5)
-- `call()` method
-- `apply()` method
-- `bind()` method
+  - `call()` method
+  - `apply()` method
+  - `bind()` method
 - `arguments` keyword
 
 ## Prototypal Inheritance
@@ -33,8 +34,8 @@
 - class methods
 - `static` method
 - subclass
-- `extends` keyword
-- `super` keyword
+  - `extends` keyword
+  - `super` keyword
 
 ## Set Object
 - `add()` method
@@ -80,3 +81,32 @@
 - `Symbol.iterator`
 - `for of` loop
 - async generators
+
+## Jasmine Testing
+- `describe` function
+  - suite
+  - `it` function
+  - `expect` function
+  - actual
+- matchers
+  - `toBe` / `not.toBe`
+  - `toBeCloseTo`
+  - `toBeDefined`
+  - `toBeFalsey` / `toBeTruthy`
+  - `toBeGreaterThan` / `toBeLessThan`
+  - `toContain`
+  - `toEqual`
+  - `.not`
+- `jasmine.any()`
+- `beforeEach` / `afterEach` functions
+- `beforeAll` / `afterAll` functions
+- spies
+  - `createSpy`
+  - `addSpy`
+  - `spyOn`
+  - `toHaveBeenCalled` / `toHaveBeenCalledWith`
+  - `callThrough`
+- clock
+  - `jasmine.clock().install()` / `jasmine.clock().uninstall()` functions
+  - `tick` function
+  - `done` parameter
