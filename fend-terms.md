@@ -5,7 +5,7 @@
 - [Prototypal Inheritance](#prototypal-inheritance)
 - [Class Keyword](#class-keyword)
 - [Set Object](#set-object)
-- [Map and Weak Map Objects](map-and-weak-map-objects)
+- [Map & Weak Map Objects](#map-&-weak-map-objects)
 
 
 ## Constructor Function
@@ -45,7 +45,7 @@
 - `for of` loop
 - `WeakSet` constructor
 
-## Map and Weak Map Objects
+## Map & Weak Map Objects
 - `set()` method
 - `delete()` method
 - `clear()` method
