@@ -1,4 +1,4 @@
-# List of Helpful FEND Terms
+# List of Helpful FEND JS Terms
 
 ## Table of Contents
 - [Constructor Function](#constructor-function)
@@ -6,6 +6,7 @@
 - [Class Keyword](#class-keyword)
 - [Set Object](#set-object)
 - [Map and Weak Map Objects](#map-and-weak-map-objects)
+- [Promis Object](#promise-object)
 
 
 ## Constructor Function
@@ -57,3 +58,16 @@
 - `keys()` method
 - `values()` method
 - `size` property
+
+## Promise Object
+- `Promise` constructor
+  - `new Promise()` constructor function
+  - `callback` function
+  - `resolve` parameter
+  - `reject` parameter
+  - `then()` method
+  - `catch()` method
+  - `setTimeOut()` method
+- `Promise` chaining
+  - `then()` method
+  - return `data`
