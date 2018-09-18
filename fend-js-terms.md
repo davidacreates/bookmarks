@@ -62,17 +62,17 @@
 - `size` property
 
 ## Promise Object
-- `Promise` constructor
-  - `new Promise()` constructor function
-  - `callback` function
-  - `resolve` parameter
-  - `reject` parameter
-  - `then()` method
-  - `catch()` method
-  - `setTimeOut()` method
+- `new Promise()` constructor function
+- `callback` function
+- `resolve` parameter
+- `reject` parameter
+- `then()` method
+- `catch()` method
+- `setTimeOut()` method
 - `Promise` chaining
-  - `then()` method
-  - return `data`
+- `then()` method
+- return `data`
+- `promise.all`
 
 ## Generator Functions
 - `yield` keyword
