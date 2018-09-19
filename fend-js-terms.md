@@ -1,24 +1,15 @@
 # List of Helpful FEND JS Terms
 
 ## Table of Contents
-- [Async Functions](#async-functions)
 - [Class Keyword](#class-keyword)
 - [Constructor Function](#constructor-function)
+- [Fetch API](#fetch-api)
 - [Generator Functions](#generator-functions)
 - [Jasmine Testing](#jasmine-testing)
 - [Map and Weak Map](#map-and-weak-map)
 - [Promises](#promises)
 - [Prototypes](#prototypes)
 - [Set](#set)
-
-## Async Functions
-- `async` keyword
-- `await` keyword
-- object async
-- class async
-- `try`
-- `catch`
-- `await Promise.all([])`
 
 ## Class Keyword
 - `constructor()` method
@@ -36,6 +27,14 @@
   - `apply()` method
   - `bind()` method
 - `arguments` keyword
+
+## Fetch API
+- `then()`
+- `res` - response
+- `res.json()`
+- `res.text()`
+- `data`
+- `catch`
 
 ## Generator Functions
 - `yield` keyword
@@ -89,17 +88,18 @@
 
 ## Promises
 - `new Promise()` constructor function
-  - `callback` function
   - `resolve` parameter
   - `reject` parameter
   - `then()` method
   - `catch()` method
-- `setTimeOut()` method
-- `promise.all`
-- `async` keyword
-  - `await` keyword
+  - `setTimeOut()` method
+- `Promise.all`
+  - values
+  - fetch
+- `async`/ `await`
   - object async
   - class async
+  - `await fetch`
   - `try`
   - `catch`
   - `await Promise.all([])`
