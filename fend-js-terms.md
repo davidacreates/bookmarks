@@ -89,13 +89,20 @@
 
 ## Promises
 - `new Promise()` constructor function
-- `callback` function
-- `resolve` parameter
-- `reject` parameter
-- `then()` method
-- `catch()` method
+  - `callback` function
+  - `resolve` parameter
+  - `reject` parameter
+  - `then()` method
+  - `catch()` method
 - `setTimeOut()` method
 - `promise.all`
+- `async` keyword
+  - `await` keyword
+  - object async
+  - class async
+  - `try`
+  - `catch`
+  - `await Promise.all([])`
 
 ## Prototypes
 - prototype chain
