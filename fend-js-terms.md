@@ -35,6 +35,10 @@
 - `res.text()`
 - `data`
 - `catch`
+- `method`
+- `headers`
+- `body`
+- `JSON.stringify`
 
 ## Generator Functions
 - `yield` keyword
