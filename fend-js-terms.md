@@ -9,6 +9,7 @@
 - [Map and Weak Map](#map-and-weak-map)
 - [Promises](#promises)
 - [Prototypes](#prototypes)
+- [Service Workers](#service-workers)
 - [Set](#set)
 
 ## Class Keyword
@@ -116,6 +117,17 @@
 - `isPrototypeOf` method
 - `Object.getPrototypeOf` method
 - `Object.create` function
+
+## Service Workers
+- progressive web apps
+- network proxy
+- promises
+- background sync
+- lifecycle
+  - register
+  - install
+  - activate
+  - e.waitUntil
 
 ## Set
 - `add()` method
