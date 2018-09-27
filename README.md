@@ -41,7 +41,6 @@ Just a bunch of my favorite resources for stuff.
 * [Website Builders](#website-builders)
 * [Website Downloaders](#website-downloaders)
 * [Wireframing](#wireframing)
-* [Wordpress](#wordpress)
 
 ## A-B Testing
 * [crazy egg](https://www.crazyegg.com/)
@@ -275,12 +274,14 @@ for Rapid UI Development
 * [land book](http://land-book.com/) - product landing page gallery
 * [pages xyz](http://www.pages.xyz/type/pricing) - a curated list of the best pricing, app, store, product and checkout pages
 * [product pages](http://www.productpages.xyz/) - listing the best product, price, and store pages out there
+
 ### Email
 * [beautiful email newsletters](http://beautiful-email-newsletters.com/) - the #1 html email gallery showcase in the world
 * [email gallery](http://www.email-gallery.com/) - find inspiration in the collection of emails from various companies and individuals
 * [just good copy](https://www.goodemailcopy.com/) - email copy from great companies
 * [html email gallery](http://www.htmlemailgallery.com/) - help locate the emails and resources that suit your needs
 * [really good emails](https://reallygoodemails.com/) - the best email designs in the universe
+
 ### General
 * [best folios](http://bestfolios.com/home) - the best portfolio websites and resumes from ui/ux designers, graphic designers and motion designers
 * [beta list](http://betalist.com/) - discover new start ups early
@@ -295,6 +296,7 @@ for Rapid UI Development
 * [ui movement](https://uimovement.com/) - place to find some really nice animations
 * [upLabs](https://www.uplabs.com/) - daily ui inspiration & downloads
 * [web design inspiration](http://www.webdesign-inspiration.com/) - we help web designers to get inspired
+
 ### Landing Pages
 * [good web design](http://www.goodweb.design) - the best landing pages, organized by section
 * [land book](http://land-book.com/) - product landing page gallery
