@@ -137,6 +137,9 @@ Just a bunch of my favorite resources for stuff.
 * [free frontend](http://freefrontend.com/) - collection of frontend code snippets
 * [form storage](https://appleple.github.io/form-storage/) - A JavaScript library stores the form-data to the localstorage so you don't have to fill the form again.
 
+### CMS
+* [vapid](https://www.vapid.com/) - an intentionally simple content management system built on the idea that you can create a custom dashboard without ever leaving the HTML
+
 ### CSS Grid
 * [css grid 12 column layout](https://erikmonjas.github.io/css-grid-12-column-layout/) - 12-column grid framework using display:grid. includes the necessary prefixes to work in internet explorer.
 * [CSS Gridish](https://medium.freecodecamp.org/introducing-css-gridish-helping-teams-to-adapt-css-grid-today-3e031ab222de) - Introducing CSS Gridish: An Open Source Tool to Help Your Team Adapt CSS Grid Today
