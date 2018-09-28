@@ -163,6 +163,7 @@ Just a bunch of my favorite resources for stuff.
 
 ### Accessibility
 * [open color](https://yeun.github.io/open-color/) - ui color theme perceptible by the color blind
+* [computer vision](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/) - generate alt txt for images using machine learning
 
 ### Duotone
 * [duotone shape factory](https://duotone.shapefactory.co/) - quickly create duotone photos
