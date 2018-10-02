@@ -9,6 +9,7 @@
 - [Map and Weak Map](#map-and-weak-map)
 - [Promises](#promises)
 - [Prototypes](#prototypes)
+- [React](#react)
 - [Service Workers](#service-workers)
 - [Set](#set)
 
@@ -117,6 +118,12 @@
 - `isPrototypeOf` method
 - `Object.getPrototypeOf` method
 - `Object.create` function
+
+## React
+- `componentWillMount()`
+- `componentDidMount()`
+- `componentWillUnmount()`
+- `componentWillReceiveProps()`
 
 ## Service Workers
 - progressive web apps
