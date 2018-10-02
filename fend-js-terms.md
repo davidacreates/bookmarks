@@ -129,6 +129,7 @@
 - `componentWillReceiveProps()`
 - `defaultProps`
 - `PropTypes`
+- `React.Fragment`
 
 ## Service Workers
 - progressive web apps
