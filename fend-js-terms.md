@@ -128,6 +128,7 @@
 - `componentWillUnmount()`
 - `componentWillReceiveProps()`
 - `defaultProps`
+- `PropTypes`
 
 ## Service Workers
 - progressive web apps
