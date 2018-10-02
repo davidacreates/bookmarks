@@ -120,6 +120,8 @@
 - `Object.create` function
 
 ## React
+- `render()`
+- `constructor()`
 - `this.setState()`
 - `componentWillMount()`
 - `componentDidMount()`
