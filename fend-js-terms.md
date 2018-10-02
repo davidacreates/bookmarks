@@ -120,6 +120,7 @@
 - `Object.create` function
 
 ## React
+- `this.setState()`
 - `componentWillMount()`
 - `componentDidMount()`
 - `componentWillUnmount()`
