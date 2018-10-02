@@ -130,6 +130,7 @@
 - `defaultProps`
 - `PropTypes`
 - `React.Fragment`
+- `ref`
 
 ## Service Workers
 - progressive web apps
