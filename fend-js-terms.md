@@ -131,6 +131,7 @@
 - `PropTypes`
 - `React.Fragment`
 - `ref`
+- `Object.keys`
 
 ## Service Workers
 - progressive web apps
