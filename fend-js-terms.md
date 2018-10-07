@@ -127,6 +127,7 @@
 - `componentDidMount()`
 - `componentWillUnmount()`
 - `componentWillReceiveProps()`
+- `componentDidCatch()`
 - `defaultProps`
 - `PropTypes`
 - `React.Fragment`
