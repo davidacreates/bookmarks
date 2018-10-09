@@ -127,6 +127,7 @@ Just a bunch of my favorite resources for stuff.
 * [mailtrap](https://mailtrap.io/) - email testing for dev teams
 * [micron.js](https://webkul.github.io/micron/) - a [μ] microInteraction library built with css animations and controlled by javaScript power
 * [pramp](https://www.pramp.com/) - practice coding interviews for free
+* [programmable web](https://www.programmableweb.com/) - leading source of news and information about Internet-based application programming interfaces (APIs)
 * [writemaps](https://writemaps.com/) - WriteMaps helps you make sitemaps and gather content
 
 ### Code Snippets
