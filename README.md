@@ -19,7 +19,6 @@ Just a bunch of my favorite resources for stuff.
 * [Icons](#icons)
 * [Image Optimization](#image-optimization)
 * [Inspiration](#inspiration)
-* [Job Search](#job-search)
 * [Personal Development](#personal-development)
 * [Project Management](#project-management)
 * [Proposals & Briefs](#proposals-&-briefs)
@@ -142,12 +141,28 @@ Just a bunch of my favorite resources for stuff.
 * [vapid](https://www.vapid.com/) - an intentionally simple content management system built on the idea that you can create a custom dashboard without ever leaving the HTML
 
 ### CSS Grid
-* [css grid 12 column layout](https://erikmonjas.github.io/css-grid-12-column-layout/) - 12-column grid framework using display:grid. includes the necessary prefixes to work in internet explorer.
-* [CSS Gridish](https://medium.freecodecamp.org/introducing-css-gridish-helping-teams-to-adapt-css-grid-today-3e031ab222de) - Introducing CSS Gridish: An Open Source Tool to Help Your Team Adapt CSS Grid Today
+* [css grid 12 column layout](http://tinyurl.com/yamslcty) - 12-column grid framework using display:grid. includes the necessary prefixes to work in internet explorer.
+* [CSS Gridish](http://tinyurl.com/y7r8nu4k) - Introducing CSS Gridish: An Open Source Tool to Help Your Team Adapt CSS Grid Today
 * [Grid](http://grid.malven.co/) - A Visual Cheatsheet for CSS Grid Layout
 
 ### Editors
 * [VSCode Themes](https://vscodethemes.com/) - A collection of some of the most popular themes for Visual Studio Code grouped by categories (Trending, Dark & Light)
+
+### Git
+* [How to become a Git expert](http://tinyurl.com/y7zujsyk) - helpful article on git commands in real world situations
+
+### Interviewing
+* [code path](http://codepath.com/) - 8-week course covering all the most frequently asked interview questions from data structures to system design
+* [cracking the code interview](http://www.crackingthecodinginterview.com/) - book on passing code interviews
+* [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512) - explanations of the tradeoffs involved in common system design questions, such as how to design Instagram
+* [interview cake](https://www.interviewcake.com/) - a guide that explains the most common patterns found in algorithmic thinking
+* [leetcode](https://leetcode.com/) - endless practice problems
+
+### Job Boards
+* [awesome remote job](https://github.com/lukasz-madon/awesome-remote-job) - a curated list of awesome remote jobs and resources
+* [hired](https://hired.com/) - hired matches outstanding people with the world's most innovative companies
+* [hiring without whiteboards](https://github.com/poteto/hiring-without-whiteboards) - companies that don't have a broken hiring process
+* [huntr](https://huntr.co) - Save jobs from any website and view them anytime in your Huntr dashboard.
 
 ## Conferences
 * [ux week](http://uxweek.com/) - four days of community, inspiration and skills building.
@@ -165,7 +180,7 @@ Just a bunch of my favorite resources for stuff.
 
 ### Accessibility
 * [open color](https://yeun.github.io/open-color/) - ui color theme perceptible by the color blind
-* [computer vision](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/) - generate alt txt for images using machine learning
+* [computer vision](http://tinyurl.com/zejavwf) - generate alt txt for images using machine learning
 
 ### Duotone
 * [duotone shape factory](https://duotone.shapefactory.co/) - quickly create duotone photos
@@ -305,19 +320,6 @@ for Rapid UI Development
 * [land book](http://land-book.com/) - product landing page gallery
 * [lapa](http://lapa.ninja/) - landing page design inspiration
 * [one page love](https://onepagelove.com/) - gallery of one page websites
-
-## Job Search
-* [awesome remote job](https://github.com/lukasz-madon/awesome-remote-job) - a curated list of awesome remote jobs and resources
-* [hired](https://hired.com/) - hired matches outstanding people with the world's most innovative companies
-* [hiring without whiteboards](https://github.com/poteto/hiring-without-whiteboards) - companies that don't have a broken hiring process
-* [huntr](https://huntr.co) - Save jobs from any website and view them anytime in your Huntr dashboard.
-
-### Interviewing
-* [code path](http://codepath.com/) - 8-week course covering all the most frequently asked interview questions from data structures to system design
-* [cracking the code interview](http://www.crackingthecodinginterview.com/) - book on passing code interviews
-* [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512) - explanations of the tradeoffs involved in common system design questions, such as how to design Instagram
-* [interview cake](https://www.interviewcake.com/) - a guide that explains the most common patterns found in algorithmic thinking
-* [leetcode](https://leetcode.com/) - endless practice problems
 
 ## Project Management
 * [milanote](http://www.milanote.com/) - the notes app for creatives
