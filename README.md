@@ -309,7 +309,15 @@ for Rapid UI Development
 ## Job Search
 * [awesome remote job](https://github.com/lukasz-madon/awesome-remote-job) - a curated list of awesome remote jobs and resources
 * [hired](https://hired.com/) - hired matches outstanding people with the world's most innovative companies
+* [hiring without whiteboards](https://github.com/poteto/hiring-without-whiteboards) - companies that don't have a broken hiring process
 * [huntr](https://huntr.co) - Save jobs from any website and view them anytime in your Huntr dashboard.
+
+### Interviewing
+* [code path](http://codepath.com/) - 8-week course covering all the most frequently asked interview questions from data structures to system design
+* [cracking the code interview](http://www.crackingthecodinginterview.com/) - book on passing code interviews
+* [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512) - explanations of the tradeoffs involved in common system design questions, such as how to design Instagram
+* [interview cake](https://www.interviewcake.com/) - a guide that explains the most common patterns found in algorithmic thinking
+* [leetcode](https://leetcode.com/) - endless practice problems
 
 ## Project Management
 * [milanote](http://www.milanote.com/) - the notes app for creatives
