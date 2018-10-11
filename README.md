@@ -8,7 +8,6 @@ Just a bunch of my favorite resources for stuff.
 * [Apprenticeships & Bootcamps](#apprenticeships--bootcamps)
 * [Branding](#branding)
 * [Business Development](#business-development)
-* [Cheatsheets](#cheatsheets)
 * [Client Feedback](#client-feedback)
 * [Coding](#coding)
 * [Color](#color)
@@ -77,31 +76,6 @@ Just a bunch of my favorite resources for stuff.
 * [logomakr](https://logomakr.com/) - make logos easily with icons
 * [resume.io](https://resume.io) - build your job-winning resume in three simple steps
 
-## Cheatsheets
-* [chrome devtools](https://developers.google.com/web/tools/chrome-devtools/shortcuts)
-* [css](https://adam-marsden.co.uk/css-cheat-sheet)
-* [devhints](https://devhints.io/) - best collection of cheatsheets. must use.
-* [javascript](http://overapi.com/javascript)
-* [javascript es6+](https://devhints.io/es6)
-* [javascript regex](https://www.debuggex.com/cheatsheet/regex/javascript)
-* [jQuery](https://oscarotero.com/jquery/)
-* [react](https://devhints.io/react)
-* [redux](https://github.com/linkmesrl/react-journey-2016/blob/master/resources/egghead-redux-cheat-sheet-3-2-1.pdf)
-* [sass](https://devhints.io/sass)
-* [visual studio code](http://www.arungudelli.com/microsoft/visual-studio-code-keyboard-shortcut-cheat-sheet-windows-mac-linux/)
-* [visual studio code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
-* [vue](https://vuejs-tips.github.io/cheatsheet/)
-
-### Flexbox
-* [css tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - a complete guide to flexbox
-* [flexbox cheatsheet](https://yoksel.github.io/flex-cheatsheet/) - interactive flexbox tool
-* [flexbox froggy](http://flexboxfroggy.com) -  a game where you help Froggy and friends by writing CSS code
-
-### Git
-* [atlassian](http://cloud.orangemooncreative.com/1l3X2w1G0p1U/atlassian-git-cheatsheet.pdf)
-* [github](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
-* [udacity](http://cloud.orangemooncreative.com/3n3m31330L0l/git_cheat_sheet.pdf)
-
 ## Client Feedback
 * [cycles](https://cycleshq.com/) - makes it super easy for clients to give feedback on your web projects
 * [juntoo](https://juntoo.co/) - collect and deliver feedback direcly on live web pages
@@ -128,6 +102,31 @@ Just a bunch of my favorite resources for stuff.
 * [pramp](https://www.pramp.com/) - practice coding interviews for free
 * [programmable web](https://www.programmableweb.com/) - leading source of news and information about Internet-based application programming interfaces (APIs)
 * [writemaps](https://writemaps.com/) - WriteMaps helps you make sitemaps and gather content
+
+### Cheatsheets
+* [chrome devtools](https://developers.google.com/web/tools/chrome-devtools/shortcuts)
+* [css](https://adam-marsden.co.uk/css-cheat-sheet)
+* [devhints](https://devhints.io/) - best collection of cheatsheets. must use.
+* [javascript](http://overapi.com/javascript)
+* [javascript es6+](https://devhints.io/es6)
+* [javascript regex](https://www.debuggex.com/cheatsheet/regex/javascript)
+* [jQuery](https://oscarotero.com/jquery/)
+* [react](https://devhints.io/react)
+* [redux](https://github.com/linkmesrl/react-journey-2016/blob/master/resources/egghead-redux-cheat-sheet-3-2-1.pdf)
+* [sass](https://devhints.io/sass)
+* [visual studio code](http://www.arungudelli.com/microsoft/visual-studio-code-keyboard-shortcut-cheat-sheet-windows-mac-linux/)
+* [visual studio code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+* [vue](https://vuejs-tips.github.io/cheatsheet/)
+
+#### Flexbox
+* [css tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - a complete guide to flexbox
+* [flexbox cheatsheet](https://yoksel.github.io/flex-cheatsheet/) - interactive flexbox tool
+* [flexbox froggy](http://flexboxfroggy.com) -  a game where you help Froggy and friends by writing CSS code
+
+#### Git
+* [atlassian](http://cloud.orangemooncreative.com/1l3X2w1G0p1U/atlassian-git-cheatsheet.pdf)
+* [github](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+* [udacity](http://cloud.orangemooncreative.com/3n3m31330L0l/git_cheat_sheet.pdf)
 
 ### Code Snippets
 * [anime.js](https://github.com/juliangarnier/anime) - lightweight JavaScript animation library
