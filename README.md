@@ -85,13 +85,9 @@ Just a bunch of my favorite resources for stuff.
 * [boilrplate](http://www.boilrplate.com/) - a curated directory of boilerplates to help you start your projects!
 * [bulma](http://bulma.io/) - A modern CSS framework based on Flexbox
 * [can i use](http://caniuse.com/) - up-to-date browser support tables for support of front-end web technologies
-* [css reference](http://cssreference.io/) - A free visual guide to CSS
 * [get credit card numbers](http://www.getcreditcardnumbers.com/) - Valid Credit Card Numbers for Testing Purposes!
-* [get the simple guide](http://rogerdudler.github.io/git-guide/) - just a simple guide for getting started with git. no deep shit ;)
 * [embed responsively](http://embedresponsively.com/) - creates a responsive iframe for videos
-* [emmett cheatsheet](http://docs.emmet.io/cheat-sheet/) - the essential tool for web developers
 * [front-end checklist](https://frontendchecklist.io/) - an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
-* [github cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf) - the most important and commonly used Git commands for easy reference
 * [glitch](https://glitch.com/) - glitch is the friendly community where you'll build the app of your dreams
 * [hacker rank](https://www.hackerrank.com/) - Practice coding. Compete. Find jobs.
 * [html reference](http://htmlreference.io/) - a free guide to HTML
@@ -107,11 +103,13 @@ Just a bunch of my favorite resources for stuff.
 * [devhints](https://devhints.io/) - best collection of cheatsheets. must use.
 
 #### CSS
-* [css](https://adam-marsden.co.uk/css-cheat-sheet)
-* [sass](https://devhints.io/sass)
+* [css](https://adam-marsden.co.uk/css-cheat-sheet) - adam marsden css cheatsheet
+* [css reference](http://cssreference.io/) - visual guide to CSS
+* [sass](https://devhints.io/sass) - devhints sass cheatsheet
 
 #### DevTools
 * [chrome devtools](https://developers.google.com/web/tools/chrome-devtools/shortcuts)
+* [emmett cheatsheet](http://docs.emmet.io/cheat-sheet/) - the essential tool for web developers
 * [visual studio code](http://www.arungudelli.com/microsoft/visual-studio-code-keyboard-shortcut-cheat-sheet-windows-mac-linux/)
 * [visual studio code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 
@@ -122,7 +120,9 @@ Just a bunch of my favorite resources for stuff.
 
 #### Git
 * [atlassian](http://cloud.orangemooncreative.com/1l3X2w1G0p1U/atlassian-git-cheatsheet.pdf)
+* [get the simple guide](http://rogerdudler.github.io/git-guide/) - just a simple guide for getting started with git.
 * [github](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+* [github cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf) - the most important and commonly used Git commands for easy reference
 * [udacity](http://cloud.orangemooncreative.com/3n3m31330L0l/git_cheat_sheet.pdf)
 
 #### JS
