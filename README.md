@@ -119,11 +119,10 @@ Just a bunch of my favorite resources for stuff.
 * [flexbox froggy](http://flexboxfroggy.com) -  a game where you help Froggy and friends by writing CSS code
 
 #### Git
-* [atlassian](http://cloud.orangemooncreative.com/1l3X2w1G0p1U/atlassian-git-cheatsheet.pdf)
+* [atlassian](http://tinyurl.com/ybwwk4k4) - git cheatsheet from the folks at atlassian
 * [get the simple guide](http://rogerdudler.github.io/git-guide/) - just a simple guide for getting started with git.
-* [github](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+* [github](http://tinyurl.com/ya44faqm) - git cheatsheet from the folks at github
 * [github cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf) - the most important and commonly used Git commands for easy reference
-* [udacity](http://cloud.orangemooncreative.com/3n3m31330L0l/git_cheat_sheet.pdf)
 
 #### JS
 * [javascript](http://overapi.com/javascript)
