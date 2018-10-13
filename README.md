@@ -104,20 +104,16 @@ Just a bunch of my favorite resources for stuff.
 * [writemaps](https://writemaps.com/) - WriteMaps helps you make sitemaps and gather content
 
 ### Cheatsheets
-* [chrome devtools](https://developers.google.com/web/tools/chrome-devtools/shortcuts)
-* [css](https://adam-marsden.co.uk/css-cheat-sheet)
 * [devhints](https://devhints.io/) - best collection of cheatsheets. must use.
-* [es7 react/redux/graphql/react native snippets](http://tinyurl.com/yd9553ox) - react snippets used in vscode
-* [javascript](http://overapi.com/javascript)
-* [javascript es6+](https://devhints.io/es6)
-* [javascript regex](https://www.debuggex.com/cheatsheet/regex/javascript)
-* [jQuery](https://oscarotero.com/jquery/)
-* [react](https://devhints.io/react)
-* [redux](https://github.com/linkmesrl/react-journey-2016/blob/master/resources/egghead-redux-cheat-sheet-3-2-1.pdf)
+
+#### CSS
+* [css](https://adam-marsden.co.uk/css-cheat-sheet)
 * [sass](https://devhints.io/sass)
+
+#### DevTools
+* [chrome devtools](https://developers.google.com/web/tools/chrome-devtools/shortcuts)
 * [visual studio code](http://www.arungudelli.com/microsoft/visual-studio-code-keyboard-shortcut-cheat-sheet-windows-mac-linux/)
 * [visual studio code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
-* [vue](https://vuejs-tips.github.io/cheatsheet/)
 
 #### Flexbox
 * [css tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - a complete guide to flexbox
@@ -128,6 +124,17 @@ Just a bunch of my favorite resources for stuff.
 * [atlassian](http://cloud.orangemooncreative.com/1l3X2w1G0p1U/atlassian-git-cheatsheet.pdf)
 * [github](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 * [udacity](http://cloud.orangemooncreative.com/3n3m31330L0l/git_cheat_sheet.pdf)
+
+#### JS
+* [javascript](http://overapi.com/javascript)
+* [javascript es6+](https://devhints.io/es6)
+* [javascript regex](https://www.debuggex.com/cheatsheet/regex/javascript)
+* [jQuery](https://oscarotero.com/jquery/)
+
+#### React
+* [es7 react/redux/graphql/react native snippets](http://tinyurl.com/yd9553ox) - react snippets used in vscode
+* [react](https://devhints.io/react)
+* [redux](https://github.com/linkmesrl/react-journey-2016/blob/master/resources/egghead-redux-cheat-sheet-3-2-1.pdf)
 
 ### Code Snippets
 * [anime.js](https://github.com/juliangarnier/anime) - lightweight JavaScript animation library
