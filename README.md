@@ -107,6 +107,7 @@ Just a bunch of my favorite resources for stuff.
 * [chrome devtools](https://developers.google.com/web/tools/chrome-devtools/shortcuts)
 * [css](https://adam-marsden.co.uk/css-cheat-sheet)
 * [devhints](https://devhints.io/) - best collection of cheatsheets. must use.
+* [es7 react/redux/graphql/react native snippets](http://tinyurl.com/yd9553ox) - react snippets used in vscode
 * [javascript](http://overapi.com/javascript)
 * [javascript es6+](https://devhints.io/es6)
 * [javascript regex](https://www.debuggex.com/cheatsheet/regex/javascript)
