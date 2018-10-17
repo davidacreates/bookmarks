@@ -169,6 +169,7 @@ Just a bunch of my favorite resources for stuff.
 * [hired](https://hired.com/) - hired matches outstanding people with the world's most innovative companies
 * [hiring without whiteboards](https://github.com/poteto/hiring-without-whiteboards) - companies that don't have a broken hiring process
 * [huntr](https://huntr.co) - Save jobs from any website and view them anytime in your Huntr dashboard.
+* [key values](https://www.keyvalues.com/) - find engineering teams that share your values
 
 ## Conferences
 * [ux week](http://uxweek.com/) - four days of community, inspiration and skills building.
