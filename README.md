@@ -105,6 +105,7 @@ Just a bunch of my favorite resources for stuff.
 #### CSS
 * [css](https://adam-marsden.co.uk/css-cheat-sheet) - adam marsden css cheatsheet
 * [css reference](http://cssreference.io/) - visual guide to CSS
+* [rhythm in web typography](http://tinyurl.com/ya3yuv4c) - a cheat sheet to set up horizontal & vertical rhythm for type
 * [sass](https://devhints.io/sass) - devhints sass cheatsheet
 
 #### DevTools
