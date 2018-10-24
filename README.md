@@ -126,6 +126,7 @@ Just a bunch of my favorite resources for stuff.
 * [github cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf) - the most important and commonly used Git commands for easy reference
 
 #### JS
+* [async javascript](https://github.com/frontarm/async-javascript-cheatsheet) - deepen your understanding of promises, async and await
 * [javascript](http://overapi.com/javascript)
 * [javascript es6+](https://devhints.io/es6)
 * [javascript regex](https://www.debuggex.com/cheatsheet/regex/javascript)
