@@ -314,11 +314,10 @@ for Rapid UI Development
 * [beta list](http://betalist.com/) - discover new start ups early
 * [crayon](https://www.crayon.co/) - collection of inspirational websites
 * [designspiration](https://www.designspiration.net/) - the best design inspiration
-* [design revision] (https://designrevision.com/blog/) - blog of the latest design resources and tools
+* [design revision](https://designrevision.com/blog/) - blog of the latest design resources and tools
 * [foundation sites](http://zurb.com/responsive) - gallery of websites built on foundation
 * [little big details](http://littlebigdetails.com/) - Your daily dose of design inspiration.
 * [logojoy](https://www.logojoy.com/) - Logojoy makes it easy and fun to create a logo that you’ll be proud of
-* [siiimple](http://www.siiimple.com/) - best minimalist websites on the web
 * [typeinspire](http://typeinspire.com/) - typography inspiration and design gallery
 * [ui movement](https://uimovement.com/) - place to find some really nice animations
 * [upLabs](https://www.uplabs.com/) - daily ui inspiration & downloads
