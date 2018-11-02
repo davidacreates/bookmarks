@@ -337,6 +337,8 @@ for Rapid UI Development
 * [the project brief toolkit](http://project-brief.casual.pm/) - project brief templates
 
 ## Remote Work
+* [awesome remote job](https://github.com/lukasz-madon/awesome-remote-job) - a curated list of awesome remote jobs and resources
+* [pangian](https://pangian.com/) - the fastest-growing remote community
 * [remote ok](https://remoteok.io/) - find a job where you can work anywhere
 * [we work remotely](https://weworkremotely.com/) - the best place to find and list jobs that aren’t restricted by commutes or a particular geographic area
 * [working nomads](https://www.workingnomads.co/jobs) - we curate the best digital jobs for those looking to start their telecommuting career.
