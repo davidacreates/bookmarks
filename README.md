@@ -18,7 +18,7 @@ Just a bunch of my favorite resources for stuff.
 * [Icons](#icons)
 * [Image Optimization](#image-optimization)
 * [Inspiration](#inspiration)
-* [Personal Development](#personal-development)
+* [Logos](#logos)
 * [Project Management](#project-management)
 * [Proposals & Briefs](#proposals-&-briefs)
 * [Remote Work](#remote-work)
@@ -330,6 +330,9 @@ for Rapid UI Development
 * [land book](http://land-book.com/) - product landing page gallery
 * [lapa](http://lapa.ninja/) - landing page design inspiration
 * [one page love](https://onepagelove.com/) - gallery of one page websites
+
+## Logos
+* [politics and design](https://www.politicsanddesign.com) - a collection of every campaign logo from the 2018 election for United States Congress
 
 ## Project Management
 * [milanote](http://www.milanote.com/) - the notes app for creatives
