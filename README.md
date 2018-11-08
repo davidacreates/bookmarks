@@ -258,6 +258,7 @@ content backdrops in any part of your website
 for Rapid UI Development
 
 ## Icons
+* [box icons](https://boxicons.com/) - Carefully crafted premium vector icons, perfect for use in your next project, as a web component, font or as SVG.
 * [google material](https://www.materialpalette.com/icons) - material design icons
 * [grumpicon](http://www.grumpicon.com/) - Drag & Drop ur SVGs on the Grumpicon plz
 * [feather icons](https://feathericons.com/) - simply beautiful open source svg icons
