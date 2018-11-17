@@ -14,6 +14,7 @@ Just a bunch of my favorite resources for stuff.
 * [Content Marketing](#content-marketing)
 * [Design Systems](#design-systems)
 * [Email Marketing](#email-marketing)
+* [Figma](#figma)
 * [Frameworks](#frameworks)
 * [Icons](#icons)
 * [Image Optimization](#image-optimization)
@@ -245,6 +246,12 @@ content backdrops in any part of your website
 ### Tools
 * [email hunter](https://emailhunter.co/) - direct access to all the web's email addresses
 * [postmark app](https://postmarkapp.com/) - postmark makes it easy to send time-sensitive transactional email to your customers.
+
+## Figma
+* [figma crush](https://www.figmacrush.com/) - figma templates, ui kits & freebies
+* [figma sources](https://www.figmaresources.com/) - simple way for the you a designer in the Figma community to find or share free resources to inspire your next masterpiece
+* [figma templates](http://setproduct.com/) - huge components-based UI kits to complete your tasks faster
+
 ## Frameworks
 * [bulma](https://bulma.io) - a free and open source CSS framework based on Flexbox
 * [evie](https://evie.undraw.co) - a production-ready theme for your projects
