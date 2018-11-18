@@ -452,6 +452,7 @@ for Rapid UI Development
 * [good ui](https://www.goodui.org) - a running idea list of highly effective conversion patterns
 * [good to great ui animation tips](https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5) - practical suggestions to improve your ui micro-interactions
 * [top ten typography tips](http://www.toptentypography.tips) - a few easy tips on how to improve typography
+* [ui names](https://uinames.com/) - simple tool to generate fake names for use in designs and mockups.
 * [ux methods & deliverables](http://uxdesign.cc/ux-methods-deliverables/) - a list of the most common methods and deliverables produced by UX Designers
 * [ux project checklist](https://uxchecklist.github.io/) - a checklist for your ux
 
