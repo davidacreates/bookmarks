@@ -93,6 +93,7 @@ Just a bunch of my favorite resources for stuff.
 * [hacker rank](https://www.hackerrank.com/) - Practice coding. Compete. Find jobs.
 * [html reference](http://htmlreference.io/) - a free guide to HTML
 * [json placeholder](https://jsonplaceholder.typicode.com/) - fake Online REST API for Testing and Prototyping
+* [keycode](http://keycode.info/) - press any key to get the keycode
 * [list](http://lists.design/) - a gallery of real data ready to be placed in your design.
 * [mailtrap](https://mailtrap.io/) - email testing for dev teams
 * [micron.js](https://webkul.github.io/micron/) - a [μ] microInteraction library built with css animations and controlled by javaScript power
