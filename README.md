@@ -302,6 +302,7 @@ for Rapid UI Development
 ### Copy
 * [nishi](http://www.heynishi.com) - Copywriting matters: Boring brands, take note
 * [just good copy](http://www.goodemailcopy.com/) - email copy from great companies
+
 ### Ecomm
 * [beautiful stores](https://beautifulstores.com/) - inspiring e-comm stores
 * [cart craze](http://cartcraze.com/) - ecommerce website inspiration
@@ -328,8 +329,6 @@ for Rapid UI Development
 * [little big details](http://littlebigdetails.com/) - Your daily dose of design inspiration.
 * [logojoy](https://www.logojoy.com/) - Logojoy makes it easy and fun to create a logo that you’ll be proud of
 * [siteinspire](https://www.siteinspire.com/) - showcase of the finest web and interactive design
-* [typeinspiration](http://typespiration.com/) - free inspirational web font combinations with color palettes and ready-to-use HTML/CSS code.
-* [typeinspire](http://typeinspire.com/) - typography inspiration and design gallery
 * [ui movement](https://uimovement.com/) - place to find some really nice animations
 * [upLabs](https://www.uplabs.com/) - daily ui inspiration & downloads
 * [web design inspiration](http://www.webdesign-inspiration.com/) - we help web designers to get inspired
@@ -339,6 +338,11 @@ for Rapid UI Development
 * [land book](http://land-book.com/) - product landing page gallery
 * [lapa](http://lapa.ninja/) - landing page design inspiration
 * [one page love](https://onepagelove.com/) - gallery of one page websites
+
+### Typography
+* [just my type](https://justmytype.co/) - A collection of font pairings from Typekit and H&FJ.
+* [typeinspiration](http://typespiration.com/) - free inspirational web font combinations with color palettes and ready-to-use HTML/CSS code.
+* [typeinspire](http://typeinspire.com/) - typography inspiration and design gallery
 
 ## Logos
 * [politics and design](https://www.politicsanddesign.com) - a collection of every campaign logo from the 2018 election for United States Congress
