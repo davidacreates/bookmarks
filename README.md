@@ -340,9 +340,12 @@ for Rapid UI Development
 * [one page love](https://onepagelove.com/) - gallery of one page websites
 
 ### Typography
+* [fonts in use](https://fontsinuse.com/) - An independent archive of typography
+* [incredible types](http://incredibletypes.com/) - a curated collection and showcase of outstanding typography and design from around the world.
 * [just my type](https://justmytype.co/) - A collection of font pairings from Typekit and H&FJ.
 * [typeinspiration](http://typespiration.com/) - free inspirational web font combinations with color palettes and ready-to-use HTML/CSS code.
 * [typeinspire](http://typeinspire.com/) - typography inspiration and design gallery
+* [typewolf](https://www.typewolf.com/) - what’s trending in type
 
 ## Logos
 * [politics and design](https://www.politicsanddesign.com) - a collection of every campaign logo from the 2018 election for United States Congress
