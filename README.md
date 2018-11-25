@@ -328,6 +328,7 @@ for Rapid UI Development
 * [little big details](http://littlebigdetails.com/) - Your daily dose of design inspiration.
 * [logojoy](https://www.logojoy.com/) - Logojoy makes it easy and fun to create a logo that you’ll be proud of
 * [siteinspire](https://www.siteinspire.com/) - showcase of the finest web and interactive design
+* [typeinspiration](http://typespiration.com/) - free inspirational web font combinations with color palettes and ready-to-use HTML/CSS code.
 * [typeinspire](http://typeinspire.com/) - typography inspiration and design gallery
 * [ui movement](https://uimovement.com/) - place to find some really nice animations
 * [upLabs](https://www.uplabs.com/) - daily ui inspiration & downloads
