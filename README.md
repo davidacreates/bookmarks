@@ -190,6 +190,7 @@ Just a bunch of my favorite resources for stuff.
 * [transparent textures](https://www.transparenttextures.com) - easy to download transparent textures
 
 ### Accessibility
+* [color contrast checker](https://webaim.org/resources/contrastchecker/) - color tester for accessibility
 * [color safe](http://colorsafe.co/) - Empowering designers with beautiful and accessible color palettes based on WCAG Guidelines of text and background contrast ratios.
 * [open color](https://yeun.github.io/open-color/) - ui color theme perceptible by the color blind
 * [computer vision](http://tinyurl.com/zejavwf) - generate alt txt for images using machine learning
