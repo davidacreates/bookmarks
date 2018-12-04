@@ -341,14 +341,6 @@ for Rapid UI Development
 * [lapa](http://lapa.ninja/) - landing page design inspiration
 * [one page love](https://onepagelove.com/) - gallery of one page websites
 
-### Typography
-* [fonts in use](https://fontsinuse.com/) - An independent archive of typography
-* [incredible types](http://incredibletypes.com/) - a curated collection and showcase of outstanding typography and design from around the world.
-* [just my type](https://justmytype.co/) - A collection of font pairings from Typekit and H&FJ.
-* [typeinspiration](http://typespiration.com/) - free inspirational web font combinations with color palettes and ready-to-use HTML/CSS code.
-* [typeinspire](http://typeinspire.com/) - typography inspiration and design gallery
-* [typewolf](https://www.typewolf.com/) - what’s trending in type
-
 ## Logos
 * [politics and design](https://www.politicsanddesign.com) - a collection of every campaign logo from the 2018 election for United States Congress
 
@@ -445,17 +437,30 @@ for Rapid UI Development
 
 * [blokk](http://www.blokkfont.com/) - font for quick mock-ups and wireframing
 * [flow](http://danross.co/flow/) - typeface built for wireframing
-* [font pair](http://fontpair.co/) -  a tool showing a variety of suggested font pairings
-* [font joy](http://fontjoy.com/) - generate font combinations with deep learning
+* [typo guide](http://www.typogui.de/) - a pocket guide to master every day’s typographic adventures
+
+### Inspiration
+* [fonts in use](https://fontsinuse.com/) - An independent archive of typography
 * [fonts that people actually use](https://icons8.com/fonts/helvetica-neue/menlo) - fonts and fonts pairs are used on real websites
-* [mixfont](https://www.mixfont.com/) - A modern font generator
 * [google fonts combinations v1](https://www.behance.net/gallery/35768979/Typography-Google-Fonts-Combinations)
 * [google fonts combinations v2](https://www.behance.net/gallery/41054815/Typography-Google-Fonts-Combinations-Volume-2)
-* [typo guide](http://www.typogui.de/) - a pocket guide to master every day’s typographic adventures
-* [typo scan](http://typoscan.com) - a designer tool which can help you to scan typography of your favorite website
-* [typspiration](http://typespiration.com/) - inspirational web font combinations with color palettes and ready-to-use HTML/CSS code.
-* [typewolf](https://www.typewolf.com/google-fonts) - the 40 best google fonts
+* [incredible types](http://incredibletypes.com/) - a curated collection and showcase of outstanding typography and design from around the world.
+* [just my type](https://justmytype.co/) - A collection of font pairings from Typekit and H&FJ.
+* [typeinspiration](http://typespiration.com/) - free inspirational web font combinations with color palettes and ready-to-use HTML/CSS code.
+* [typeinspire](http://typeinspire.com/) - typography inspiration and design gallery
+* [typewolf](https://www.typewolf.com/) - what’s trending in type
 * [ultimate google font pairing](https://www.reliablepsd.com/ultimate-google-font-pairings/) - Collection of Google Font Pairings (Displayed Beautifully with Classic Art)
+
+### Type Foundries
+* [etcetera type co.](https://etc.supply/fonts/) - three typefaces
+* [florian karsten](https://fonts.floriankarsten.com) - two typefaces. one being a new grotesk.
+* [general type studio](https://www.generaltypestudio.com) - three typefaces
+
+### Tools
+* [font joy](http://fontjoy.com/) - generate font combinations with deep learning
+* [font pair](http://fontpair.co/) -  a tool showing a variety of suggested font pairings
+* [mixfont](https://www.mixfont.com/) - A modern font generator
+* [typo scan](http://typoscan.com) - a designer tool which can help you to scan typography of your favorite website
 
 ## UI-UX
 * [7 practical tips for cheating at design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886) - improving your designs with tactics instead of talent
