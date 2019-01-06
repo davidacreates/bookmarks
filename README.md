@@ -473,6 +473,7 @@ for Rapid UI Development
 * [top ten typography tips](http://www.toptentypography.tips) - a few easy tips on how to improve typography
 * [ui names](https://uinames.com/) - simple tool to generate fake names for use in designs and mockups.
 * [ux methods & deliverables](http://uxdesign.cc/ux-methods-deliverables/) - a list of the most common methods and deliverables produced by UX Designers
+* [ux myths](https://uxmyths.com/) - the most frequent user experience misconceptions and explains why they don't hold true
 * [ux project checklist](https://uxchecklist.github.io/) - a checklist for your ux
 
 ## Wireframing
