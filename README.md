@@ -335,6 +335,7 @@ for Rapid UI Development
 * [siteinspire](https://www.siteinspire.com/) - showcase of the finest web and interactive design
 * [ui movement](https://uimovement.com/) - place to find some really nice animations
 * [upLabs](https://www.uplabs.com/) - daily ui inspiration & downloads
+* [wave guide](https://www.waveguide.io/) - showcase of website inspiration w/ a random button
 * [web design inspiration](http://www.webdesign-inspiration.com/) - we help web designers to get inspired
 
 ### Landing Pages
