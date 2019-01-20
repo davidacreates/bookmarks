@@ -476,9 +476,11 @@ for Rapid UI Development
 * [ux project checklist](https://uxchecklist.github.io/) - a checklist for your ux
 
 ## Webflow
+* [digital bake](https://www.thedigitalbake.com/) - free webflow copy and paste components
+* [flowbase](https://www.flowbase.co/) - curated clonables & guides from the webflow community
 * [flowxo](https://flowxo.com/) - add a chatbot to any site
 * [rocket bots](https://rocketbots.io/) - chat automation for all your messaging apps
-* [story chief] (https://storychief.io/webflow-content-marketing) - content marketing hub
+* [story chief](https://storychief.io/webflow-content-marketing) - content marketing hub
 
 ## Wireframing
 * [blokk](http://www.blokkfont.com/) - font for quick mock-ups and wireframing
