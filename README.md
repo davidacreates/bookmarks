@@ -476,6 +476,7 @@ for Rapid UI Development
 * [ux project checklist](https://uxchecklist.github.io/) - a checklist for your ux
 
 ## Webflow
+* [cards 2.0](http://cards2.webflow.io/) - framework and ui kit
 * [digital bake](https://www.thedigitalbake.com/) - free webflow copy and paste components
 * [flowbase](https://www.flowbase.co/) - curated clonables & guides from the webflow community
 * [flowxo](https://flowxo.com/) - add a chatbot to any site
