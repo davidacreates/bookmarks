@@ -323,6 +323,7 @@ for Rapid UI Development
 * [really good emails](https://reallygoodemails.com/) - the best email designs in the universe
 
 ### General
+* [awwwards](http://tinyurl.com/ycm4xae3) - the awards of design, creativity and innovation on the internet*
 * [best folios](http://bestfolios.com/home) - the best portfolio websites and resumes from ui/ux designers, graphic designers and motion designers
 * [beta list](http://betalist.com/) - discover new start ups early
 * [crayon](https://www.crayon.co/) - collection of inspirational websites
@@ -331,7 +332,8 @@ for Rapid UI Development
 * [foundation sites](http://zurb.com/responsive) - gallery of websites built on foundation
 * [little big details](http://littlebigdetails.com/) - Your daily dose of design inspiration.
 * [logojoy](https://www.logojoy.com/) - Logojoy makes it easy and fun to create a logo that you’ll be proud of
-* [siteinspire](https://www.siteinspire.com/) - showcase of the finest web and interactive design
+* [pinterest](http://tinyurl.com/yc5tdlyg) - discover style inspiration
+* [siteinspire](https://www.siteinspire.com/) - showcase of the finest web and interactive design*
 * [ui movement](https://uimovement.com/) - place to find some really nice animations
 * [upLabs](https://www.uplabs.com/) - daily ui inspiration & downloads
 * [wave guide](https://www.waveguide.io/) - showcase of website inspiration w/ a random button
