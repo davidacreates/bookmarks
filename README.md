@@ -173,6 +173,11 @@ Just a bunch of my favorite resources for stuff.
 * [huntr](https://huntr.co) - Save jobs from any website and view them anytime in your Huntr dashboard.
 * [key values](https://www.keyvalues.com/) - find engineering teams that share your values
 
+### Media Queries
+* [browser stack](https://www.browserstack.com/test-on-the-right-mobile-devices) - test on the right mobile devices
+* [media queries for standard devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/) - css tricks exhaustive list of media queries
+* [my device](https://www.mydevice.io/#compare-devices) - exhaustive list of breakpoints and pixel ratios
+
 ## Conferences
 * [ux week](http://uxweek.com/) - four days of community, inspiration and skills building.
 
