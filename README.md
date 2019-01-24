@@ -23,6 +23,7 @@ Just a bunch of my favorite resources for stuff.
 * [Project Management](#project-management)
 * [Proposals & Briefs](#proposals-&-briefs)
 * [Remote Work](#remote-work)
+* [SEO](#seo)
 * [Shipping](#shipping)
 * [Sketch](#sketch)
 * [Social Media](#social-media)
@@ -365,6 +366,9 @@ for Rapid UI Development
 * [remote ok](https://remoteok.io/) - find a job where you can work anywhere
 * [we work remotely](https://weworkremotely.com/) - the best place to find and list jobs that aren’t restricted by commutes or a particular geographic area
 * [working nomads](https://www.workingnomads.co/jobs) - we curate the best digital jobs for those looking to start their telecommuting career.
+
+## Seo
+* [seo dashboard](https://www.jm-seo.org/dashboard/seo/) - list of tons of SEO tools
 
 ## Shipping
 * [lumi](https://www.lumi.com/) - better packaging supplies at the press of a button.
