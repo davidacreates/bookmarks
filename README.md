@@ -132,6 +132,7 @@ Just a bunch of my favorite resources for stuff.
 * [javascript es6+](https://devhints.io/es6)
 * [javascript regex](https://www.debuggex.com/cheatsheet/regex/javascript)
 * [jQuery](https://oscarotero.com/jquery/)
+* [vanilla javascript toolkit](https://vanillajstoolkit.com/) - A collection of JavaScript methods, helper functions, plugins, boilerplates, polyfills, and learning resources.
 
 #### React
 * [es7 react/redux/graphql/react native snippets](http://tinyurl.com/yd9553ox) - react snippets used in vscode
