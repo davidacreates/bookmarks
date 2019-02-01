@@ -170,6 +170,7 @@ Just a bunch of my favorite resources for stuff.
 
 ### Job Boards
 * [awesome remote job](https://github.com/lukasz-madon/awesome-remote-job) - a curated list of awesome remote jobs and resources
+* [dynamite jobs](https://dynamitejobs.co/) - Find 100% remote + paid jobs from great companies
 * [hired](https://hired.com/) - hired matches outstanding people with the world's most innovative companies
 * [hiring without whiteboards](https://github.com/poteto/hiring-without-whiteboards) - companies that don't have a broken hiring process
 * [huntr](https://huntr.co) - Save jobs from any website and view them anytime in your Huntr dashboard.
