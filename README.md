@@ -303,6 +303,7 @@ for Rapid UI Development
 * [jpeg.io](https://www.jpeg.io/) - convert any major image format into a highly optimized JPEG
 * [kraken](https://kraken.io/web-interface) - free online image optimizer
 * [pngquant](https://pngquant.org/) - command-line utility and a library for lossy compression of PNG images
+* [remove.bg](https://www.remove.bg/) - remove image background - 100% automatically in 5 seconds without a single click
 * [responsive image breakpoints generator](http://www.responsivebreakpoints.com/) - easily generate the optimal responsive image dimensions
 * [shrink me](https://shrinkme.app/) - online image optimiser. works offline too.
 * [tinypng](https://tinypng.com/) - advanced lossy compression for PNG images that preserves full alpha transparency
