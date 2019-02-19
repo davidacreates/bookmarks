@@ -341,6 +341,7 @@ for Rapid UI Development
 * [foundation sites](http://zurb.com/responsive) - gallery of websites built on foundation
 * [little big details](http://littlebigdetails.com/) - Your daily dose of design inspiration.
 * [logojoy](https://www.logojoy.com/) - Logojoy makes it easy and fun to create a logo that you’ll be proud of
+* [pages xyz](http://www.pages.xyz) - the place to curate and discover the best web pages
 * [pinterest](http://tinyurl.com/yc5tdlyg) - discover style inspiration
 * [siteinspire](https://www.siteinspire.com/) - showcase of the finest web and interactive design*
 * [ui movement](https://uimovement.com/) - place to find some really nice animations
