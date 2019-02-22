@@ -233,6 +233,7 @@ content backdrops in any part of your website
 * [design seeds](https://www.design-seeds.com/by-color/) - daily dose of color inspiration
 * [hue snap](https://www.huesnap.com/) - color inspirations for creatives around the world
 * [picular](https://picular.co/) - google, but for colors
+* [veerle](https://veerle.duoh.com/inspiration) - grid of color palette inspiration based on images (must use)
 
 ## Content Gathering
 * [write maps](https://writemaps.com/) - make sitemaps and gather content
