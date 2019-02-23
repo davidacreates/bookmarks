@@ -167,6 +167,7 @@ Just a bunch of my favorite resources for stuff.
 * [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512) - explanations of the tradeoffs involved in common system design questions, such as how to design Instagram
 * [interview cake](https://www.interviewcake.com/) - a guide that explains the most common patterns found in algorithmic thinking
 * [leetcode](https://leetcode.com/) - endless practice problems
+* [pramp](https://www.pramp.com/dev/uc-frontend) - practice frontend interviews for free
 
 ### Job Boards
 * [awesome remote job](https://github.com/lukasz-madon/awesome-remote-job) - a curated list of awesome remote jobs and resources
