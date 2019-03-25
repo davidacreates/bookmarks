@@ -142,6 +142,7 @@ Just a bunch of my favorite resources for stuff.
 ### Code Snippets
 * [anime.js](https://github.com/juliangarnier/anime) - lightweight JavaScript animation library
 * [codrops](http://tympanus.net/codrops/) - inspirational code snippets
+* [css effects snippets](https://emilkowalski.github.io/css-effects-snippets/) - collection of animations
 * [css media queries](https://gist.github.com/gokulkrishh/242e68d1ee94ad05f488) - a list of media queries for devices
 * [free frontend](http://freefrontend.com/) - collection of frontend code snippets
 * [graph js](https://graphjs.com/) - Make any website social with just a few lines of code.
